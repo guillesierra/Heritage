@@ -1617,14 +1617,14 @@ window.TREE_DATA = {
       "surname": "Daun",
       "sex": "F",
       "birth": {
-        "date": "1995",
+        "date": "1994",
         "place": null,
         "city": "",
         "region": "",
         "country": "Alemania"
       },
       "death": null,
-      "birthYear": 1995,
+      "birthYear": 1994,
       "deathYear": null,
       "living": true,
       "occupations": [],
