@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Visor local y auditoría del árbol genealógico Sierra-Maíllo.">
+  <title>Archivo familiar · Sierra–Maíllo</title>
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
+  <link rel="stylesheet" href="styles.css?v=20260921-tree-design">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#" aria-label="Inicio">
+      <span class="brand-mark" aria-hidden="true">SM</span>
+      <span><strong>Archivo familiar</strong><small>Sierra–Maíllo</small></span>
+    </a>
+    <nav class="tabs" aria-label="Secciones">
+      <button class="tab is-active" data-view="tree">Árbol</button>
+      <button class="tab" data-view="people">Personas</button>
+      <button class="tab" data-view="audit">Auditoría <span class="badge" id="auditBadge">0</span></button>
+      <button class="tab" data-view="sources">Fuentes</button>
+    </nav>
+    <label class="privacy-toggle" title="Protege los nombres y detalles de todas las personas">
+      <input type="checkbox" id="privacyToggle">
+      <span>Modo privado</span>
+    </label>
+  </header>
+
+  <main>
+    <section class="view is-active" id="view-tree">
+      <aside class="sidebar">
+        <button class="sidebar-toggle" id="sidebarToggle" type="button" aria-expanded="true" aria-label="Ocultar explorador">‹</button>
+        <div class="sidebar-content">
+          <div class="eyebrow">Explorar el linaje</div>
+          <h1>Tu familia, conectada</h1>
+          <p class="intro"><span class="person-count">168</span> personas por descubrir. Busca un nombre o elige una rama.</p>
+          <div class="search-wrap">
+            <label for="personSearch">Buscar persona</label>
+            <input id="personSearch" type="search" autocomplete="off" placeholder="Nombre o apellido…">
+            <div class="search-results" id="searchResults" hidden></div>
+          </div>
+          <div class="tree-filters" aria-label="Filtros del árbol">
+            <div class="view-presets" aria-label="Vistas rápidas">
+              <button class="ghost-button" id="nearFamily">Familia cercana</button>
+              <button class="ghost-button" id="resetTreeFilters">Árbol completo</button>
+            </div>
+            <label for="treeBranchFilter">Rama familiar</label>
+            <select id="treeBranchFilter">
+              <option value="all">Todas las ramas</option>
+              <option value="paternal-grandmother">Abuela paterna · amarillo</option>
+              <option value="paternal-grandfather">Abuelo paterno · verde</option>
+              <option value="maternal-grandmother">Abuela materna · azul</option>
+              <option value="maternal-grandfather">Abuelo materno · morado</option>
+            </select>
+            <label for="treeGenerationFilter">Generaciones desde Guillermo</label>
+            <select id="treeGenerationFilter">
+              <option value="all">Todas</option>
+              <option value="2">Hasta 2</option>
+              <option value="4">Hasta 4</option>
+              <option value="6">Hasta 6</option>
+              <option value="8">Hasta 8</option>
+            </select>
+            <label class="tree-filter-check"><input id="treeDirectOnly" type="checkbox"> Solo ascendientes directos</label>
+            <p id="treeFilterCount" aria-live="polite"></p>
+          </div>
+          <div class="focus-summary" id="focusSummary"></div>
+          <details class="legend-details"><summary>Cómo leer los colores</summary>
+          <div class="legend" aria-label="Leyenda">
+            <span><i class="gender-key male"></i>Hombre</span>
+            <span><i class="gender-key female"></i>Mujer</span>
+            <span><i class="dot warning"></i>Revisar</span>
+          </div>
+          <div class="community-legend" id="communityLegend" aria-label="Colores por comunidad autónoma"></div>
+          </details>
+        </div>
+      </aside>
+
+      <div class="tree-workspace">
+        <div class="workspace-toolbar">
+          <div>
+            <span class="eyebrow">Persona de referencia</span>
+            <h2 id="treeTitle">Todas las ramas</h2>
+          </div>
+          <div class="toolbar-actions">
+            <button class="ghost-button zoom-button" id="zoomOut" aria-label="Alejar">−</button>
+            <output class="zoom-level" id="zoomLevel" aria-live="polite">90%</output>
+            <button class="ghost-button zoom-button" id="zoomIn" aria-label="Acercar">+</button>
+            <button class="ghost-button" id="homePerson" title="Volver a Guillermo con un tamaño legible">Volver a mí</button>
+            <button class="ghost-button" id="fitTree" title="Encajar todas las personas visibles">Vista general</button>
+            <button class="ghost-button" id="expandTree" aria-pressed="false">Ampliar lienzo</button>
+          </div>
+        </div>
+        <div class="canvas-frame">
+          <div class="tree-canvas" id="treeCanvas" tabindex="0" aria-label="Árbol genealógico interactivo. Arrastra para desplazarte, usa más y menos para ampliar y las flechas para moverte."></div>
+          <div class="canvas-context"><span id="visibleEra">Época visible</span><button id="readableZoom" class="ghost-button" hidden>Leer tarjetas</button></div>
+          <div class="canvas-help">Arrastra para moverte · + / − para ampliar · Pulsa una tarjeta para ver su ficha</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="view content-view" id="view-people">
+      <div class="content-heading">
+        <div><span class="eyebrow">Índice</span><h1><span class="person-count">168</span> personas registradas</h1></div>
+        <div class="compact-search"><input id="peopleSearch" type="search" placeholder="Filtrar por nombre, lugar o año…"></div>
+      </div>
+      <div class="filter-row" id="peopleFilters">
+        <button class="chip is-active" data-filter="all">Todas</button>
+        <button class="chip" data-filter="photo">Con foto</button>
+        <button class="chip" data-filter="dated">Con fecha</button>
+        <button class="chip" data-filter="review">Por revisar</button>
+      </div>
+      <div class="people-grid" id="peopleGrid"></div>
+    </section>
+
+    <section class="view content-view" id="view-audit">
+      <div class="content-heading">
+        <div><span class="eyebrow">Control de calidad</span><h1>Auditoría del GED</h1></div>
+        <p class="method-note">Los porcentajes indican confianza en la detección del problema, no en una corrección propuesta.</p>
+      </div>
+      <div class="stats-grid" id="statsGrid"></div>
+      <section class="manual-edit-panel" aria-labelledby="manualEditTitle">
+        <div>
+          <span class="eyebrow">Corrección local</span>
+          <h2 id="manualEditTitle">Editar una persona</h2>
+          <p>Usa siempre los mismos campos para ciudad, comunidad autónoma y país. Los cambios se guardan solo en este navegador y no modifican el GED original.</p>
+        </div>
+        <div class="audit-editor-controls">
+          <label for="auditPersonSelect">Persona</label>
+          <select id="auditPersonSelect"></select>
+          <button class="primary-button" id="editSelectedPerson" type="button">Editar datos</button>
+        </div>
+      </section>
+      <div class="audit-layout">
+        <div>
+          <h2>Hallazgos prioritarios</h2>
+          <div class="findings-list" id="findingsList"></div>
+        </div>
+        <aside class="audit-note">
+          <span class="eyebrow">Límite de la investigación</span>
+          <h3>Internet no equivale a archivo.</h3>
+          <p>No se encontró evidencia nominal pública suficiente para confirmar una por una las <span class="person-count">168</span> identidades. Las coincidencias de apellido o localidad se han tratado como pistas, nunca como prueba.</p>
+          <p>La confirmación sólida exige partidas civiles o parroquiales, padrones y documentos notariales.</p>
+        </aside>
+      </div>
+    </section>
+
+    <section class="view content-view" id="view-sources">
+      <div class="content-heading">
+        <div><span class="eyebrow">Trazabilidad</span><h1>Fuentes y rutas de verificación</h1></div>
+        <p class="method-note" id="methodology"></p>
+      </div>
+      <div class="source-grid" id="sourceGrid"></div>
+    </section>
+  </main>
+
+  <dialog class="person-dialog" id="personDialog">
+    <button class="dialog-close" aria-label="Cerrar">×</button>
+    <div id="personDetail"></div>
+  </dialog>
+
+  <script src="data.js?v=20260922-manuela-ruiz"></script>
+  <script src="research.js"></script>
+  <script src="app.js?v=20260921-tree-design"></script>
+</body>
+</html>

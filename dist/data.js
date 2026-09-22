@@ -1,0 +1,17925 @@
+window.TREE_DATA = {
+  "generatedAt": "2026-09-22T08:17:09.732Z",
+  "stats": {
+    "individuals": 594,
+    "families": 179,
+    "photos": 22,
+    "peopleWithPhotos": 10,
+    "knownBirthDates": 565,
+    "knownDeathDates": 83,
+    "livingEstimate": 165,
+    "sourceLinkedPeople": 40
+  },
+  "individuals": [
+    {
+      "id": "@I500001@",
+      "name": "Guillermo Javier Sierra-Maíllo Martínez",
+      "given": "Guillermo Javier",
+      "surname": "Sierra-Maíllo Martínez",
+      "sex": "M",
+      "birth": {
+        "date": "3 APR 1995",
+        "place": "Oviedo, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1995,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500001@",
+      "familySpouse": [
+        "@F500035@"
+      ],
+      "sourceRefs": [],
+      "media": [
+        {
+          "title": null,
+          "primary": true
+        },
+        {
+          "title": "1",
+          "primary": false
+        }
+      ],
+      "localPhoto": "assets/photos/I500001.jpg"
+    },
+    {
+      "id": "@I500002@",
+      "name": "María Caridad Martínez Pérez",
+      "given": "María Caridad",
+      "surname": "Martínez Pérez",
+      "sex": "F",
+      "birth": {
+        "date": "28 JUN 1964",
+        "place": "Avilés, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1964,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "También figura como Caridad Martínez.",
+        "Información familiar confirmada desde el árbol administrado por S. Rodríguez, España: padres Santiago Martínez García y Edelmira Pérez; hermano Santiago Martínez Pérez; esposo Enrique Javier Sierra Maíllo; hijos Diego, Guillermo e Irene Sierra-Maíllo Martínez.",
+        "Rama colateral pendiente de enlace: el árbol de S. Rodríguez menciona a un tío identificado solo como Rodríguez y a una prima identificada como Rodríguez Pérez. Asociados a esa rama aparecen Marcelino Rodríguez Méndez, Oliva González Martínez, Mario Rodríguez González, Carlos Rodríguez, Nemesio Rodríguez, Olvido Rodríguez, Jesús Rodríguez, Olivia Rodríguez Escobar, Casimiro Llamazares, Mercedes Martín, Florentina Fernández, Dimas Llamazares, Guillermina Sánchez, Severiano Martín Martín, Juana Ortega Gutiérrez, Ciro Llamazares, Santos Martín, Andrés Martín, Severiano Martín, Herminia Cifuentes, Manuel Martín, Pilar Rea Llosa, María del Carmen Riestra González y Ascensión Ana Sánchez Rucandio. No se crean parentescos hasta identificar nominalmente al tío y a la prima que conectan esta rama."
+      ],
+      "familyChild": "@F500003@",
+      "familySpouse": [
+        "@F500001@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500003@",
+      "name": "Enrique Javier Sierra Maíllo",
+      "given": "Enrique Javier",
+      "surname": "Sierra Maíllo",
+      "sex": "M",
+      "birth": {
+        "date": "15 JUL 1959",
+        "place": "Avilés, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1959,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "También figura como Enrique Sierra Maíllo.",
+        "Familia directa confirmada: padres Francisco Sierra Martínez y Teófila Maíllo Martín; esposa María Caridad Martínez Pérez; hijos Diego Enrique, Guillermo Javier e Irene Sofía Sierra-Maíllo Martínez.",
+        "En el árbol de origen, su esposa aparece anonimizada como «Desconocido Martínez Pérez (Sierra Maíllo)»; se identifica con María Caridad Martínez Pérez por la coincidencia de los tres hijos.",
+        "Rama colateral pendiente de enlace: Aurora Iglesias Calama, Hortensia Iglesias Calama, Teófilo «Teo» López Sánchez, Agustín «Tío Mauro» López Martín, Domingo «Mingo Mauro» López Iglesias, Manuel «Manelín» López Iglesias, Nicanor Hernández Bello, Agapito Hernández Iglesias, José Hernández Iglesias, Manuel Campos Sánchez, Teresa Sánchez Iglesias, Florindo Sánchez Iglesias, Quintina Sánchez Hernández, Anunciación Lucas Sánchez, Francisca Iglesias Calama, Saturno Iglesias Calama, Gregorio López Herrera y Dolores López Sánchez. Los parentescos aportados son muy indirectos y faltan las personas intermedias necesarias para conectarlos con seguridad."
+      ],
+      "familyChild": "@F500002@",
+      "familySpouse": [
+        "@F500001@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500004@",
+      "name": "Edelmira Pérez",
+      "given": "Edelmira",
+      "surname": "Pérez",
+      "sex": "F",
+      "birth": {
+        "date": "22 JUL 1934",
+        "place": "Talarén, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "15 SEP 2022",
+        "place": "Avilés, Principado de Asturias, España"
+      },
+      "birthYear": 1934,
+      "deathYear": 2022,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500005@",
+      "familySpouse": [
+        "@F500003@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500005@",
+      "name": "Teófila Maíllo Martín",
+      "given": "Teófila",
+      "surname": "Maíllo Martín",
+      "sex": "F",
+      "birth": {
+        "date": "28 FEB 1935",
+        "place": "Mogarraz, Castilla y León, España"
+      },
+      "death": null,
+      "birthYear": 1935,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500025@",
+      "familySpouse": [
+        "@F500002@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500006@",
+      "name": "Francisco Sierra Martínez",
+      "given": "Francisco",
+      "surname": "Sierra Martínez",
+      "sex": "M",
+      "birth": {
+        "date": "25 OCT 1932",
+        "place": "O Porto do Barqueiro, Galicia, España"
+      },
+      "death": {
+        "date": "17 OCT 2006",
+        "place": "Oviedo, Principado de Asturias, España"
+      },
+      "birthYear": 1932,
+      "deathYear": 2006,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500041@",
+      "familySpouse": [
+        "@F500002@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500007@",
+      "name": "Santiago Martínez García",
+      "given": "Santiago",
+      "surname": "Martínez García",
+      "sex": "M",
+      "birth": {
+        "date": "23 MAY 1928",
+        "place": "Becerril del Carpio, Castilla y León, España"
+      },
+      "death": {
+        "date": "27 MAY 2024",
+        "place": "Avilés, Principado de Asturias, España"
+      },
+      "birthYear": 1928,
+      "deathYear": 2024,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500056@",
+      "familySpouse": [
+        "@F500003@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500008@",
+      "name": "Diego Enrique Sierra-Maíllo Martínez",
+      "given": "Diego Enrique",
+      "surname": "Sierra-Maíllo Martínez",
+      "sex": "M",
+      "birth": {
+        "date": "22 NOV 1989",
+        "place": "Oviedo, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1989,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500001@",
+      "familySpouse": [
+        "@F500036@"
+      ],
+      "sourceRefs": [],
+      "media": [
+        {
+          "title": null,
+          "primary": true
+        },
+        {
+          "title": "1716294703165",
+          "primary": false
+        }
+      ],
+      "localPhoto": "assets/photos/I500008.jpg"
+    },
+    {
+      "id": "@I500009@",
+      "name": "Irene Sofía Sierra-Maíllo Martínez",
+      "given": "Irene Sofía",
+      "surname": "Sierra-Maíllo Martínez",
+      "sex": "F",
+      "birth": {
+        "date": "7 OCT 2000",
+        "place": "Oviedo, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 2000,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500001@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [
+        {
+          "title": null,
+          "primary": true
+        },
+        {
+          "title": "1682542685086",
+          "primary": false
+        }
+      ],
+      "localPhoto": "assets/photos/I500009.jpg"
+    },
+    {
+      "id": "@I500010@",
+      "name": "Santiago Martínez Pérez",
+      "given": "Santiago",
+      "surname": "Martínez Pérez",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1961",
+        "place": "Avilés, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1961,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500003@",
+      "familySpouse": [
+        "@F500004@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500011@",
+      "name": "Jaime Martínez García",
+      "given": "Jaime",
+      "surname": "Martínez García",
+      "sex": "M",
+      "birth": {
+        "date": "7 APR 2005",
+        "place": "Avilés, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 2005,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500004@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500012@",
+      "name": "María Elena García Becerril",
+      "given": "María Elena",
+      "surname": "García Becerril",
+      "sex": "F",
+      "birth": {
+        "date": "1967",
+        "place": "Avilés, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1967,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500080@",
+      "familySpouse": [
+        "@F500004@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500013@",
+      "name": "Cristina Martínez García",
+      "given": "Cristina",
+      "surname": "Martínez García",
+      "sex": "F",
+      "birth": {
+        "date": "2000",
+        "place": "Avilés, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 2000,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500004@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500014@",
+      "name": "Ramiro Pérez González",
+      "given": "Ramiro",
+      "surname": "Pérez González",
+      "sex": "M",
+      "birth": {
+        "date": "8 JUL 1900",
+        "place": "Tox, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "9 MAY 1978",
+        "place": "Cabanella, Principado de Asturias, España"
+      },
+      "birthYear": 1900,
+      "deathYear": 1977,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500006@",
+      "familySpouse": [
+        "@F500005@"
+      ],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500015@",
+      "name": "María de la Caridad Sánchez González",
+      "given": "María de la Caridad",
+      "surname": "Sánchez González",
+      "sex": "F",
+      "birth": {
+        "date": "12 JAN 1907",
+        "place": "Talarén, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "24 JUL 1969",
+        "place": "Cabanella, Principado de Asturias, España"
+      },
+      "birthYear": 1907,
+      "deathYear": 1969,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Según Árbol administrado por J. Jardon., nacida el 11/01/1907 en Cabanella (Navia); en el GED consta 12/01/1907 en Talarén."
+      ],
+      "familyChild": "@F500007@",
+      "familySpouse": [
+        "@F500005@"
+      ],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500016@",
+      "name": "Manuel Pérez Martínez",
+      "given": "Manuel",
+      "surname": "Pérez Martínez",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1870",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1870,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500006@"
+      ],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500017@",
+      "name": "Josefa González Fernández",
+      "given": "Josefa",
+      "surname": "González Fernández",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1870",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1870,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500006@"
+      ],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500018@",
+      "name": "Gonzalo Pérez Sánchez",
+      "given": "Gonzalo",
+      "surname": "Pérez Sánchez",
+      "sex": "M",
+      "birth": {
+        "date": "1927",
+        "place": "Cabanella, Principado de Asturias, España"
+      },
+      "death": {
+        "date": null,
+        "place": "Jarrio, Principado de Asturias, España"
+      },
+      "birthYear": 1927,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500005@",
+      "familySpouse": [],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500019@",
+      "name": "Rodrigo Pérez Sánchez",
+      "given": "Rodrigo",
+      "surname": "Pérez Sánchez",
+      "sex": "M",
+      "birth": {
+        "date": "1929",
+        "place": "Cabanella, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "1947",
+        "place": "Cabanella, Principado de Asturias, España"
+      },
+      "birthYear": 1929,
+      "deathYear": 1947,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500005@",
+      "familySpouse": [],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500020@",
+      "name": "Ramiro Pérez Sánchez",
+      "given": "Ramiro",
+      "surname": "Pérez Sánchez",
+      "sex": "M",
+      "birth": {
+        "date": "1936",
+        "place": "Cabanella, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "7 SEP 2015",
+        "place": "Jarrio, Principado de Asturias, España"
+      },
+      "birthYear": 1936,
+      "deathYear": 2015,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500005@",
+      "familySpouse": [],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500021@",
+      "name": "Alfonso Pérez Sánchez",
+      "given": "Alfonso",
+      "surname": "Pérez Sánchez",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1934",
+        "place": "Cabanella, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1934,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500005@",
+      "familySpouse": [
+        "@F500008@"
+      ],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500022@",
+      "name": "Marcelina Pérez Sánchez",
+      "given": "Marcelina",
+      "surname": "Pérez Sánchez",
+      "sex": "F",
+      "birth": {
+        "date": "1931",
+        "place": "Cabanella, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "23 FEB 2010",
+        "place": "Jarrio, Principado de Asturias, España"
+      },
+      "birthYear": 1931,
+      "deathYear": 2010,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500005@",
+      "familySpouse": [],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500023@",
+      "name": "Amelia María Luisa Pérez Sánchez",
+      "given": "Amelia María Luisa",
+      "surname": "Pérez Sánchez",
+      "sex": "F",
+      "birth": {
+        "date": "1930",
+        "place": "Cabanella, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "14 JUL 2014",
+        "place": "Pravia, Principado de Asturias, España"
+      },
+      "birthYear": 1930,
+      "deathYear": 2014,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500005@",
+      "familySpouse": [
+        "@F500009@"
+      ],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500024@",
+      "name": "Amelia Sabina Pérez Sánchez",
+      "given": "Amelia Sabina",
+      "surname": "Pérez Sánchez",
+      "sex": "F",
+      "birth": {
+        "date": "1932",
+        "place": "Cabanella, Principado de Asturias, España"
+      },
+      "death": {
+        "date": null,
+        "place": "Navia, Principado de Asturias, España"
+      },
+      "birthYear": 1932,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500005@",
+      "familySpouse": [
+        "@F500010@"
+      ],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500025@",
+      "name": "Olvido Pérez Sánchez",
+      "given": "Olvido",
+      "surname": "Pérez Sánchez",
+      "sex": "F",
+      "birth": {
+        "date": "6 DEC 1942",
+        "place": "Cabanella, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "1 APR 2015",
+        "place": "Jarrio, Principado de Asturias, España"
+      },
+      "birthYear": 1942,
+      "deathYear": 2015,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500005@",
+      "familySpouse": [
+        "@F500011@"
+      ],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500026@",
+      "name": "José María Sánchez del Ron González",
+      "given": "José María",
+      "surname": "Sánchez del Ron González",
+      "sex": "M",
+      "birth": {
+        "date": "22 APR 1863",
+        "place": "Meiro, Principado de Asturias, España"
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1863,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500012@",
+      "familySpouse": [
+        "@F500007@"
+      ],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500027@",
+      "name": "Luisa González Suárez-Casadoira",
+      "given": "Luisa",
+      "surname": "González Suárez-Casadoira",
+      "sex": "F",
+      "birth": {
+        "date": "1868",
+        "place": "Talarén, Principado de Asturias, España"
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1868,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500013@",
+      "familySpouse": [
+        "@F500007@"
+      ],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500028@",
+      "name": "Sara Pérez",
+      "given": "Sara",
+      "surname": "Pérez",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1964",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1964,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500008@",
+      "familySpouse": [],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500029@",
+      "name": "Nombre desconocido",
+      "given": null,
+      "surname": null,
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1934",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1934,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500008@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500030@",
+      "name": "Fermín Benigno Pérez Méndez-Fonfría Pérez Méndez",
+      "given": "Fermín Benigno Pérez Méndez-Fonfría",
+      "surname": "Pérez Méndez",
+      "sex": "M",
+      "birth": {
+        "date": "1928",
+        "place": "Villaoril, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "20 JUN 2016",
+        "place": "Avilés, Principado de Asturias, España"
+      },
+      "birthYear": 1928,
+      "deathYear": 2016,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500009@"
+      ],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500031@",
+      "name": "Eduardo Peláez",
+      "given": "Eduardo",
+      "surname": "Peláez",
+      "sex": "M",
+      "birth": {
+        "date": null,
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": "Cabanella, Principado de Asturias, España"
+      },
+      "birthYear": null,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500010@"
+      ],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500032@",
+      "name": "Luis Emilio González Rodríguez",
+      "given": "Luis Emilio",
+      "surname": "González Rodríguez",
+      "sex": "M",
+      "birth": {
+        "date": "JUL 1935",
+        "place": null
+      },
+      "death": {
+        "date": "30 JUL 2020",
+        "place": "Jarrio, Principado de Asturias, España"
+      },
+      "birthYear": 1935,
+      "deathYear": 2020,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500011@"
+      ],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500033@",
+      "name": "Ramón Sánchez del Ron González",
+      "given": "Ramón",
+      "surname": "Sánchez del Ron González",
+      "sex": "M",
+      "birth": {
+        "date": "23 FEB 1811",
+        "place": "Meiro, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "21 JUL 1883",
+        "place": null
+      },
+      "birthYear": 1811,
+      "deathYear": 1883,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "También «Diego Antonio Ramón Sánchez de Ron González». Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "familyChild": "@F500014@",
+      "familySpouse": [
+        "@F500012@",
+        "@F500165@"
+      ],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500034@",
+      "name": "María Rosa González Gayol",
+      "given": "María Rosa",
+      "surname": "González Gayol",
+      "sex": "F",
+      "birth": {
+        "date": "23 JUL 1819",
+        "place": "Meiro, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "19 MAR 1852",
+        "place": "Santiago, Principado de Asturias, España"
+      },
+      "birthYear": 1819,
+      "deathYear": 1852,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500012@"
+      ],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500035@",
+      "name": "Emilio Rafael Sánchez González",
+      "given": "Emilio Rafael",
+      "surname": "Sánchez González",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1896",
+        "place": "Talarén, Principado de Asturias, España"
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500007@",
+      "familySpouse": [],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500036@",
+      "name": "Manuel Sánchez González",
+      "given": "Manuel",
+      "surname": "Sánchez González",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1896",
+        "place": "Talarén, Principado de Asturias, España"
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500007@",
+      "familySpouse": [],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500037@",
+      "name": "Juan González",
+      "given": "Juan",
+      "surname": "González",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1838",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1838,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500013@"
+      ],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500038@",
+      "name": "Teresa de Jesús Eugenia Suárez-Casadoiro García",
+      "given": "Teresa de Jesús Eugenia",
+      "surname": "Suárez-Casadoiro García",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1838",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1838,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500015@",
+      "familySpouse": [
+        "@F500013@"
+      ],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500039@",
+      "name": "Manuel José Antonio Sánchez de Ron Méndez-Trelles",
+      "given": "Manuel José Antonio",
+      "surname": "Sánchez de Ron Méndez-Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "1 JAN 1773",
+        "place": "Meiro, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "21 JUL 1826",
+        "place": null
+      },
+      "birthYear": 1773,
+      "deathYear": 1826,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Citado como «Diego Antonio Sánchez de Ron Méndez-Trelles» (yerno de Joseph Antonio González Fernández-Medal). Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "familyChild": "@F500063@",
+      "familySpouse": [
+        "@F500014@"
+      ],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500040@",
+      "name": "Juana González Fernández",
+      "given": "Juana",
+      "surname": "González Fernández",
+      "sex": "F",
+      "birth": {
+        "date": "14 MAR 1771",
+        "place": "Armental, Navia, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "4 MAY 1827",
+        "place": "Meiro, Coaña, Principado de Asturias, España"
+      },
+      "birthYear": 1771,
+      "deathYear": 1827,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "También figura como Juana María González Fernández.",
+        "Información aportada desde el árbol administrado por Alicia Rodríguez, España.",
+        "Ancestro directo a seis generaciones. Padres: José Antonio González Fernández y Ana María Fernández-Pico Fernández-Casadoiro. Esposo: Manuel José Antonio Sánchez de Ron Méndez-Trelles. Hijos registrados: Ramón, José y Rosa Sánchez de Ron González."
+      ],
+      "familyChild": "@F500069@",
+      "familySpouse": [
+        "@F500014@"
+      ],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500041@",
+      "name": "Juan Suárez-Casadoira",
+      "given": "Juan",
+      "surname": "Suárez-Casadoira",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1808",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1808,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500015@"
+      ],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500042@",
+      "name": "Luisa García",
+      "given": "Luisa",
+      "surname": "García",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1808",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1808,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500015@"
+      ],
+      "sourceRefs": [
+        "@S500001@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500044@",
+      "name": "Manuel \"El Tío Corato\" Maíllo Herrera",
+      "given": "Manuel \"El Tío Corato\"",
+      "surname": "Maíllo Herrera",
+      "sex": "M",
+      "birth": {
+        "date": "1 NOV 1900",
+        "place": "Mogarraz, Castilla y León, España"
+      },
+      "death": {
+        "date": "2 NOV 1974",
+        "place": "Mogarraz, Castilla y León, España"
+      },
+      "birthYear": 1900,
+      "deathYear": 1974,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "<p>El t&iacute;o Corato</p>"
+      ],
+      "familyChild": "@F500047@",
+      "familySpouse": [
+        "@F500025@"
+      ],
+      "sourceRefs": [
+        "@S500002@"
+      ],
+      "media": [
+        {
+          "title": null,
+          "primary": true
+        },
+        {
+          "title": "ddd",
+          "primary": false
+        },
+        {
+          "title": "019 Manuel Herrera Maíllo 100x125 retrata2-388-019",
+          "primary": false
+        }
+      ],
+      "localPhoto": "assets/photos/I500044.jpg"
+    },
+    {
+      "id": "@I500045@",
+      "name": "Florisarda \"Flori\" Martín Maíllo",
+      "given": "Florisarda \"Flori\"",
+      "surname": "Martín Maíllo",
+      "sex": "F",
+      "birth": {
+        "date": "24 APR 1901",
+        "place": "Mogarraz, Castilla y León, España"
+      },
+      "death": {
+        "date": "25 NOV 1998",
+        "place": "Mogarraz, Castilla y León, España"
+      },
+      "birthYear": 1901,
+      "deathYear": 1998,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500026@",
+      "familySpouse": [
+        "@F500025@"
+      ],
+      "sourceRefs": [
+        "@S500002@"
+      ],
+      "media": [
+        {
+          "title": null,
+          "primary": true
+        },
+        {
+          "title": "sss",
+          "primary": false
+        },
+        {
+          "title": "042 Florisarda Martín Maíllo 63x78 retrata2-388-042",
+          "primary": false
+        }
+      ],
+      "localPhoto": "assets/photos/I500045.jpg"
+    },
+    {
+      "id": "@I500046@",
+      "name": "Purificación Maíllo Martín",
+      "given": "Purificación",
+      "surname": "Maíllo Martín",
+      "sex": "F",
+      "birth": {
+        "date": "23 AUG 1931",
+        "place": "Mogarraz, Castilla y León, España"
+      },
+      "death": {
+        "date": "10 NOV 2021",
+        "place": "Oviedo, Principado de Asturias, España"
+      },
+      "birthYear": 1931,
+      "deathYear": 2021,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500025@",
+      "familySpouse": [
+        "@F500027@"
+      ],
+      "sourceRefs": [
+        "@S500002@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500047@",
+      "name": "Ambrosio \"Ambrosino\" Martín Maíllo",
+      "given": "Ambrosio \"Ambrosino\"",
+      "surname": "Martín Maíllo",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1877",
+        "place": "Mogarraz, Castilla y León, España"
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1877,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500052@",
+      "familySpouse": [
+        "@F500026@"
+      ],
+      "sourceRefs": [
+        "@S500002@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500048@",
+      "name": "Agripina Maíllo Maíllo",
+      "given": "Agripina",
+      "surname": "Maíllo Maíllo",
+      "sex": "F",
+      "birth": {
+        "date": "1876",
+        "place": null
+      },
+      "death": {
+        "date": "28 MAY 1958",
+        "place": null
+      },
+      "birthYear": 1876,
+      "deathYear": 1958,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500054@",
+      "familySpouse": [
+        "@F500026@"
+      ],
+      "sourceRefs": [
+        "@S500002@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500049@",
+      "name": "Ambrosio Campos Sánchez",
+      "given": "Ambrosio",
+      "surname": "Campos Sánchez",
+      "sex": "M",
+      "birth": {
+        "date": "27 DEC 1930",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1930,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Defunción 09/05/1995 descartada: documentado vivo en Oviedo hasta 01/12/2006 (NIF 07716913E)."
+      ],
+      "familyChild": "@F500028@",
+      "familySpouse": [
+        "@F500027@"
+      ],
+      "sourceRefs": [
+        "@S500002@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500050@",
+      "name": "Consuelo Martín Maíllo",
+      "given": "Consuelo",
+      "surname": "Martín Maíllo",
+      "sex": "F",
+      "birth": {
+        "date": "NOV 1914",
+        "place": "Mogarraz, Castilla y León, España"
+      },
+      "death": {
+        "date": "AFT AUG 2006",
+        "place": null
+      },
+      "birthYear": 1914,
+      "deathYear": 2006,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500026@",
+      "familySpouse": [
+        "@F500029@"
+      ],
+      "sourceRefs": [
+        "@S500002@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500051@",
+      "name": "Jacinto Campos Maíllo",
+      "given": "Jacinto",
+      "surname": "Campos Maíllo",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1900",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1900,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500030@",
+      "familySpouse": [
+        "@F500028@"
+      ],
+      "sourceRefs": [
+        "@S500002@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500052@",
+      "name": "Socorro Sánchez",
+      "given": "Socorro",
+      "surname": "Sánchez",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1900",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1900,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500028@"
+      ],
+      "sourceRefs": [
+        "@S500002@"
+      ],
+      "media": [
+        {
+          "title": null,
+          "primary": true
+        },
+        {
+          "title": "1111",
+          "primary": false
+        }
+      ],
+      "localPhoto": "assets/photos/I500052.jpg"
+    },
+    {
+      "id": "@I500053@",
+      "name": "Fernando “el Sindo” Calama López",
+      "given": "Fernando “el Sindo”",
+      "surname": "Calama López",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1914",
+        "place": null
+      },
+      "death": {
+        "date": "BEF 1997",
+        "place": null
+      },
+      "birthYear": 1914,
+      "deathYear": 1997,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500029@"
+      ],
+      "sourceRefs": [
+        "@S500002@"
+      ],
+      "media": [
+        {
+          "title": null,
+          "primary": true
+        },
+        {
+          "title": "239 Fernando Calama López 63x78 retrata2-388-239",
+          "primary": false
+        }
+      ],
+      "localPhoto": "assets/photos/I500053.jpg"
+    },
+    {
+      "id": "@I500054@",
+      "name": "Ambrosia Calama Martín",
+      "given": "Ambrosia",
+      "surname": "Calama Martín",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1944",
+        "place": null
+      },
+      "death": {
+        "date": "1997",
+        "place": null
+      },
+      "birthYear": 1944,
+      "deathYear": 1997,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500029@",
+      "familySpouse": [],
+      "sourceRefs": [
+        "@S500002@"
+      ],
+      "media": [
+        {
+          "title": null,
+          "primary": true
+        },
+        {
+          "title": "238 Ambrosia Calama Martín 80x110 retrata2-388-238",
+          "primary": false
+        }
+      ],
+      "localPhoto": "assets/photos/I500054.jpg"
+    },
+    {
+      "id": "@I500055@",
+      "name": "Soeur et père à confirmer Campos",
+      "given": "Soeur et père à confirmer",
+      "surname": "Campos",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1870",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1870,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500030@"
+      ],
+      "sourceRefs": [
+        "@S500002@"
+      ],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500064@",
+      "name": "María Villoria Iglesias",
+      "given": "María",
+      "surname": "Villoria Iglesias",
+      "sex": "F",
+      "birth": {
+        "date": "28 AUG 1995",
+        "place": "Oviedo, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1995,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500037@",
+      "familySpouse": [
+        "@F500035@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500065@",
+      "name": "Helene Daun",
+      "given": "Helene",
+      "surname": "Daun",
+      "sex": "F",
+      "birth": {
+        "date": "1995",
+        "place": null,
+        "city": "",
+        "region": "",
+        "country": "Alemania"
+      },
+      "death": null,
+      "birthYear": 1995,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500036@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500066@",
+      "name": "Ana Isabel Iglesias Carbajo",
+      "given": "Ana Isabel",
+      "surname": "Iglesias Carbajo",
+      "sex": "F",
+      "birth": {
+        "date": "1962",
+        "place": null,
+        "city": "",
+        "region": "Principado de Asturias",
+        "country": "España"
+      },
+      "death": null,
+      "birthYear": 1962,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500038@",
+      "familySpouse": [
+        "@F500037@"
+      ],
+      "sourceRefs": [],
+      "media": [
+        {
+          "title": null,
+          "primary": true
+        },
+        {
+          "title": "EVK06D9VAAACJUj",
+          "primary": false
+        }
+      ],
+      "localPhoto": "assets/photos/I500066.jpg"
+    },
+    {
+      "id": "@I500067@",
+      "name": "Luis Ángel Villoria Ordóñez",
+      "given": "Luis Ángel",
+      "surname": "Villoria Ordóñez",
+      "sex": "M",
+      "birth": {
+        "date": "1958",
+        "place": null,
+        "city": "",
+        "region": "Principado de Asturias",
+        "country": "España"
+      },
+      "death": {
+        "date": "23 DEC 2024",
+        "place": "Oviedo, Principado de Asturias, España"
+      },
+      "birthYear": 1958,
+      "deathYear": 2024,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500039@",
+      "familySpouse": [
+        "@F500037@"
+      ],
+      "sourceRefs": [],
+      "media": [
+        {
+          "title": null,
+          "primary": true
+        },
+        {
+          "title": "1516958901586",
+          "primary": false
+        }
+      ],
+      "localPhoto": "assets/photos/I500067.jpg"
+    },
+    {
+      "id": "@I500068@",
+      "name": "Luis Villoria Iglesias",
+      "given": "Luis",
+      "surname": "Villoria Iglesias",
+      "sex": "M",
+      "birth": {
+        "date": "1999",
+        "place": "Oviedo, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1999,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500037@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500069@",
+      "name": "José Luis Iglesias Ballina",
+      "given": "José Luis",
+      "surname": "Iglesias Ballina",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1935",
+        "place": null
+      },
+      "death": {
+        "date": "BEF 23 DEC 2024",
+        "place": null
+      },
+      "birthYear": 1935,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Fundador de PRONOR; administrador solidario de Obras y Reparaciones Andrín SL (Llanes) hasta 31/10/2006."
+      ],
+      "familyChild": "@F500126@",
+      "familySpouse": [
+        "@F500038@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500070@",
+      "name": "Isabel María Carbajo Acebal",
+      "given": "Isabel María",
+      "surname": "Carbajo Acebal",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1937",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1937,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Apodada «Pitusa»."
+      ],
+      "familyChild": "@F500127@",
+      "familySpouse": [
+        "@F500038@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500071@",
+      "name": "José Luis Iglesias Carbajo",
+      "given": "José Luis",
+      "surname": "Iglesias Carbajo",
+      "sex": "M",
+      "birth": {
+        "date": "1959",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1959,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500038@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500072@",
+      "name": "Natividad Ordóñez Fernández",
+      "given": "Natividad",
+      "surname": "Ordóñez Fernández",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1930",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1930,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500129@",
+      "familySpouse": [
+        "@F500039@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500073@",
+      "name": "Víctor Villoria Díaz",
+      "given": "Víctor",
+      "surname": "Villoria Díaz",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1928",
+        "place": null
+      },
+      "death": {
+        "date": "22 SEP 2017",
+        "place": "Oviedo, Principado de Asturias, España"
+      },
+      "birthYear": 1928,
+      "deathYear": 2017,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Falleció a los 88 años; entierro en el cementerio de Moreda de Aller. Hermano: Faustino Villoria Díaz (†)."
+      ],
+      "familyChild": "@F500125@",
+      "familySpouse": [
+        "@F500039@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500074@",
+      "name": "Juan Ignacio Villoria Ordóñez",
+      "given": "Juan Ignacio",
+      "surname": "Villoria Ordóñez",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1958",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1958,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500039@",
+      "familySpouse": [
+        "@F500040@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500075@",
+      "name": "Carmen Villoria Iglesias",
+      "given": "Carmen",
+      "surname": "Villoria Iglesias",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1997",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1997,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500040@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500076@",
+      "name": "Begoña Iglesias de la Puente",
+      "given": "Begoña",
+      "surname": "Iglesias de la Puente",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1960",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1960,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Esposa de Juan Ignacio Villoria Ordóñez."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500040@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500077@",
+      "name": "Manuel Sierra Martínez",
+      "given": "Manuel",
+      "surname": "Sierra Martínez",
+      "sex": "M",
+      "birth": {
+        "date": "1900",
+        "place": null
+      },
+      "death": {
+        "date": "16 SEP 1969",
+        "place": null
+      },
+      "birthYear": 1900,
+      "deathYear": 1969,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500042@",
+      "familySpouse": [
+        "@F500041@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500078@",
+      "name": "Manuel María Sierra Pérez",
+      "given": "Manuel María",
+      "surname": "Sierra Pérez",
+      "sex": "M",
+      "birth": {
+        "date": "4 DEC 1865",
+        "place": "Miudes, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "15 MAY 1931",
+        "place": "Mañón, Galicia, España"
+      },
+      "birthYear": 1865,
+      "deathYear": 1931,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500043@",
+      "familySpouse": [
+        "@F500042@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500079@",
+      "name": "Manuela Martínez Veaz",
+      "given": "Manuela",
+      "surname": "Martínez Veaz",
+      "sex": "F",
+      "birth": {
+        "date": "1869",
+        "place": "Mogor, Galicia, España"
+      },
+      "death": {
+        "date": "12 NOV 1939",
+        "place": "Mañón, Galicia, España"
+      },
+      "birthYear": 1869,
+      "deathYear": 1939,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500046@",
+      "familySpouse": [
+        "@F500042@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500080@",
+      "name": "Dolores Sierra Martínez",
+      "given": "Dolores",
+      "surname": "Sierra Martínez",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1897",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1897,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500042@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500081@",
+      "name": "Vicenta Sierra Martínez",
+      "given": "Vicenta",
+      "surname": "Sierra Martínez",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1897",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1897,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500042@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500082@",
+      "name": "Manuela Martínez Cao",
+      "given": "Manuela",
+      "surname": "Martínez Cao",
+      "sex": "F",
+      "birth": {
+        "date": "3 APR 1907",
+        "place": null
+      },
+      "death": {
+        "date": "3 APR 1990",
+        "place": null
+      },
+      "birthYear": 1907,
+      "deathYear": 1990,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500045@",
+      "familySpouse": [
+        "@F500041@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500083@",
+      "name": "Carlos Manuel Sierra",
+      "given": "Carlos Manuel",
+      "surname": "Sierra",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1835",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1835,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500044@",
+      "familySpouse": [
+        "@F500043@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500084@",
+      "name": "María Pérez",
+      "given": "María",
+      "surname": "Pérez",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1835",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1835,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500043@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500085@",
+      "name": "José Sierra",
+      "given": "José",
+      "surname": "Sierra",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1805",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1805,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500044@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500086@",
+      "name": "Petra",
+      "given": "Petra",
+      "surname": null,
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1805",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1805,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500044@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500087@",
+      "name": "Francisco Martínez",
+      "given": "Francisco",
+      "surname": "Martínez",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1877",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1877,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500045@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500088@",
+      "name": "Rosa Cao",
+      "given": "Rosa",
+      "surname": "Cao",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1877",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1877,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500045@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500089@",
+      "name": "Carmen Martínez Cao",
+      "given": "Carmen",
+      "surname": "Martínez Cao",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1907",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1907,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500045@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500090@",
+      "name": "Modesto Martínez Cao",
+      "given": "Modesto",
+      "surname": "Martínez Cao",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1907",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1907,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500045@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500091@",
+      "name": "José Martínez",
+      "given": "José",
+      "surname": "Martínez",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1839",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1839,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500046@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500092@",
+      "name": "Vicenta Veaz",
+      "given": "Vicenta Veaz",
+      "surname": null,
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1839",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1839,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500046@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500093@",
+      "name": "Agustina Calama Martín",
+      "given": "Agustina",
+      "surname": "Calama Martín",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1944",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1944,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500029@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500094@",
+      "name": "Mari Calama Martín",
+      "given": "Mari",
+      "surname": "Calama Martín",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1944",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1944,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500029@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500095@",
+      "name": "Azucena Calama Martín",
+      "given": "Azucena",
+      "surname": "Calama Martín",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1944",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1944,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500029@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500096@",
+      "name": "Antonio Maíllo López",
+      "given": "Antonio",
+      "surname": "Maíllo López",
+      "sex": "M",
+      "birth": {
+        "date": "1872",
+        "place": null
+      },
+      "death": {
+        "date": "7 FEB 1908",
+        "place": "San Esteban de la Sierra, Castilla y León, España"
+      },
+      "birthYear": 1872,
+      "deathYear": 1908,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500049@",
+      "familySpouse": [
+        "@F500047@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500097@",
+      "name": "Josefa Herrera Lobato",
+      "given": "Josefa",
+      "surname": "Herrera Lobato",
+      "sex": "F",
+      "birth": {
+        "date": "1873",
+        "place": null
+      },
+      "death": {
+        "date": "5 OCT 1931",
+        "place": null
+      },
+      "birthYear": 1873,
+      "deathYear": 1931,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500048@",
+      "familySpouse": [
+        "@F500047@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500098@",
+      "name": "Sebastián Herrera Puerto",
+      "given": "Sebastián",
+      "surname": "Herrera Puerto",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1843",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1843,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500048@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500099@",
+      "name": "María Lebrato Rodríguez",
+      "given": "María",
+      "surname": "Lebrato Rodríguez",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1843",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1843,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500048@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500100@",
+      "name": "Domingo Herrera Lobato",
+      "given": "Domingo",
+      "surname": "Herrera Lobato",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1873",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1873,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500048@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500101@",
+      "name": "Antonia Herrera Lobato",
+      "given": "Antonia",
+      "surname": "Herrera Lobato",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1873",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1873,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500048@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500102@",
+      "name": "Juan Manuel Maíllo Vicente",
+      "given": "Juan Manuel",
+      "surname": "Maíllo Vicente",
+      "sex": "M",
+      "birth": {
+        "date": "1847",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1847,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500050@",
+      "familySpouse": [
+        "@F500049@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500103@",
+      "name": "Antonio Maíllo González",
+      "given": "Antonio",
+      "surname": "Maíllo González",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1817",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1817,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500051@",
+      "familySpouse": [
+        "@F500050@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500104@",
+      "name": "María Vicente Iglesias",
+      "given": "María",
+      "surname": "Vicente Iglesias",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1817",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1817,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500050@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500105@",
+      "name": "José Maíllo Vicente",
+      "given": "José",
+      "surname": "Maíllo Vicente",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1847",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1847,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500050@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500106@",
+      "name": "Francisco Maíllo Vicente",
+      "given": "Francisco",
+      "surname": "Maíllo Vicente",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1847",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1847,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500050@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500107@",
+      "name": "María Teresa López Cabrero",
+      "given": "María Teresa",
+      "surname": "López Cabrero",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1842",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1842,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500049@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500108@",
+      "name": "Maíllo",
+      "given": null,
+      "surname": "Maíllo",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1787",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1787,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500051@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500109@",
+      "name": "Catalina González",
+      "given": "Catalina",
+      "surname": "González",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1787",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1787,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500051@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500110@",
+      "name": "Francisca Maíllo González",
+      "given": "Francisca",
+      "surname": "Maíllo González",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1817",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1817,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500051@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500111@",
+      "name": "Domingo Martín Sánchez",
+      "given": "Domingo",
+      "surname": "Martín Sánchez",
+      "sex": "M",
+      "birth": {
+        "date": "1847",
+        "place": null
+      },
+      "death": {
+        "date": "12 SEP 1914",
+        "place": null
+      },
+      "birthYear": 1847,
+      "deathYear": 1914,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500053@",
+      "familySpouse": [
+        "@F500052@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500112@",
+      "name": "María Jesús Maíllo",
+      "given": "María Jesús",
+      "surname": "Maíllo",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1850",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1850,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500052@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500113@",
+      "name": "Juan Manuel \"Porrata\" Martín Maíllo",
+      "given": "Juan Manuel \"Porrata\"",
+      "surname": "Martín Maíllo",
+      "sex": "M",
+      "birth": {
+        "date": "1887",
+        "place": "Mogarraz, Castilla y León, España"
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1887,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500052@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500114@",
+      "name": "Ramona Martín Maíllo",
+      "given": "Ramona",
+      "surname": "Martín Maíllo",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1877",
+        "place": "Mogarraz, Castilla y León, España"
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1877,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500052@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500115@",
+      "name": "Domingo Martín",
+      "given": "Domingo",
+      "surname": "Martín",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1817",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1817,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500053@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500116@",
+      "name": "Isabel Sánchez",
+      "given": "Isabel",
+      "surname": "Sánchez",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1817",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1817,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500053@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500117@",
+      "name": "Isabel Martín Sánchez",
+      "given": "Isabel",
+      "surname": "Martín Sánchez",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1847",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1847,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500053@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500118@",
+      "name": "Jerónimo Maíllo Losada",
+      "given": "Jerónimo",
+      "surname": "Maíllo Losada",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1846",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1846,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500055@",
+      "familySpouse": [
+        "@F500054@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500119@",
+      "name": "María Manuela Maíllo Rodríguez",
+      "given": "María Manuela",
+      "surname": "Maíllo Rodríguez",
+      "sex": "F",
+      "birth": {
+        "date": "1857",
+        "place": "Candelario, Castilla y León, España"
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1857,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500054@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500120@",
+      "name": "Jerónima Losada",
+      "given": "Jerónima",
+      "surname": "Losada",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1816",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1816,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500055@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500121@",
+      "name": "Nicolás Martínez Ruiz",
+      "given": "Nicolás",
+      "surname": "Martínez Ruiz",
+      "sex": "M",
+      "birth": {
+        "date": "10 SEP 1898",
+        "place": "San Cristóbal del Monte, Cantabria, España"
+      },
+      "death": {
+        "date": "1959",
+        "place": "Avilés, Principado de Asturias, España"
+      },
+      "birthYear": 1898,
+      "deathYear": 1959,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500057@",
+      "familySpouse": [
+        "@F500056@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500122@",
+      "name": "Lilia García García",
+      "given": "Lilia",
+      "surname": "García García",
+      "sex": "F",
+      "birth": {
+        "date": "1904",
+        "place": null
+      },
+      "death": {
+        "date": "27 MAR 2000",
+        "place": "Avilés, Principado de Asturias, España"
+      },
+      "birthYear": 1904,
+      "deathYear": 2000,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500062@",
+      "familySpouse": [
+        "@F500056@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500123@",
+      "name": "Manuel Martínez García",
+      "given": "Manuel",
+      "surname": "Martínez García",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1931",
+        "place": "Becerril del Carpio, Castilla y León, España"
+      },
+      "death": null,
+      "birthYear": 1931,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500056@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500124@",
+      "name": "Esco Martínez García",
+      "given": "Esco",
+      "surname": "Martínez García",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1931",
+        "place": "Becerril del Carpio, Castilla y León, España"
+      },
+      "death": null,
+      "birthYear": 1931,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500056@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500125@",
+      "name": "María Teresa Martínez García",
+      "given": "María Teresa",
+      "surname": "Martínez García",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1931",
+        "place": "Becerril del Carpio, Castilla y León, España"
+      },
+      "death": null,
+      "birthYear": 1931,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500056@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500126@",
+      "name": "Andrea Martínez García",
+      "given": "Andrea",
+      "surname": "Martínez García",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1931",
+        "place": "Becerril del Carpio, Castilla y León, España"
+      },
+      "death": null,
+      "birthYear": 1931,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500056@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500127@",
+      "name": "María Jesús Martínez García",
+      "given": "María Jesús",
+      "surname": "Martínez García",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1931",
+        "place": "Becerril del Carpio, Castilla y León, España"
+      },
+      "death": null,
+      "birthYear": 1931,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500056@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500128@",
+      "name": "María del Carmen Martínez García",
+      "given": "María del Carmen",
+      "surname": "Martínez García",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1931",
+        "place": "Becerril del Carpio, Castilla y León, España"
+      },
+      "death": null,
+      "birthYear": 1931,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500056@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500129@",
+      "name": "Clemente Martínez Estébanez",
+      "given": "Clemente",
+      "surname": "Martínez Estébanez",
+      "sex": "M",
+      "birth": {
+        "date": "1859",
+        "place": null
+      },
+      "death": {
+        "date": "7 OCT 1931",
+        "place": null
+      },
+      "birthYear": 1859,
+      "deathYear": 1931,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500059@",
+      "familySpouse": [
+        "@F500057@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500130@",
+      "name": "Manuela Ruiz Gutiérrez",
+      "given": "Manuela",
+      "surname": "Ruiz Gutiérrez",
+      "sex": "F",
+      "birth": {
+        "date": "25 DEC 1861",
+        "place": "San Cristóbal del Monte, Cantabria, España"
+      },
+      "death": {
+        "date": "9 DEC 1933",
+        "place": null
+      },
+      "birthYear": 1861,
+      "deathYear": 1933,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Fuente: Información aportada por el usuario el 22-09-2026; imagen de la partida pendiente de incorporar.",
+        "Corrección: el año 1860 que figuraba anteriormente en el árbol fue sustituido por el nacimiento del 25-12-1861 aportado por el usuario."
+      ],
+      "familyChild": "@F500061@",
+      "familySpouse": [
+        "@F500057@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500131@",
+      "name": "Gregoria Martínez Ruiz",
+      "given": "Gregoria",
+      "surname": "Martínez Ruiz",
+      "sex": "F",
+      "birth": {
+        "date": "22 DEC 1899",
+        "place": "San Cristóbal del Monte, Cantabria, España"
+      },
+      "death": {
+        "date": "4 APR 1974",
+        "place": null
+      },
+      "birthYear": 1899,
+      "deathYear": 1974,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500057@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500132@",
+      "name": "Eloi Martínez Ruiz",
+      "given": "Eloi",
+      "surname": "Martínez Ruiz",
+      "sex": "M",
+      "birth": {
+        "date": "16 APR 1896",
+        "place": "San Cristóbal del Monte, Cantabria, España"
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500057@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500133@",
+      "name": "Escolástica Martínez Ruiz",
+      "given": "Escolástica",
+      "surname": "Martínez Ruiz",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1890",
+        "place": "San Cristóbal del Monte, Cantabria, España"
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1890,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500057@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500134@",
+      "name": "Jaime Martínez Ruiz",
+      "given": "Jaime",
+      "surname": "Martínez Ruiz",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1890",
+        "place": "San Cristóbal del Monte, Cantabria, España"
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1890,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500057@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500135@",
+      "name": "Anselmo Martínez Ruiz",
+      "given": "Anselmo",
+      "surname": "Martínez Ruiz",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1890",
+        "place": "San Cristóbal del Monte, Cantabria, España"
+      },
+      "death": null,
+      "birthYear": 1890,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500057@",
+      "familySpouse": [
+        "@F500058@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500136@",
+      "name": "Felisa Martínez Ruiz",
+      "given": "Felisa",
+      "surname": "Martínez Ruiz",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1920",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1920,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500058@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500137@",
+      "name": "Nombre desconocido",
+      "given": null,
+      "surname": null,
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1890",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1890,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500058@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500138@",
+      "name": "Alejandro Martínez Ruiz",
+      "given": "Alejandro",
+      "surname": "Martínez Ruiz",
+      "sex": "M",
+      "birth": {
+        "date": "2 MAY 1907",
+        "place": "San Cristóbal del Monte, Cantabria, España"
+      },
+      "death": {
+        "date": "3 MAY 1922",
+        "place": null
+      },
+      "birthYear": 1907,
+      "deathYear": 1922,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500057@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500139@",
+      "name": "Gil Martínez Brabo",
+      "given": "Gil",
+      "surname": "Martínez Brabo",
+      "sex": "M",
+      "birth": {
+        "date": "1830",
+        "place": null
+      },
+      "death": {
+        "date": "1902",
+        "place": null
+      },
+      "birthYear": 1830,
+      "deathYear": 1902,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500060@",
+      "familySpouse": [
+        "@F500059@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500140@",
+      "name": "Gregoria Estébanez Mata",
+      "given": "Gregoria",
+      "surname": "Estébanez Mata",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1830",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1830,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500059@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500141@",
+      "name": "Pedro Martínez Estébanez",
+      "given": "Pedro",
+      "surname": "Martínez Estébanez",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1860",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1860,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500059@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500142@",
+      "name": "Lorenzo Martínez Estébanez",
+      "given": "Lorenzo",
+      "surname": "Martínez Estébanez",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1860",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1860,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500059@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500143@",
+      "name": "Juan Martínez Estébanez",
+      "given": "Juan",
+      "surname": "Martínez Estébanez",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1860",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1860,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500059@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500144@",
+      "name": "María Brabo",
+      "given": "María",
+      "surname": "Brabo",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1800",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1800,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500060@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500145@",
+      "name": "Lucía Gutiérrez",
+      "given": "Lucía",
+      "surname": "Gutiérrez",
+      "sex": "F",
+      "birth": null,
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": null,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Fuente: Información aportada por el usuario el 22-09-2026; imagen de la partida pendiente de incorporar.",
+        "El segundo apellido Estébanez y el vínculo anterior con Gregorio Estébanez quedan sin respaldo en la nueva información familiar."
+      ],
+      "familyChild": "@F500076@",
+      "familySpouse": [
+        "@F500061@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500146@",
+      "name": "Nicolás García",
+      "given": "Nicolás",
+      "surname": "García",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1874",
+        "place": "Becerril del Carpio, Castilla y León, España"
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1874,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500062@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500147@",
+      "name": "Andrea García",
+      "given": "Andrea",
+      "surname": "García",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1874",
+        "place": "Becerril del Carpio, Castilla y León, España"
+      },
+      "death": null,
+      "birthYear": 1874,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500062@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500148@",
+      "name": "Artemio Pérez Sánchez",
+      "given": "Artemio",
+      "surname": "Pérez Sánchez",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1934",
+        "place": "Cabanella, Principado de Asturias, España"
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1934,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500005@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500149@",
+      "name": "Sagrario Pérez Sánchez",
+      "given": "Sagrario",
+      "surname": "Pérez Sánchez",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1934",
+        "place": "Cabanella, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1934,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500005@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500150@",
+      "name": "José Francisco Sánchez de Ron Miranda Villamil Trelles y Cantoira",
+      "given": "José Francisco",
+      "surname": "Sánchez de Ron Miranda Villamil Trelles y Cantoira",
+      "sex": "M",
+      "birth": {
+        "date": "29 JUL 1734",
+        "place": null
+      },
+      "death": {
+        "date": "1773",
+        "place": null
+      },
+      "birthYear": 1734,
+      "deathYear": 1773,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500064@",
+      "familySpouse": [
+        "@F500063@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500151@",
+      "name": "Rosa Méndez-Trelles y González-Trelles",
+      "given": "Rosa",
+      "surname": "Méndez-Trelles y González-Trelles",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1743",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1743,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500065@",
+      "familySpouse": [
+        "@F500063@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500152@",
+      "name": "Diego Antonio Sánchez de Ron Miranda Villamil Trelles y Cantoira",
+      "given": "Diego Antonio",
+      "surname": "Sánchez de Ron Miranda Villamil Trelles y Cantoira",
+      "sex": "M",
+      "birth": {
+        "date": "31 DEC 1702",
+        "place": "Meiro, Coaña, Principado de Asturias, España"
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1702,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "familyChild": "@F500066@",
+      "familySpouse": [
+        "@F500064@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500153@",
+      "name": "Felipa Díaz Casariego",
+      "given": "Felipa",
+      "surname": "Díaz Casariego",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1704",
+        "place": null
+      },
+      "death": {
+        "date": "12 JUN 1778",
+        "place": "Meiro, Coaña, Principado de Asturias, España"
+      },
+      "birthYear": 1704,
+      "deathYear": 1778,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "También figura como Felipa Rodríguez-Casariego y Acevedo.",
+        "Árbol administrado por M. Amor Sánchez de Ron.",
+        "Árbol administrado por Óscar Á.G.",
+        "Información aportada desde el árbol administrado por S. López López, España.",
+        "Ancestro directo a ocho generaciones. Esposo registrado: Diego Antonio Sánchez de Ron Miranda Villamil Trelles y Cantoira; la fuente de S. López López lo denomina Diego Sánchez de Ron Miranda Villamil Trelles y Lantoira. La fuente menciona como hijos a José y Juan Antonio; el árbol conserva además a María Francisca y María Rosa Sánchez de Ron procedentes de información previa."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500064@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500154@",
+      "name": "Pelayo Antonio Méndez-Trelles y Morán",
+      "given": "Pelayo Antonio",
+      "surname": "Méndez-Trelles y Morán",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1713",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1713,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500083@",
+      "familySpouse": [
+        "@F500065@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500155@",
+      "name": "María Rosa González-Trelles",
+      "given": "María Rosa",
+      "surname": "González-Trelles",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1713",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1713,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500065@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500156@",
+      "name": "Diego Sánchez de Ron Miranda Villamil Trelles y Cantoira",
+      "given": "Diego",
+      "surname": "Sánchez de Ron Miranda Villamil Trelles y Cantoira",
+      "sex": "M",
+      "birth": {
+        "date": "11 DEC 1674",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1674,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500067@",
+      "familySpouse": [
+        "@F500066@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500157@",
+      "name": "Ana Méndez-Infanzón Trelles",
+      "given": "Ana",
+      "surname": "Méndez-Infanzón Trelles",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1672",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1672,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500068@",
+      "familySpouse": [
+        "@F500066@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500158@",
+      "name": "Salvador Sánchez de Ron y Rodil",
+      "given": "Salvador",
+      "surname": "Sánchez de Ron y Rodil",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1644",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1644,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500133@",
+      "familySpouse": [
+        "@F500067@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500159@",
+      "name": "Dominga Díaz Lantoria Villamil",
+      "given": "Dominga",
+      "surname": "Díaz Lantoria Villamil",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1644",
+        "place": null
+      },
+      "death": {
+        "date": "BEF 1722",
+        "place": null
+      },
+      "birthYear": 1644,
+      "deathYear": 1722,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500067@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500160@",
+      "name": "Alonso García-Infanzón Fernández",
+      "given": "Alonso",
+      "surname": "García-Infanzón Fernández",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1642",
+        "place": "Coaña, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1642,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500135@",
+      "familySpouse": [
+        "@F500068@",
+        "@F500124@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500161@",
+      "name": "Antonia López de Folgueras",
+      "given": "Antonia",
+      "surname": "López de Folgueras",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1642",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1642,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500068@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500162@",
+      "name": "José Antonio González Fernández",
+      "given": "José Antonio",
+      "surname": "González Fernández",
+      "sex": "M",
+      "birth": {
+        "date": "FEB 1743",
+        "place": "Armental, Navia, Principado de Asturias, España"
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1743,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "También «Joseph Antonio González Fernández-Medal»; ancestro directo (7.ª generación). Árbol administrado por M. Amor Sánchez de Ron.",
+        "Según Árbol administrado por Óscar Á.G., la madre figura como «Desconocido»."
+      ],
+      "familyChild": "@F500070@",
+      "familySpouse": [
+        "@F500069@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500163@",
+      "name": "Ana María Fernández-Pico Fernández-Casadoiro",
+      "given": "Ana María",
+      "surname": "Fernández-Pico Fernández-Casadoiro",
+      "sex": "F",
+      "birth": {
+        "date": "1745",
+        "place": "Armental, Navia, Principado de Asturias, España"
+      },
+      "death": {
+        "date": null,
+        "place": "Villanueva, Principado de Asturias, España"
+      },
+      "birthYear": 1745,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "familyChild": "@F500075@",
+      "familySpouse": [
+        "@F500069@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500164@",
+      "name": "José Antonio González Fernández",
+      "given": "José Antonio",
+      "surname": "González Fernández",
+      "sex": "M",
+      "birth": {
+        "date": "28 NOV 1728",
+        "place": "Armental, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "1777",
+        "place": null
+      },
+      "birthYear": 1728,
+      "deathYear": 1777,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "También «José Antonio González de Oneta (Cavanamarruga) Fernández-Chambergo». Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "familyChild": "@F500071@",
+      "familySpouse": [
+        "@F500070@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500165@",
+      "name": "Bernarda Fernández-Medal González",
+      "given": "Bernarda",
+      "surname": "Fernández-Medal González",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1713",
+        "place": "Armental, Principado de Asturias, España"
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1713,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "familyChild": "@F500072@",
+      "familySpouse": [
+        "@F500070@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500166@",
+      "name": "Domingo González García",
+      "given": "Domingo",
+      "surname": "González García",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1698",
+        "place": null
+      },
+      "death": {
+        "date": "1761",
+        "place": null
+      },
+      "birthYear": 1698,
+      "deathYear": 1761,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500073@",
+      "familySpouse": [
+        "@F500071@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500167@",
+      "name": "Isabel Fernández-Chambergo Fernández",
+      "given": "Isabel",
+      "surname": "Fernández-Chambergo Fernández",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1698",
+        "place": null
+      },
+      "death": {
+        "date": "1761",
+        "place": "Armental, Principado de Asturias, España"
+      },
+      "birthYear": 1698,
+      "deathYear": 1761,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500074@",
+      "familySpouse": [
+        "@F500071@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500168@",
+      "name": "Nombre desconocido",
+      "given": null,
+      "surname": null,
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1683",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1683,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500072@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500169@",
+      "name": "Diego González de Oneta Méndez",
+      "given": "Diego",
+      "surname": "González de Oneta Méndez",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1668",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1668,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500142@",
+      "familySpouse": [
+        "@F500073@",
+        "@F500143@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500170@",
+      "name": "Dominga García San Pelayo",
+      "given": "Dominga",
+      "surname": "García San Pelayo",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1668",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1668,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "También «Dominga García-Sampelayo». Árbol administrado por S. López López.",
+        "Ancestro directo (10.ª generación)."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500073@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500171@",
+      "name": "Pedro Fernández-Chambergo",
+      "given": "Pedro",
+      "surname": "Fernández-Chambergo",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1668",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1668,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500074@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500172@",
+      "name": "Juan Fernández Pico",
+      "given": "Juan",
+      "surname": "Fernández Pico",
+      "sex": "M",
+      "birth": {
+        "date": "1720",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1720,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500153@",
+      "familySpouse": [
+        "@F500075@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500173@",
+      "name": "María Fernández-Casadoiro",
+      "given": "María",
+      "surname": "Fernández-Casadoiro",
+      "sex": "F",
+      "birth": {
+        "date": "1720",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1720,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500075@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500174@",
+      "name": "Gregorio Estébanez",
+      "given": "Gregorio",
+      "surname": "Estébanez",
+      "sex": "M",
+      "birth": null,
+      "death": {
+        "date": "1878",
+        "place": null
+      },
+      "birthYear": null,
+      "deathYear": 1878,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "La atribución anterior como padre de Lucía Gutiérrez fue desplazada por los datos aportados por el usuario el 22-09-2026; identidad histórica pendiente de revisión."
+      ],
+      "familyChild": "@F500077@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500175@",
+      "name": "Juan Estébanez",
+      "given": "Juan",
+      "surname": "Estébanez",
+      "sex": "M",
+      "birth": {
+        "date": "1847",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1847,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500077@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500176@",
+      "name": "Agustina",
+      "given": "Agustina",
+      "surname": null,
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1847",
+        "place": null
+      },
+      "death": {
+        "date": "1852",
+        "place": null
+      },
+      "birthYear": 1847,
+      "deathYear": 1852,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500078@",
+      "familySpouse": [
+        "@F500077@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500177@",
+      "name": "Valentín Mata",
+      "given": "Valentín",
+      "surname": "Mata",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1817",
+        "place": null
+      },
+      "death": {
+        "date": null,
+        "place": null
+      },
+      "birthYear": 1817,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500078@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "occupations": [],
+      "notes": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500178@",
+      "name": "Sr. García",
+      "given": "Sr.",
+      "surname": "García",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1911",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1911,
+      "deathYear": null,
+      "living": true,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500079@"
+      ]
+    },
+    {
+      "occupations": [],
+      "notes": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500179@",
+      "name": "Sra. Arias",
+      "given": "Sra.",
+      "surname": "Arias",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1911",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1911,
+      "deathYear": null,
+      "living": true,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500079@"
+      ]
+    },
+    {
+      "occupations": [],
+      "notes": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500180@",
+      "name": "José Luis García Arias",
+      "given": "José Luis",
+      "surname": "García Arias",
+      "sex": "M",
+      "birth": {
+        "date": "1940/1941",
+        "place": null
+      },
+      "death": {
+        "date": "2026",
+        "place": "Avilés, Principado de Asturias, España"
+      },
+      "birthYear": 1940,
+      "deathYear": 2026,
+      "living": false,
+      "familyChild": "@F500079@",
+      "familySpouse": [
+        "@F500080@"
+      ]
+    },
+    {
+      "occupations": [],
+      "notes": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500181@",
+      "name": "Roberto \"Pichi\" García Arias",
+      "given": "Roberto \"Pichi\"",
+      "surname": "García Arias",
+      "sex": "M",
+      "birth": {
+        "date": "1942/1943",
+        "place": null
+      },
+      "death": {
+        "date": "2023",
+        "place": "Avilés, Principado de Asturias, España"
+      },
+      "birthYear": 1942,
+      "deathYear": 2023,
+      "living": false,
+      "familyChild": "@F500079@",
+      "familySpouse": []
+    },
+    {
+      "occupations": [],
+      "notes": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500182@",
+      "name": "Mariceli García Arias",
+      "given": "Mariceli",
+      "surname": "García Arias",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1941",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1941,
+      "deathYear": null,
+      "living": true,
+      "familyChild": "@F500079@",
+      "familySpouse": []
+    },
+    {
+      "occupations": [],
+      "notes": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500183@",
+      "name": "Pili García Arias",
+      "given": "Pili",
+      "surname": "García Arias",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1941",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1941,
+      "deathYear": null,
+      "living": true,
+      "familyChild": "@F500079@",
+      "familySpouse": []
+    },
+    {
+      "occupations": [],
+      "notes": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500184@",
+      "name": "Mari Carmen García Arias",
+      "given": "Mari Carmen",
+      "surname": "García Arias",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1941",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1941,
+      "deathYear": null,
+      "living": true,
+      "familyChild": "@F500079@",
+      "familySpouse": []
+    },
+    {
+      "occupations": [],
+      "notes": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500185@",
+      "name": "Margot García Arias",
+      "given": "Margot",
+      "surname": "García Arias",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1941",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1941,
+      "deathYear": null,
+      "living": true,
+      "familyChild": "@F500079@",
+      "familySpouse": []
+    },
+    {
+      "occupations": [],
+      "notes": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500186@",
+      "name": "Rosi García Arias",
+      "given": "Rosi",
+      "surname": "García Arias",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1941",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1941,
+      "deathYear": null,
+      "living": true,
+      "familyChild": "@F500079@",
+      "familySpouse": []
+    },
+    {
+      "occupations": [],
+      "notes": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500187@",
+      "name": "Isabel Becerril Santos",
+      "given": "Isabel",
+      "surname": "Becerril Santos",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1939",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1939,
+      "deathYear": null,
+      "living": true,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500080@"
+      ]
+    },
+    {
+      "occupations": [],
+      "notes": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500188@",
+      "name": "Daniel García Becerril",
+      "given": "Daniel",
+      "surname": "García Becerril",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1970",
+        "place": "Avilés, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1970,
+      "deathYear": null,
+      "living": true,
+      "familyChild": "@F500080@",
+      "familySpouse": []
+    },
+    {
+      "occupations": [],
+      "notes": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500189@",
+      "name": "Luis Miguel García Becerril",
+      "given": "Luis Miguel",
+      "surname": "García Becerril",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1970",
+        "place": "Avilés, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1970,
+      "deathYear": null,
+      "living": true,
+      "familyChild": "@F500080@",
+      "familySpouse": [
+        "@F500081@"
+      ]
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Esposa de Luis Miguel García Becerril; apellidos no localizados."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500190@",
+      "name": "María",
+      "given": "María",
+      "surname": null,
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1970",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1970,
+      "deathYear": null,
+      "living": true,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500081@"
+      ]
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hija de Luis Miguel García Becerril."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500191@",
+      "name": "Eugenia",
+      "given": "Eugenia",
+      "surname": null,
+      "sex": "F",
+      "birth": {
+        "date": "ABT 2000",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 2000,
+      "deathYear": null,
+      "living": true,
+      "familyChild": "@F500081@",
+      "familySpouse": []
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hijo de Luis Miguel García Becerril."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500192@",
+      "name": "Miguel",
+      "given": "Miguel",
+      "surname": null,
+      "sex": "M",
+      "birth": {
+        "date": "ABT 2000",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 2000,
+      "deathYear": null,
+      "living": true,
+      "familyChild": "@F500081@",
+      "familySpouse": []
+    },
+    {
+      "occupations": [],
+      "notes": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500193@",
+      "name": "Antonia Esperanza Maíllo Martín",
+      "given": "Antonia Esperanza",
+      "surname": "Maíllo Martín",
+      "sex": "F",
+      "birth": {
+        "date": "18 DEC 1927",
+        "place": "Mogarraz, Castilla y León, España"
+      },
+      "death": {
+        "date": "1 JUL 1928",
+        "place": null
+      },
+      "birthYear": 1927,
+      "deathYear": 1928,
+      "living": false,
+      "familyChild": "@F500025@",
+      "familySpouse": []
+    },
+    {
+      "occupations": [],
+      "notes": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500194@",
+      "name": "Sabina Maíllo Martín",
+      "given": "Sabina",
+      "surname": "Maíllo Martín",
+      "sex": "F",
+      "birth": {
+        "date": "18 AUG 1929",
+        "place": "Mogarraz, Castilla y León, España"
+      },
+      "death": {
+        "date": "19 OCT 1930",
+        "place": null
+      },
+      "birthYear": 1929,
+      "deathYear": 1930,
+      "living": false,
+      "familyChild": "@F500025@",
+      "familySpouse": []
+    },
+    {
+      "occupations": [],
+      "notes": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500195@",
+      "name": "Luciano Sierra Martínez",
+      "given": "Luciano",
+      "surname": "Sierra Martínez",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1934",
+        "place": "O Porto do Barqueiro, Galicia, España"
+      },
+      "death": null,
+      "birthYear": 1934,
+      "deathYear": null,
+      "living": true,
+      "familyChild": "@F500041@",
+      "familySpouse": []
+    },
+    {
+      "occupations": [],
+      "notes": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500196@",
+      "name": "María I. Sierra Martínez",
+      "given": "María I.",
+      "surname": "Sierra Martínez",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1934",
+        "place": "O Porto do Barqueiro, Galicia, España"
+      },
+      "death": null,
+      "birthYear": 1934,
+      "deathYear": null,
+      "living": true,
+      "familyChild": "@F500041@",
+      "familySpouse": []
+    },
+    {
+      "occupations": [],
+      "notes": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500197@",
+      "name": "Juliana Sierra Martínez",
+      "given": "Juliana",
+      "surname": "Sierra Martínez",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1934",
+        "place": "O Porto do Barqueiro, Galicia, España"
+      },
+      "death": null,
+      "birthYear": 1934,
+      "deathYear": null,
+      "living": true,
+      "familyChild": "@F500041@",
+      "familySpouse": []
+    },
+    {
+      "occupations": [],
+      "notes": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500198@",
+      "name": "Lola Sierra Martínez",
+      "given": "Lola",
+      "surname": "Sierra Martínez",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1934",
+        "place": "O Porto do Barqueiro, Galicia, España"
+      },
+      "death": null,
+      "birthYear": 1934,
+      "deathYear": null,
+      "living": true,
+      "familyChild": "@F500041@",
+      "familySpouse": []
+    },
+    {
+      "occupations": [],
+      "notes": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500199@",
+      "name": "Herminio Sierra Martínez",
+      "given": "Herminio",
+      "surname": "Sierra Martínez",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1934",
+        "place": "O Porto do Barqueiro, Galicia, España"
+      },
+      "death": null,
+      "birthYear": 1934,
+      "deathYear": null,
+      "living": true,
+      "familyChild": "@F500041@",
+      "familySpouse": []
+    },
+    {
+      "occupations": [],
+      "notes": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500200@",
+      "name": "Modesto Sierra Martínez",
+      "given": "Modesto",
+      "surname": "Sierra Martínez",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1934",
+        "place": "O Porto do Barqueiro, Galicia, España"
+      },
+      "death": null,
+      "birthYear": 1934,
+      "deathYear": null,
+      "living": true,
+      "familyChild": "@F500041@",
+      "familySpouse": []
+    },
+    {
+      "occupations": [],
+      "notes": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "id": "@I500201@",
+      "name": "Rosita Sierra Martínez",
+      "given": "Rosita",
+      "surname": "Sierra Martínez",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1934",
+        "place": "O Porto do Barqueiro, Galicia, España"
+      },
+      "death": null,
+      "birthYear": 1934,
+      "deathYear": null,
+      "living": true,
+      "familyChild": "@F500041@",
+      "familySpouse": []
+    },
+    {
+      "id": "@I500202@",
+      "name": "Leonor Suárez Trelles y Villamil",
+      "given": "Leonor",
+      "surname": "Suárez Trelles y Villamil",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1642",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1642,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Esposa de Alonso García-Infanzón (dote de 1671).",
+        "Conexión propuesta (hipótesis): hija de Lope Suárez de Trelles Coaña y Villamil por coincidencia de apellido «Suárez Trelles y Villamil» y cronología (dote de 1671)."
+      ],
+      "familyChild": "@F500131@",
+      "familySpouse": [
+        "@F500124@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500203@",
+      "name": "Juan \"el viejo\" García-Infanzón y de la Vega",
+      "given": "Juan \"el viejo\"",
+      "surname": "García-Infanzón y de la Vega",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1612",
+        "place": "Coaña, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1612,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Probanza de 1627 con sus hijos Juan, Miguel y Alonso."
+      ],
+      "familyChild": "@F500138@",
+      "familySpouse": [
+        "@F500082@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500204@",
+      "name": "Juan García-Infanzón Méndez-Trelles",
+      "given": "Juan",
+      "surname": "García-Infanzón Méndez-Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1642",
+        "place": "Coaña, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1642,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Hermano de Miguel y Alonso."
+      ],
+      "familyChild": "@F500082@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500205@",
+      "name": "Miguel García-Infanzón Méndez-Trelles",
+      "given": "Miguel",
+      "surname": "García-Infanzón Méndez-Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1642",
+        "place": "Coaña, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1642,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Hermano de Juan y Alonso."
+      ],
+      "familyChild": "@F500082@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500206@",
+      "name": "Pelayo Antonio Méndez Trelles",
+      "given": "Pelayo Antonio",
+      "surname": "Méndez Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1683",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1683,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Padre del homónimo; patrono de las Pías Memorias de Villacondide."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500083@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500207@",
+      "name": "Pelayo Antonio Méndez Trelles",
+      "given": "Pelayo Antonio",
+      "surname": "Méndez Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1713",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1713,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Hijo homónimo «menor»; padrón de Villacondide de 1780."
+      ],
+      "familyChild": "@F500083@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500208@",
+      "name": "Suero González de Trelles",
+      "given": "Suero",
+      "surname": "González de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "BET 1515 AND 1520",
+        "place": "Pumarín, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "BEF 1610",
+        "place": null
+      },
+      "birthYear": 1517,
+      "deathYear": 1610,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Natural de Pumarín.",
+        "Nacimiento estimado entre 1515 y 1520 por Gonzalo Anes."
+      ],
+      "familyChild": "@F500087@",
+      "familySpouse": [
+        "@F500084@",
+        "@F500085@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500209@",
+      "name": "María Alfonso Infanzón",
+      "given": "María Alfonso",
+      "surname": "Infanzón",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1530",
+        "place": "Coaña, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "BEF 1598",
+        "place": null
+      },
+      "birthYear": 1530,
+      "deathYear": 1598,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Nacida en Coaña; hija de Lucas Fernández Infanzón y María Alfonso.",
+        "Nacimiento aproximado inferido del matrimonio atribuido a 1550–1560; murió antes de 1598.",
+        "Documentada todavía con vida el 3 de octubre de 1595 como madrina, junto a su marido Suero González de Trelles, en la parroquia de Villacondide. Fuente: Gonzalo Anes y Álvarez de Castrillón, «Una investigación genealógica: estirpes de la Casa Trelles», basada en el primer libro de bautizados de Villacondide, folio 5."
+      ],
+      "familyChild": "@F500086@",
+      "familySpouse": [
+        "@F500084@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500210@",
+      "name": "Lucas Fernández Infanzón",
+      "given": "Lucas",
+      "surname": "Fernández Infanzón",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1500",
+        "place": "Coaña, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1500,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Natural y vecino de Coaña; consta como padre de María Alfonso Infanzón y esposo de María Alfonso. Fuente: Gonzalo Anes y Álvarez de Castrillón, «Una investigación genealógica: estirpes de la Casa Trelles», con referencia a documentación parroquial y notarial asturiana."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500086@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500211@",
+      "name": "María Alfonso",
+      "given": "María",
+      "surname": "Alfonso",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1500",
+        "place": "Coaña, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1500,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Natural y vecina de Coaña; consta como madre de María Alfonso Infanzón y esposa de Lucas Fernández Infanzón. Fuente: Gonzalo Anes y Álvarez de Castrillón, «Una investigación genealógica: estirpes de la Casa Trelles», con referencia a documentación parroquial y notarial asturiana."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500086@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500212@",
+      "name": "Catalina Suárez de Trelles Infanzón",
+      "given": "Catalina",
+      "surname": "Suárez de Trelles Infanzón",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1580",
+        "place": "Pumarín, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1580,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Casó en Villacondide en 1605 con Gonzalo Méndez de Coaña.",
+        "Nacimiento aproximado inferido de su matrimonio en 1605."
+      ],
+      "familyChild": "@F500084@",
+      "familySpouse": [
+        "@F500095@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500213@",
+      "name": "Gonzalo Méndez de Coaña",
+      "given": "Gonzalo",
+      "surname": "Méndez de Coaña",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1575",
+        "place": "Meiro, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1575,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Vincularse a la casa de Meiro.",
+        "Nacimiento aproximado inferido de su matrimonio con Catalina en 1605."
+      ],
+      "familyChild": "@F500096@",
+      "familySpouse": [
+        "@F500095@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500214@",
+      "name": "Lope Suárez de Trelles Coaña y Villamil",
+      "given": "Lope",
+      "surname": "Suárez de Trelles Coaña y Villamil",
+      "sex": "M",
+      "birth": {
+        "date": "12 APR 1612",
+        "place": "Serandinas, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1612,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Bautizado en Villacondide; natural de Serandinas.",
+        "Conexión propuesta (hipótesis): padre de Leonor Suárez Trelles y Villamil (dote de 1671)."
+      ],
+      "familyChild": "@F500095@",
+      "familySpouse": [
+        "@F500131@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500215@",
+      "name": "Benito Trelles Coaña y Villamil",
+      "given": "Benito",
+      "surname": "Trelles Coaña y Villamil",
+      "sex": "M",
+      "birth": {
+        "date": "4 APR 1613",
+        "place": "Serandinas, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "7 NOV 1682",
+        "place": "Madrid, Comunidad de Madrid, España"
+      },
+      "birthYear": 1613,
+      "deathYear": 1682,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Fallecido en Madrid."
+      ],
+      "familyChild": "@F500095@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500216@",
+      "name": "Lope Suárez de Meiro",
+      "given": "Lope",
+      "surname": "Suárez de Meiro",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1545",
+        "place": "Serandinas, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1545,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Natural de Serandinas."
+      ],
+      "familyChild": "@F500097@",
+      "familySpouse": [
+        "@F500096@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500217@",
+      "name": "Leonor Alfonso de Lantoira y Villamil",
+      "given": "Leonor",
+      "surname": "Alfonso de Lantoira y Villamil",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1545",
+        "place": "San Juan de Moldes, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1545,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Casa de Lantoira."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500096@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500218@",
+      "name": "Fernando Fernández de Trelles",
+      "given": "Fernando",
+      "surname": "Fernández de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1480",
+        "place": "Pumarín, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1480,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Nacimiento hipotético hacia 1480 según la reconstrucción crítica de Gonzalo Anes."
+      ],
+      "familyChild": "@F500088@",
+      "familySpouse": [
+        "@F500087@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500219@",
+      "name": "Teresa Díaz de Trelles",
+      "given": "Teresa",
+      "surname": "Díaz de Trelles",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1485",
+        "place": "Pumarín, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1485,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "También «Teresa del Río».",
+        "También «Teresa Trelles del Río y Valledor»; fecha aproximada inferida del matrimonio estimado en 1505–1510."
+      ],
+      "familyChild": "@F500091@",
+      "familySpouse": [
+        "@F500087@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500220@",
+      "name": "Lope Méndez de Trelles",
+      "given": "Lope",
+      "surname": "Méndez de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1450",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1450,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "«El de Villar»; hipótesis como padre de Fernando."
+      ],
+      "familyChild": "@F500090@",
+      "familySpouse": [
+        "@F500088@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500221@",
+      "name": "María García de Trelles",
+      "given": "María",
+      "surname": "García de Trelles",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1450",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1450,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Madre de Fernando Fernández de Trelles."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500088@",
+        "@F500089@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500222@",
+      "name": "Fernán López de Trelles",
+      "given": "Fernán",
+      "surname": "López de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1420",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1420,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "«De Villar/Villarín»; documentado 1542/1554."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500090@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500223@",
+      "name": "Suero González de Trelles",
+      "given": "Suero",
+      "surname": "González de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1455",
+        "place": "El Río, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1455,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "«Del Río», Pumarín."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500091@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500224@",
+      "name": "María Méndez Morán de Navia",
+      "given": "María",
+      "surname": "Méndez Morán de Navia",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1517",
+        "place": "Navia, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1517,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Segunda esposa de Suero González."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500085@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500225@",
+      "name": "García Morán de Trelles",
+      "given": "García",
+      "surname": "Morán de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1547",
+        "place": "Pumarín, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "24 APR 1680",
+        "place": null
+      },
+      "birthYear": 1547,
+      "deathYear": 1680,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Sepultado en la capilla mayor de Villacondide."
+      ],
+      "familyChild": "@F500085@",
+      "familySpouse": [
+        "@F500101@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500226@",
+      "name": "María Álvarez de Trelles",
+      "given": "María",
+      "surname": "Álvarez de Trelles",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1547",
+        "place": "Pumarín, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1547,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500085@",
+      "familySpouse": [
+        "@F500109@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500227@",
+      "name": "Alonso González de Trelles",
+      "given": "Alonso",
+      "surname": "González de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1554",
+        "place": "Pumarín, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1554,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Bachiller y cura de Trelles."
+      ],
+      "familyChild": "@F500084@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500228@",
+      "name": "Suero González de Trelles",
+      "given": "Suero",
+      "surname": "González de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1554",
+        "place": "Pumarín, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1554,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Licenciado."
+      ],
+      "familyChild": "@F500084@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500229@",
+      "name": "Lucas Fernández de Trelles",
+      "given": "Lucas",
+      "surname": "Fernández de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1554",
+        "place": "Pumarín, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1554,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Presbítero."
+      ],
+      "familyChild": "@F500084@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500230@",
+      "name": "María Alonso de Trelles",
+      "given": "María",
+      "surname": "Alonso de Trelles",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1554",
+        "place": "Pumarín, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1554,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Casó con Alonso López Infanzón."
+      ],
+      "familyChild": "@F500084@",
+      "familySpouse": [
+        "@F500107@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500231@",
+      "name": "Alonso López Infanzón",
+      "given": "Alonso",
+      "surname": "López Infanzón",
+      "sex": "M",
+      "birth": {
+        "date": "1555",
+        "place": "Folgueras, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "AFT 9 MAR 1616",
+        "place": null
+      },
+      "birthYear": 1555,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Vecino de Folgueras."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500107@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500232@",
+      "name": "Teresa Díaz de Trelles Infanzón",
+      "given": "Teresa",
+      "surname": "Díaz de Trelles Infanzón",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1554",
+        "place": "Pumarín, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1554,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500084@",
+      "familySpouse": [
+        "@F500108@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500233@",
+      "name": "Diego Pérez de Trelles Pumarín y Navia",
+      "given": "Diego",
+      "surname": "Pérez de Trelles Pumarín y Navia",
+      "sex": "M",
+      "birth": {
+        "date": null,
+        "place": "Talarén, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Señor de la casa de Talarén."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500108@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500234@",
+      "name": "Diego Rodríguez de Trelles",
+      "given": "Diego",
+      "surname": "Rodríguez de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1450",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1450,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Hermano de Lope Méndez; padrón de 1524.",
+        "Conexión propuesta (hipótesis): hermano de Lope Méndez de Trelles, hijo de Fernán López de Trelles."
+      ],
+      "familyChild": "@F500090@",
+      "familySpouse": [
+        "@F500123@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500235@",
+      "name": "Lope Méndez de Trelles",
+      "given": "Lope",
+      "surname": "Méndez de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1513",
+        "place": "Pumarín, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1513,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Hijo de Fernando Fernández (padrón 1584)."
+      ],
+      "familyChild": "@F500087@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500236@",
+      "name": "Juan García",
+      "given": "Juan",
+      "surname": "García",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1513",
+        "place": "Pumarín, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1513,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Hijo de Fernando Fernández (padrón 1584)."
+      ],
+      "familyChild": "@F500087@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500237@",
+      "name": "Domingo Pérez de Trelles",
+      "given": "Domingo",
+      "surname": "Pérez de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1513",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1513,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500087@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500238@",
+      "name": "Fernando Fernández de Trelles",
+      "given": "Fernando",
+      "surname": "Fernández de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1513",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1513,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Homónimo de su padre."
+      ],
+      "familyChild": "@F500087@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500239@",
+      "name": "Marcos Fernández de Trelles",
+      "given": "Marcos",
+      "surname": "Fernández de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1513",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1513,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500087@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500240@",
+      "name": "Lucas Fernández Infanzón",
+      "given": "Lucas",
+      "surname": "Fernández Infanzón",
+      "sex": "M",
+      "birth": {
+        "date": null,
+        "place": "Coaña, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Esposo de María Álvarez de Trelles (s. XVII)."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500109@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500241@",
+      "name": "Suero González de Trelles",
+      "given": "Suero",
+      "surname": "González de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1450",
+        "place": "Pumarín, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1450,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Hipótesis: padre alternativo de Fernando Fernández."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500092@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500242@",
+      "name": "Marcos González de Trelles",
+      "given": "Marcos",
+      "surname": "González de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1554",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1554,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Clérigo y cura de Serandinas."
+      ],
+      "familyChild": "@F500084@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500243@",
+      "name": "Diego García de Trelles",
+      "given": "Diego",
+      "surname": "García de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1554",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1554,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500084@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500244@",
+      "name": "Gonzalo González de Trelles",
+      "given": "Gonzalo",
+      "surname": "González de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1554",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1554,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Clérigo."
+      ],
+      "familyChild": "@F500084@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500245@",
+      "name": "Dominga López de Trelles",
+      "given": "Dominga",
+      "surname": "López de Trelles",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1610",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1610,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Esposa de García Morán de Trelles."
+      ],
+      "familyChild": "@F500102@",
+      "familySpouse": [
+        "@F500101@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500246@",
+      "name": "Alonso López de Trelles",
+      "given": "Alonso",
+      "surname": "López de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1580",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1580,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Padre de Dominga."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500102@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500247@",
+      "name": "Alonso Morán de Trelles",
+      "given": "Alonso",
+      "surname": "Morán de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "25 FEB 1636",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "29 NOV 1697",
+        "place": null
+      },
+      "birthYear": 1636,
+      "deathYear": 1697,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500101@",
+      "familySpouse": [
+        "@F500103@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500248@",
+      "name": "García Morán de Trelles",
+      "given": "García",
+      "surname": "Morán de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "27 SEP 1637",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1637,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Homónimo de su padre."
+      ],
+      "familyChild": "@F500101@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500249@",
+      "name": "María Morán de Trelles",
+      "given": "María",
+      "surname": "Morán de Trelles",
+      "sex": "F",
+      "birth": {
+        "date": "28 APR 1639",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1639,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500101@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500250@",
+      "name": "Gómez Ares de Trelles",
+      "given": "Gómez Ares",
+      "surname": "de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": null,
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Activo 1524–1554; clérigo."
+      ],
+      "familyChild": null,
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500251@",
+      "name": "Álvaro González de Trelles",
+      "given": "Álvaro",
+      "surname": "González de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1480",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1480,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Hijo de Suero González (padrón 1524)."
+      ],
+      "familyChild": "@F500093@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500252@",
+      "name": "Suero González de Trelles",
+      "given": "Suero",
+      "surname": "González de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1450",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1450,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "TRADICIÓN: sucesor de Lope Díaz y padre atribuido de Fernando Fernández; posible identificación con el Suero del padrón de 1524, no probada."
+      ],
+      "familyChild": "@F500122@",
+      "familySpouse": [
+        "@F500093@",
+        "@F500130@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500253@",
+      "name": "Juan Alonso de Trelles",
+      "given": "Juan Alonso",
+      "surname": "de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": null,
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Hijodalgo de los solares de Luera, Riego y Tineo."
+      ],
+      "familyChild": null,
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500254@",
+      "name": "Fernando Fernández de Pumarín",
+      "given": "Fernando",
+      "surname": "Fernández de Pumarín",
+      "sex": "M",
+      "birth": {
+        "date": null,
+        "place": "Pumarín, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Padrón de 1554."
+      ],
+      "familyChild": null,
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500255@",
+      "name": "Diego García de Trelles",
+      "given": "Diego",
+      "surname": "García de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1355",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "1385",
+        "place": "Aljubarrota, Portugal"
+      },
+      "birthYear": 1355,
+      "deathYear": 1385,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "TRADICIÓN: señor de Trelles, muerto en Aljubarrota (1385).",
+        "Nacimiento aproximado calculado por Gonzalo Anes al suponer unos treinta años en 1385; tradición no documentada."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500119@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500256@",
+      "name": "Mendo Díaz de Trelles",
+      "given": "Mendo",
+      "surname": "Díaz de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1380",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1380,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "TRADICIÓN: padre de Garci Sánchez.",
+        "Nacimiento aproximado propuesto por Gonzalo Anes; tradición no documentada."
+      ],
+      "familyChild": "@F500119@",
+      "familySpouse": [
+        "@F500120@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500257@",
+      "name": "Garci Sánchez de Trelles",
+      "given": "Garci",
+      "surname": "Sánchez de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "BET 1405 AND 1420",
+        "place": "Pumarín, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1412,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "TRADICIÓN: hizo solar y casa en el Castro de Pumarín.",
+        "Nacimiento estimado entre 1405 y 1420; matrimonio situado hipotéticamente hacia 1440."
+      ],
+      "familyChild": "@F500120@",
+      "familySpouse": [
+        "@F500121@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500258@",
+      "name": "Lope Díaz de Trelles",
+      "given": "Lope",
+      "surname": "Díaz de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1445",
+        "place": "Pumarín, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1445,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "TRADICIÓN: padre de un Suero González.",
+        "Nacimiento aproximado hacia 1445 según la reconstrucción crítica de Gonzalo Anes."
+      ],
+      "familyChild": "@F500121@",
+      "familySpouse": [
+        "@F500122@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500259@",
+      "name": "Rodrigo Díaz de Trelles",
+      "given": "Rodrigo",
+      "surname": "Díaz de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1455",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1455,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "TRADICIÓN: padre de Teresa del Río.",
+        "Fecha generacional aproximada, inferida de la cronología atribuida a su hija Teresa; confianza muy baja."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500094@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500260@",
+      "name": "Ana Valledor",
+      "given": "Ana",
+      "surname": "Valledor",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1460",
+        "place": "Asturias, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1460,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "TRADICIÓN: esposa de Rodrigo Díaz de Trelles.",
+        "Fecha y lugar amplios inferidos de la cronología atribuida a su hija Teresa; confianza muy baja."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500094@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500261@",
+      "name": "Teresa García de Luera y Trelles",
+      "given": "Teresa",
+      "surname": "García de Luera y Trelles",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1580",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1580,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "También Teresa Castrillón Valledor."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500102@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500262@",
+      "name": "Francisco López de Trelles Villamil",
+      "given": "Francisco",
+      "surname": "López de Trelles Villamil",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1610",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1610,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500102@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500263@",
+      "name": "Ana López de Trelles",
+      "given": "Ana",
+      "surname": "López de Trelles",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1610",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1610,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500102@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500264@",
+      "name": "María López de Trelles",
+      "given": "María",
+      "surname": "López de Trelles",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1610",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "12 APR 1672",
+        "place": null
+      },
+      "birthYear": 1610,
+      "deathYear": 1672,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500102@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500265@",
+      "name": "Lucas Fernández Infanzón",
+      "given": "Lucas",
+      "surname": "Fernández Infanzón",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1582",
+        "place": "Coaña, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1582,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Hipótesis con María Alonso de la Vega.",
+        "Ancestro directo (5 generaciones) de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "familyChild": "@F500139@",
+      "familySpouse": [
+        "@F500138@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500266@",
+      "name": "Lope Alfonso de Pumarín",
+      "given": "Lope Alfonso",
+      "surname": "de Pumarín",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1450",
+        "place": "Pumarín, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1450,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Hipótesis: padre alternativo de Fernando Fernández."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500089@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500267@",
+      "name": "María Méndez Trelles y Morán",
+      "given": "María",
+      "surname": "Méndez Trelles y Morán",
+      "sex": "F",
+      "birth": {
+        "date": "4 DEC 1646",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1646,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "También Álvarez Morán."
+      ],
+      "familyChild": "@F500101@",
+      "familySpouse": [
+        "@F500112@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500268@",
+      "name": "María Álvarez Morán de Trelles y Villamil",
+      "given": "María Álvarez",
+      "surname": "Morán de Trelles y Villamil",
+      "sex": "F",
+      "birth": {
+        "date": "12 MAY 1651",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "27 JAN 1709",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "birthYear": 1651,
+      "deathYear": 1709,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500101@",
+      "familySpouse": [
+        "@F500104@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500269@",
+      "name": "Diego Méndez de la Calzada",
+      "given": "Diego",
+      "surname": "Méndez de la Calzada",
+      "sex": "M",
+      "birth": {
+        "date": "5 DEC 1640",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "10 APR 1711",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "birthYear": 1640,
+      "deathYear": 1711,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500105@",
+      "familySpouse": [
+        "@F500104@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500270@",
+      "name": "Lope Méndez de la Murola",
+      "given": "Lope",
+      "surname": "Méndez de la Murola",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1610",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1610,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500106@",
+      "familySpouse": [
+        "@F500105@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500271@",
+      "name": "María Méndez",
+      "given": "María",
+      "surname": "Méndez",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1610",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1610,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500105@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500272@",
+      "name": "Diego Méndez de Pumarín",
+      "given": "Diego",
+      "surname": "Méndez de Pumarín",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1580",
+        "place": "Pumarín, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1580,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500106@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500273@",
+      "name": "Dominga Pérez de la Calzada",
+      "given": "Dominga",
+      "surname": "Pérez de la Calzada",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1580",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1580,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500106@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500274@",
+      "name": "Antonio Morán de Trelles",
+      "given": "Antonio",
+      "surname": "Morán de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "10 MAR 1641",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1641,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500101@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500275@",
+      "name": "Francisco Morán de Trelles",
+      "given": "Francisco",
+      "surname": "Morán de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "9 DEC 1642",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1642,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500101@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500276@",
+      "name": "Francisco Morán de Trelles",
+      "given": "Francisco",
+      "surname": "Morán de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "24 MAY 1644",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1644,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500101@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500277@",
+      "name": "Antonia Morán de Trelles",
+      "given": "Antonia",
+      "surname": "Morán de Trelles",
+      "sex": "F",
+      "birth": {
+        "date": "30 MAY 1646",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1646,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500101@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500278@",
+      "name": "Suero Morán de Trelles",
+      "given": "Suero",
+      "surname": "Morán de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "12 APR 1657",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1657,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500101@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500279@",
+      "name": "Gonzalo Morán de Trelles",
+      "given": "Gonzalo",
+      "surname": "Morán de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "1 MAY 1663",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1663,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500101@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500280@",
+      "name": "Catalina Álvarez Morán Trelles y Villamil",
+      "given": "Catalina",
+      "surname": "Álvarez Morán Trelles y Villamil",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1577",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1577,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500101@",
+      "familySpouse": [
+        "@F500111@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500281@",
+      "name": "Lucía López de Aguiar",
+      "given": "Lucía",
+      "surname": "López de Aguiar",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1639",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "24 AUG 1700",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "birthYear": 1639,
+      "deathYear": 1700,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500103@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500282@",
+      "name": "Antonio Morán de Trelles",
+      "given": "Antonio",
+      "surname": "Morán de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "9 JUL 1659",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1659,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500103@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500283@",
+      "name": "María Morán de Trelles",
+      "given": "María",
+      "surname": "Morán de Trelles",
+      "sex": "F",
+      "birth": {
+        "date": "14 MAY 1662",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1662,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500103@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500284@",
+      "name": "Teresa Morán de Trelles",
+      "given": "Teresa",
+      "surname": "Morán de Trelles",
+      "sex": "F",
+      "birth": {
+        "date": "7 DEC 1666",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1666,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Melliza de María."
+      ],
+      "familyChild": "@F500103@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500285@",
+      "name": "María Morán de Trelles",
+      "given": "María",
+      "surname": "Morán de Trelles",
+      "sex": "F",
+      "birth": {
+        "date": "7 DEC 1666",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1666,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Melliza de Teresa."
+      ],
+      "familyChild": "@F500103@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500286@",
+      "name": "Francisco Morán de Trelles",
+      "given": "Francisco",
+      "surname": "Morán de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "17 APR 1669",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1669,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500103@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500287@",
+      "name": "Fernando Antonio Morán de Trelles",
+      "given": "Fernando Antonio",
+      "surname": "Morán de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "10 MAY 1674",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1674,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500103@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500288@",
+      "name": "Catalina Morán de Trelles",
+      "given": "Catalina",
+      "surname": "Morán de Trelles",
+      "sex": "F",
+      "birth": {
+        "date": "16 FEB 1677",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1677,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500103@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500289@",
+      "name": "Lucía-Ana López Morán y Trelles",
+      "given": "Lucía-Ana",
+      "surname": "López Morán y Trelles",
+      "sex": "F",
+      "birth": {
+        "date": "15 APR 1680",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "26 APR 1758",
+        "place": null
+      },
+      "birthYear": 1680,
+      "deathYear": 1758,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500103@",
+      "familySpouse": [
+        "@F500110@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500290@",
+      "name": "Francisco Fernández del Valle",
+      "given": "Francisco",
+      "surname": "Fernández del Valle",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1680",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1680,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500110@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500291@",
+      "name": "Francisco del Valle y Trelles",
+      "given": "Francisco",
+      "surname": "del Valle y Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1710",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1710,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Cura de Navia."
+      ],
+      "familyChild": "@F500110@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500292@",
+      "name": "Antonio Alonso San Julián y Aguiar",
+      "given": "Antonio Alonso",
+      "surname": "San Julián y Aguiar",
+      "sex": "M",
+      "birth": {
+        "date": null,
+        "place": "Campos, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500111@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500293@",
+      "name": "Alonso González de Coaña",
+      "given": "Alonso",
+      "surname": "González de Coaña",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1515",
+        "place": "Meiro, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1515,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Señor de la casa de Meiro."
+      ],
+      "familyChild": "@F500098@",
+      "familySpouse": [
+        "@F500097@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500294@",
+      "name": "Catalina Suárez de Trelles",
+      "given": "Catalina",
+      "surname": "Suárez de Trelles",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1515",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1515,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Hija de Arias de Trelles."
+      ],
+      "familyChild": "@F500100@",
+      "familySpouse": [
+        "@F500097@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500295@",
+      "name": "Arias de Trelles",
+      "given": "Arias",
+      "surname": "de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1485",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1485,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "También «Gómez Arias de Trelles»."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500100@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500296@",
+      "name": "Álvaro González de Coaña",
+      "given": "Álvaro",
+      "surname": "González de Coaña",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1485",
+        "place": "Coaña, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1485,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500099@",
+      "familySpouse": [
+        "@F500098@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500297@",
+      "name": "Gonzalo Pérez Pico de Coaña",
+      "given": "Gonzalo Pérez Pico",
+      "surname": "de Coaña",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1455",
+        "place": "Coaña, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1455,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Extremo más antiguo documentado de la rama Coaña."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500099@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500298@",
+      "name": "Fernando González de Trelles",
+      "given": "Fernando",
+      "surname": "González de Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1554",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1554,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500084@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500299@",
+      "name": "Juan García",
+      "given": "Juan",
+      "surname": "García",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1554",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1554,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Hijo de Suero González de Trelles."
+      ],
+      "familyChild": "@F500084@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500300@",
+      "name": "Alonso Fernández del Valle y Trelles",
+      "given": "Alonso",
+      "surname": "Fernández del Valle y Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1646",
+        "place": "La Murola, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "10 JUL 1739",
+        "place": null
+      },
+      "birthYear": 1646,
+      "deathYear": 1739,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500112@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500301@",
+      "name": "María Francisca del Valle y Trelles",
+      "given": "María Francisca",
+      "surname": "del Valle y Trelles",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1676",
+        "place": "La Murola, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "3 MAY 1760",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "birthYear": 1676,
+      "deathYear": 1760,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500112@",
+      "familySpouse": [
+        "@F500113@",
+        "@F500114@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500302@",
+      "name": "Juan García Infanzón y Omaña",
+      "given": "Juan",
+      "surname": "García Infanzón y Omaña",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1712",
+        "place": "Coaña, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "BEF 3 JUN 1744",
+        "place": null
+      },
+      "birthYear": 1712,
+      "deathYear": 1744,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500113@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500303@",
+      "name": "Francisco-Antonio-Pablo García Infanzón y Omaña",
+      "given": "Francisco-Antonio-Pablo",
+      "surname": "García Infanzón y Omaña",
+      "sex": "M",
+      "birth": {
+        "date": "30 JUN 1742",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "JAN 1808",
+        "place": "La Murola, Principado de Asturias, España"
+      },
+      "birthYear": 1742,
+      "deathYear": 1808,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500113@",
+      "familySpouse": [
+        "@F500116@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500304@",
+      "name": "Bernardo García del Real",
+      "given": "Bernardo",
+      "surname": "García del Real",
+      "sex": "M",
+      "birth": {
+        "date": null,
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "1754",
+        "place": null
+      },
+      "birthYear": null,
+      "deathYear": 1754,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500115@",
+      "familySpouse": [
+        "@F500114@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500305@",
+      "name": "Juan García del Real",
+      "given": "Juan",
+      "surname": "García del Real",
+      "sex": "M",
+      "birth": {
+        "date": null,
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "BEF 3 JUN 1744",
+        "place": null
+      },
+      "birthYear": null,
+      "deathYear": 1744,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500115@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500306@",
+      "name": "Juana Fernández",
+      "given": "Juana",
+      "surname": "Fernández",
+      "sex": "F",
+      "birth": {
+        "date": null,
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "BEF 3 JUN 1744",
+        "place": null
+      },
+      "birthYear": null,
+      "deathYear": 1744,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500115@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500307@",
+      "name": "Bárbara Cienfuegos",
+      "given": "Bárbara",
+      "surname": "Cienfuegos",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1745",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1745,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [
+        "Natural de Villacondide."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500116@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500308@",
+      "name": "María Antonia Cayetana García Infanzón y Cienfuegos",
+      "given": "María Antonia Cayetana",
+      "surname": "García Infanzón y Cienfuegos",
+      "sex": "F",
+      "birth": {
+        "date": "8 JUL 1763",
+        "place": "La Murola, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1763,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500116@",
+      "familySpouse": [
+        "@F500117@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500309@",
+      "name": "Francisca Bárbara García Infanzón y Cienfuegos",
+      "given": "Francisca Bárbara",
+      "surname": "García Infanzón y Cienfuegos",
+      "sex": "F",
+      "birth": {
+        "date": "1 DEC 1765",
+        "place": "La Murola, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "16 OCT 1853",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "birthYear": 1765,
+      "deathYear": 1853,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500116@",
+      "familySpouse": [
+        "@F500118@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500310@",
+      "name": "José Francisco García Infanzón y Cienfuegos",
+      "given": "José Francisco",
+      "surname": "García Infanzón y Cienfuegos",
+      "sex": "M",
+      "birth": {
+        "date": "22 JUN 1769",
+        "place": "La Murola, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "BEF 30 JUN 1817",
+        "place": null
+      },
+      "birthYear": 1769,
+      "deathYear": 1817,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500116@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500311@",
+      "name": "Alonso García Infanzón y Cienfuegos",
+      "given": "Alonso",
+      "surname": "García Infanzón y Cienfuegos",
+      "sex": "M",
+      "birth": {
+        "date": "30 JUL 1771",
+        "place": "La Murola, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1771,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500116@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500312@",
+      "name": "Diego Antonio García Infanzón y Cienfuegos",
+      "given": "Diego Antonio",
+      "surname": "García Infanzón y Cienfuegos",
+      "sex": "M",
+      "birth": {
+        "date": "29 OCT 1774",
+        "place": "La Murola, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1774,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500116@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500313@",
+      "name": "Clara García Infanzón y Cienfuegos",
+      "given": "Clara",
+      "surname": "García Infanzón y Cienfuegos",
+      "sex": "F",
+      "birth": {
+        "date": "21 OCT 1776",
+        "place": "La Murola, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "21 FEB 1847",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "birthYear": 1776,
+      "deathYear": 1847,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500116@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500314@",
+      "name": "Antonia María García Infanzón y Cienfuegos",
+      "given": "Antonia María",
+      "surname": "García Infanzón y Cienfuegos",
+      "sex": "F",
+      "birth": {
+        "date": "11 FEB 1779",
+        "place": "La Murola, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "BEF JAN 1808",
+        "place": null
+      },
+      "birthYear": 1779,
+      "deathYear": 1808,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500116@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500315@",
+      "name": "Josefa García Infanzón y Cienfuegos",
+      "given": "Josefa",
+      "surname": "García Infanzón y Cienfuegos",
+      "sex": "F",
+      "birth": {
+        "date": "29 MAR 1782",
+        "place": "La Murola, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "AFT JAN 1808",
+        "place": null
+      },
+      "birthYear": 1782,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500116@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500316@",
+      "name": "María Antonia García Infanzón y Cienfuegos",
+      "given": "María Antonia",
+      "surname": "García Infanzón y Cienfuegos",
+      "sex": "F",
+      "birth": {
+        "date": "25 FEB 1784",
+        "place": "La Murola, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "BEF JAN 1808",
+        "place": null
+      },
+      "birthYear": 1784,
+      "deathYear": 1808,
+      "living": false,
+      "occupations": [],
+      "notes": [],
+      "familyChild": "@F500116@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500317@",
+      "name": "Tomás Antonio García Infanzón y Cienfuegos",
+      "given": "Tomás Antonio",
+      "surname": "García Infanzón y Cienfuegos",
+      "sex": "M",
+      "birth": {
+        "date": "18 OCT 1786",
+        "place": "La Murola, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "20 MAR 1809",
+        "place": null
+      },
+      "birthYear": 1786,
+      "deathYear": 1809,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Soldado; murió luchando contra los franceses."
+      ],
+      "familyChild": "@F500116@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500318@",
+      "name": "Francisco Rodríguez Arango",
+      "given": "Francisco",
+      "surname": "Rodríguez Arango",
+      "sex": "M",
+      "birth": {
+        "date": null,
+        "place": "Santa Eulalia de Oscos, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": true,
+      "occupations": [],
+      "notes": [],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500117@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500319@",
+      "name": "Domingo Méndez Cabodevilla",
+      "given": "Domingo",
+      "surname": "Méndez Cabodevilla",
+      "sex": "M",
+      "birth": {
+        "date": null,
+        "place": "Cabodevilla, Principado de Asturias, España"
+      },
+      "death": {
+        "date": "16 SEP 1846",
+        "place": "Navia, Principado de Asturias, España"
+      },
+      "birthYear": null,
+      "deathYear": 1846,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Falleció en el río Navia."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500118@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500320@",
+      "name": "Faustino Villoria Díaz",
+      "given": "Faustino",
+      "surname": "Villoria Díaz",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1928",
+        "place": null
+      },
+      "death": {
+        "date": "BEF 2017",
+        "place": null
+      },
+      "birthYear": 1928,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Hermano de Víctor Villoria Díaz; ya fallecido en septiembre de 2017."
+      ],
+      "familyChild": "@F500125@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500321@",
+      "name": "Miguel Ángel Iglesias Ballina",
+      "given": "Miguel Ángel",
+      "surname": "Iglesias Ballina",
+      "sex": "M",
+      "birth": {
+        "date": "28 JUL 1951",
+        "place": "Vigo, Galicia, España"
+      },
+      "death": {
+        "date": "6 NOV 2012",
+        "place": "Oviedo, Principado de Asturias, España"
+      },
+      "birthYear": 1951,
+      "deathYear": 2012,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Histórico dirigente de CCOO; viuda Mari Sol González Robles."
+      ],
+      "familyChild": "@F500126@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano de Isabel María Carbajo Acebal."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500127@",
+      "familySpouse": [
+        "@F500128@"
+      ],
+      "id": "@I500322@",
+      "name": "Francisco Javier Carbajo Acebal",
+      "given": "Francisco Javier",
+      "surname": "Carbajo Acebal",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1937",
+        "place": null
+      },
+      "death": {
+        "date": "9 JUL 2020",
+        "place": "Vigo, Galicia, España"
+      },
+      "birthYear": 1937,
+      "deathYear": 2020,
+      "living": false
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hija de Francisco Javier Carbajo Acebal."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500128@",
+      "familySpouse": [],
+      "id": "@I500323@",
+      "name": "Covadonga Carbajo",
+      "given": "Covadonga",
+      "surname": "Carbajo",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1967",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1967,
+      "deathYear": null,
+      "living": true
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano de Isabel María Carbajo Acebal."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500127@",
+      "familySpouse": [],
+      "id": "@I500324@",
+      "name": "Ignacio Carbajo Acebal",
+      "given": "Ignacio",
+      "surname": "Carbajo Acebal",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1937",
+        "place": null
+      },
+      "death": {
+        "date": "29 AUG 2014",
+        "place": "Oviedo, Principado de Asturias, España"
+      },
+      "birthYear": 1937,
+      "deathYear": 2014,
+      "living": false
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermana de Natividad Ordóñez Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500129@",
+      "familySpouse": [],
+      "id": "@I500325@",
+      "name": "María Luisa Ordóñez Fernández",
+      "given": "María Luisa",
+      "surname": "Ordóñez Fernández",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1930",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1930,
+      "deathYear": null,
+      "living": true
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano de Natividad; Director General de la Cuenca del Caudal (HUNOSA)."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500129@",
+      "familySpouse": [],
+      "id": "@I500326@",
+      "name": "Manuel Ordóñez Fernández",
+      "given": "Manuel",
+      "surname": "Ordóñez Fernández",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1930",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1930,
+      "deathYear": null,
+      "living": true
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermana de Natividad Ordóñez Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500129@",
+      "familySpouse": [],
+      "id": "@I500327@",
+      "name": "María Teresa Ordóñez Fernández",
+      "given": "María Teresa",
+      "surname": "Ordóñez Fernández",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1930",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1930,
+      "deathYear": null,
+      "living": true
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermana de Natividad Ordóñez Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500129@",
+      "familySpouse": [],
+      "id": "@I500328@",
+      "name": "María Isabel Ordóñez Fernández",
+      "given": "María Isabel",
+      "surname": "Ordóñez Fernández",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1930",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1930,
+      "deathYear": null,
+      "living": true
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hijo de una hermana de Natividad Ordóñez Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500132@",
+      "familySpouse": [],
+      "id": "@I500329@",
+      "name": "Amador Villoria Díaz",
+      "given": "Amador",
+      "surname": "Villoria Díaz",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1960",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1960,
+      "deathYear": null,
+      "living": true
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermana de José Luis Iglesias Ballina."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500126@",
+      "familySpouse": [],
+      "id": "@I500330@",
+      "name": "María de los Ángeles Iglesias Ballina",
+      "given": "María de los Ángeles",
+      "surname": "Iglesias Ballina",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1943",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1943,
+      "deathYear": null,
+      "living": true
+    },
+    {
+      "id": "@I500331@",
+      "name": "Nombre desconocido",
+      "given": null,
+      "surname": null,
+      "sex": "U",
+      "birth": {
+        "date": "ABT 1898",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1898,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Progenitor desconocido; agrupa a los hermanos Villoria Díaz."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500125@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500332@",
+      "name": "Nombre desconocido",
+      "given": null,
+      "surname": null,
+      "sex": "U",
+      "birth": {
+        "date": "ABT 1913",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1913,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Progenitor desconocido; agrupa a los hermanos Iglesias Ballina."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500126@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500333@",
+      "name": "Nombre desconocido",
+      "given": null,
+      "surname": null,
+      "sex": "U",
+      "birth": {
+        "date": "ABT 1907",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1907,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Progenitor desconocido; agrupa a los hermanos Carbajo Acebal."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500127@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500334@",
+      "name": "Nombre desconocido",
+      "given": null,
+      "surname": null,
+      "sex": "U",
+      "birth": {
+        "date": "ABT 1900",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1900,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Progenitor desconocido; agrupa a los hermanos Ordóñez Fernández."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500129@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500335@",
+      "name": "Nombre desconocido",
+      "given": null,
+      "surname": "Ordóñez Fernández",
+      "sex": "F",
+      "birth": {
+        "date": "ABT 1930",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1930,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Hermana de Natividad Ordóñez Fernández; madre de Amador Villoria Díaz (no localizada con precisión)."
+      ],
+      "familyChild": "@F500129@",
+      "familySpouse": [
+        "@F500132@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano de Diego Antonio Sánchez de Ron Infanzón. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500066@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1703",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1703,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500336@",
+      "name": "Francisco Antonio Sánchez de Ron",
+      "given": "Francisco Antonio",
+      "surname": "Sánchez de Ron",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hijo de Diego Antonio Sánchez de Ron Infanzón y Felipa. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500064@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1733",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1733,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500337@",
+      "name": "Juan Antonio Sánchez de Ron Miranda Villamil",
+      "given": "Juan Antonio",
+      "surname": "Sánchez de Ron Miranda Villamil",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hija de Diego Antonio Sánchez de Ron Infanzón y Felipa. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500064@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1733",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1733,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500338@",
+      "name": "María Francisca Sánchez de Ron",
+      "given": "María Francisca",
+      "surname": "Sánchez de Ron",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hija de Diego Antonio Sánchez de Ron Infanzón y Felipa. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500064@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1733",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1733,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500339@",
+      "name": "María Rosa Sánchez de Ron",
+      "given": "María Rosa",
+      "surname": "Sánchez de Ron",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisabuelo paterno de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500134@",
+      "familySpouse": [
+        "@F500133@"
+      ],
+      "birth": {
+        "date": "ABT 1614",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1614,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500340@",
+      "name": "Diego Sánchez de Ron Vázquez",
+      "given": "Diego",
+      "surname": "Sánchez de Ron Vázquez",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisabuela paterna de Diego Antonio; esposa de Diego Sánchez de Ron Vázquez. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500133@"
+      ],
+      "birth": {
+        "date": "ABT 1614",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1614,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500341@",
+      "name": "Magdalena Álvarez-Rodil",
+      "given": "Magdalena",
+      "surname": "Álvarez-Rodil",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tatarabuela paterna de Diego Antonio; madre de Diego Sánchez de Ron Vázquez. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500134@"
+      ],
+      "birth": {
+        "date": "ABT 1584",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1584,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500342@",
+      "name": "María Vázquez",
+      "given": "María",
+      "surname": "Vázquez",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisabuelo materno de Diego Antonio; padre de Alonso García-Infanzón Fernández. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500082@",
+      "familySpouse": [
+        "@F500135@"
+      ],
+      "birth": {
+        "date": "ABT 1642",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1642,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500343@",
+      "name": "Alonso García-Infanzón Méndez-Trelles",
+      "given": "Alonso",
+      "surname": "García-Infanzón Méndez-Trelles",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisabuela materna de Diego Antonio; esposa de Alonso García-Infanzón Méndez-Trelles. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500135@"
+      ],
+      "birth": {
+        "date": "ABT 1612",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1612,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500344@",
+      "name": "Isabel Fernández de Villaiz",
+      "given": "Isabel",
+      "surname": "Fernández de Villaiz",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tío bisabuelo de Diego Antonio; hermano de Alonso García-Infanzón Méndez-Trelles. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500082@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1642",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1642,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500345@",
+      "name": "Lope García Infanzón Méndez Trelles",
+      "given": "Lope",
+      "surname": "García Infanzón Méndez Trelles",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermana del bisabuelo de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500082@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1642",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1642,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500346@",
+      "name": "María García Infanzón Méndez Trelles",
+      "given": "María",
+      "surname": "García Infanzón Méndez Trelles",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermana del bisabuelo de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500082@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1642",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1642,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500347@",
+      "name": "Francisca García-Infanzón Méndez-Trelles",
+      "given": "Francisca",
+      "surname": "García-Infanzón Méndez-Trelles",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tatarabuela materna de Diego Antonio; esposa de Juan «el viejo» García-Infanzón y de la Vega. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500082@"
+      ],
+      "birth": {
+        "date": "ABT 1612",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1612,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500348@",
+      "name": "María Méndez-Trelles",
+      "given": "María",
+      "surname": "Méndez-Trelles",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tío abuelo de Diego Antonio; hermano de Alonso García-Infanzón Fernández. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500135@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1657",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1657,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500349@",
+      "name": "Juan García-Infanzón Fernández",
+      "given": "Juan",
+      "surname": "García-Infanzón Fernández",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tío abuelo de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500135@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1657",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1657,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500350@",
+      "name": "Domingo García-Infanzón Fernández",
+      "given": "Domingo",
+      "surname": "García-Infanzón Fernández",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tía abuela de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500135@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1657",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1657,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500351@",
+      "name": "Ana Méndez-Infanzón Fernández",
+      "given": "Ana",
+      "surname": "Méndez-Infanzón Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tía abuela de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500135@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1657",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1657,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500352@",
+      "name": "María Méndez-Infanzón Fernández",
+      "given": "María",
+      "surname": "Méndez-Infanzón Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tío abuelo de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500135@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1657",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1657,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500353@",
+      "name": "Francisco García-Infanzón Fernández",
+      "given": "Francisco",
+      "surname": "García-Infanzón Fernández",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tío de Diego Antonio; hermano de Diego Sánchez de Ron Miranda Villamil Trelles. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500067@",
+      "familySpouse": [
+        "@F500136@"
+      ],
+      "birth": {
+        "date": "ABT 1674",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1674,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500354@",
+      "name": "Roque Sánchez de Ron Miranda Villamil",
+      "given": "Roque",
+      "surname": "Sánchez de Ron Miranda Villamil",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tía de Diego Antonio; esposa de Roque Sánchez de Ron. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500136@"
+      ],
+      "birth": {
+        "date": "ABT 1674",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1674,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500355@",
+      "name": "Juana Canzio y la Vega",
+      "given": "Juana",
+      "surname": "Canzio y la Vega",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Prima de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500136@",
+      "familySpouse": [
+        "@F500137@"
+      ],
+      "birth": {
+        "date": "ABT 1704",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1704,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500356@",
+      "name": "Phelipa Bernarda Sánchez de Canzio",
+      "given": "Phelipa Bernarda",
+      "surname": "Sánchez de Canzio",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Prima de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500136@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1704",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1704,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500357@",
+      "name": "Rosa Sánchez de Canzio y la Vega",
+      "given": "Rosa",
+      "surname": "Sánchez de Canzio y la Vega",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Primo de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500136@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1704",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1704,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500358@",
+      "name": "Nicolás Venito Sánchez de Canzio",
+      "given": "Nicolás Venito",
+      "surname": "Sánchez de Canzio",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Primo de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500136@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1704",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1704,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500359@",
+      "name": "Roque Agustino Sánchez de Canzio",
+      "given": "Roque Agustino",
+      "surname": "Sánchez de Canzio",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Primo de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500136@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1704",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1704,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500360@",
+      "name": "Joseph Ygnacio Antonio Sánchez de Canzio",
+      "given": "Joseph Ygnacio Antonio",
+      "surname": "Sánchez de Canzio",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Primo de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500136@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1704",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1704,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500361@",
+      "name": "Francisco Bernardo Sánchez de Canzio",
+      "given": "Francisco Bernardo",
+      "surname": "Sánchez de Canzio",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Esposo de una prima de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500137@"
+      ],
+      "birth": null,
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500362@",
+      "name": "Amaro Rejo Seuy y Mon",
+      "given": "Amaro",
+      "surname": "Rejo Seuy y Mon",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tío de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500082@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1642",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1642,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500363@",
+      "name": "Bartolomé García Infanzón",
+      "given": "Bartolomé",
+      "surname": "García Infanzón",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Ancestro directo (5 generaciones) de Diego Antonio; esposa de Lucas Fernández Infanzón. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500138@"
+      ],
+      "birth": {
+        "date": "ABT 1582",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1582,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500364@",
+      "name": "María Alfonso de la Vega",
+      "given": "María",
+      "surname": "Alfonso de la Vega",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Ancestro directo (6 generaciones) de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500139@"
+      ],
+      "birth": {
+        "date": "ABT 1552",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1552,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500365@",
+      "name": "Gonzalo García Infanzón",
+      "given": "Gonzalo",
+      "surname": "García Infanzón",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Ancestro directo (6 generaciones) de Diego Antonio; esposa de Gonzalo García Infanzón. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500139@"
+      ],
+      "birth": {
+        "date": "ABT 1552",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1552,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500366@",
+      "name": "Balesquida Méndez",
+      "given": "Balesquida",
+      "surname": "Méndez",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tía abuela del abuelo de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron.",
+        "Hermano(a) de Juan «el viejo» García-Infanzón y de la Vega."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500138@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1642",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1642,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500367@",
+      "name": "María Alfonso García Infanzón y de la Vega",
+      "given": "María Alfonso",
+      "surname": "García Infanzón y de la Vega",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tío abuelo del abuelo de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron.",
+        "Hermano(a) de Juan «el viejo» García-Infanzón y de la Vega."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500138@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1642",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1642,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500368@",
+      "name": "Alonso López Infanzón y de la Vega",
+      "given": "Alonso",
+      "surname": "López Infanzón y de la Vega",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tía del abuelo de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500082@",
+      "familySpouse": [
+        "@F500140@"
+      ],
+      "birth": {
+        "date": "ABT 1642",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1642,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500369@",
+      "name": "Leonor Rodríguez de Sierra",
+      "given": "Leonor",
+      "surname": "Rodríguez de Sierra",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Primo del abuelo de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500140@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1642",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1642,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500370@",
+      "name": "Álvaro Infanzón y Sierra",
+      "given": "Álvaro",
+      "surname": "Infanzón y Sierra",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Primo del abuelo de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500140@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1642",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1642,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500371@",
+      "name": "Miguel García Infanzón y Sierra",
+      "given": "Miguel",
+      "surname": "García Infanzón y Sierra",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Primo del abuelo de Diego Antonio. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500140@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1642",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1642,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500372@",
+      "name": "Juan Infanzón y Sierra",
+      "given": "Juan",
+      "surname": "Infanzón y Sierra",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tía de la madre de Diego Antonio (Ana Méndez Infanzón Trelles). Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500135@",
+      "familySpouse": [
+        "@F500141@"
+      ],
+      "birth": {
+        "date": "ABT 1642",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1642,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500373@",
+      "name": "María Álvarez de Luera Trelles",
+      "given": "María Álvarez",
+      "surname": "de Luera Trelles",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Primo de la madre de Diego Antonio (Ana Méndez Infanzón Trelles). Árbol administrado por M. Amor Sánchez de Ron.",
+        "Colocación aproximada (primo de la madre de Diego Antonio); por confirmar."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500141@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1642",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1642,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500374@",
+      "name": "Alonso García Infanzón y Trelles",
+      "given": "Alonso",
+      "surname": "García Infanzón y Trelles",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hijo de Diego González de Oneta Méndez y Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500073@",
+      "familySpouse": [
+        "@F500145@"
+      ],
+      "birth": {
+        "date": "ABT 1698",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1698,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500375@",
+      "name": "Diego González García",
+      "given": "Diego",
+      "surname": "González García",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hijo de Diego González de Oneta Méndez y Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500073@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1698",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1698,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500376@",
+      "name": "José Antonio González García",
+      "given": "José Antonio",
+      "surname": "González García",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hijo de Diego González de Oneta Méndez y Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500073@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1698",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1698,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500377@",
+      "name": "Fernando González García",
+      "given": "Fernando",
+      "surname": "González García",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Suegro de Dominga García-Sampelayo; padre de Diego González de Oneta Méndez. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500142@"
+      ],
+      "birth": {
+        "date": "ABT 1638",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1638,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500378@",
+      "name": "Men González de Oneta",
+      "given": "Men",
+      "surname": "González de Oneta",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Suegra de Dominga García-Sampelayo; madre de Diego González de Oneta Méndez. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500142@",
+        "@F500181@"
+      ],
+      "birth": {
+        "date": "ABT 1638",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1638,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500379@",
+      "name": "María Méndez",
+      "given": "María",
+      "surname": "Méndez",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Otra esposa de Diego González de Oneta Méndez. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500144@",
+      "familySpouse": [
+        "@F500143@"
+      ],
+      "birth": null,
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500380@",
+      "name": "Catalina Fernández",
+      "given": "Catalina",
+      "surname": "Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Suegro de Diego González de Oneta Méndez; padre de Catalina Fernández. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500144@"
+      ],
+      "birth": null,
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500381@",
+      "name": "Lucas Fernández",
+      "given": "Lucas",
+      "surname": "Fernández",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Suegra de Diego González de Oneta Méndez; madre de Catalina Fernández. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500144@"
+      ],
+      "birth": null,
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500382@",
+      "name": "Mayor Álvarez",
+      "given": "Mayor",
+      "surname": "Álvarez",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Madre de Isabel Fernández-Chambergo Fernández (nuera de Dominga). Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500074@"
+      ],
+      "birth": {
+        "date": "ABT 1668",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1668,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500383@",
+      "name": "María Isabel Fernández",
+      "given": "María Isabel",
+      "surname": "Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermana de Isabel Fernández-Chambergo Fernández. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500074@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1698",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1698,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500384@",
+      "name": "Francisca Fernández-Chambergo Fernández",
+      "given": "Francisca",
+      "surname": "Fernández-Chambergo Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano de Isabel Fernández-Chambergo Fernández. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500074@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1698",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1698,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500385@",
+      "name": "Álvaro Fernández-Chambergo Fernández",
+      "given": "Álvaro",
+      "surname": "Fernández-Chambergo Fernández",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano de Isabel Fernández-Chambergo Fernández. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500074@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1698",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1698,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500386@",
+      "name": "Pedro Fernández-Chambergo Fernández",
+      "given": "Pedro",
+      "surname": "Fernández-Chambergo Fernández",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano de Isabel Fernández-Chambergo Fernández. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500074@",
+      "familySpouse": [
+        "@F500178@"
+      ],
+      "birth": {
+        "date": "ABT 1698",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1698,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500387@",
+      "name": "José Fernández-Chambergo Fernández",
+      "given": "José",
+      "surname": "Fernández-Chambergo Fernández",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano de Isabel Fernández-Chambergo Fernández. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500074@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1698",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1698,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500388@",
+      "name": "Miguel Fernández-Chambergo Fernández",
+      "given": "Miguel",
+      "surname": "Fernández-Chambergo Fernández",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermana de Isabel Fernández-Chambergo Fernández. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500074@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1698",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1698,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500389@",
+      "name": "Ana Fernández-Chambergo Fernández",
+      "given": "Ana",
+      "surname": "Fernández-Chambergo Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nieto de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500145@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1728",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1728,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500390@",
+      "name": "Juan Antonio González-Cavanamarruga",
+      "given": "Juan Antonio",
+      "surname": "González-Cavanamarruga",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nieta de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500145@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1728",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1728,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500391@",
+      "name": "María Dominga González-Cavanamarruga",
+      "given": "María Dominga",
+      "surname": "González-Cavanamarruga",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nieta de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500145@",
+      "familySpouse": [
+        "@F500146@"
+      ],
+      "birth": {
+        "date": "ABT 1728",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1728,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500392@",
+      "name": "María Josefa González-Cavanamarruga",
+      "given": "María Josefa",
+      "surname": "González-Cavanamarruga",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto/a de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500070@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1751",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1751,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500393@",
+      "name": "Joaquina Francisca González Fernández",
+      "given": "Joaquina Francisca",
+      "surname": "González Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto/a de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500070@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1751",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1751,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500394@",
+      "name": "Juan Antonio González Fernández",
+      "given": "Juan Antonio",
+      "surname": "González Fernández",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto/a de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500070@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1751",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1751,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500395@",
+      "name": "Francisco Javier González Fernández",
+      "given": "Francisco Javier",
+      "surname": "González Fernández",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto/a de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500070@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1751",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1751,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500396@",
+      "name": "Francisca González Fernández",
+      "given": "Francisca",
+      "surname": "González Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto/a de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500070@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1751",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1751,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500397@",
+      "name": "Josefa María González Fernández",
+      "given": "Josefa María",
+      "surname": "González Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto/a de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500070@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1751",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1751,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500398@",
+      "name": "Manuel Antonio González Fernández",
+      "given": "Manuel Antonio",
+      "surname": "González Fernández",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto/a de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500070@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1751",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1751,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500399@",
+      "name": "Tomás Antonio González Fernández",
+      "given": "Tomás Antonio",
+      "surname": "González Fernández",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto/a de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500070@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1751",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1751,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500400@",
+      "name": "Domingo Antonio González Fernández",
+      "given": "Domingo Antonio",
+      "surname": "González Fernández",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto/a de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500070@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1751",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1751,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500401@",
+      "name": "María Bernarda González Fernández",
+      "given": "María Bernarda",
+      "surname": "González Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto/a de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500070@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1751",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1751,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500402@",
+      "name": "Bernardo Antonio González Fernández",
+      "given": "Bernardo Antonio",
+      "surname": "González Fernández",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto/a de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500070@",
+      "familySpouse": [
+        "@F500147@"
+      ],
+      "birth": {
+        "date": "ABT 1751",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1751,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500403@",
+      "name": "Rosa María González Fernández",
+      "given": "Rosa María",
+      "surname": "González Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto/a de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500070@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1751",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1751,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500404@",
+      "name": "María Antonia González Fernández",
+      "given": "María Antonia",
+      "surname": "González Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto de Dominga García-Sampelayo (homónimo del anterior; posible duplicado en el árbol de origen). Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500070@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1751",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1751,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500405@",
+      "name": "Domingo Antonio González Fernández",
+      "given": "Domingo Antonio",
+      "surname": "González Fernández",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Esposo de una nieta de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500146@"
+      ],
+      "birth": {
+        "date": "ABT 1728",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1728,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500406@",
+      "name": "Antonio García-Piquera López-Acevedo",
+      "given": "Antonio",
+      "surname": "García-Piquera López-Acevedo",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500146@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1758",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1758,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500407@",
+      "name": "José Antonio García-Piquera",
+      "given": "José Antonio",
+      "surname": "García-Piquera",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieta de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500146@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1758",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1758,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500408@",
+      "name": "María Antonia García-Piquera",
+      "given": "María Antonia",
+      "surname": "García-Piquera",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500146@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1758",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1758,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500409@",
+      "name": "Francisco Antonio García-Piquera",
+      "given": "Francisco Antonio",
+      "surname": "García-Piquera",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500146@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1758",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1758,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500410@",
+      "name": "Juan García-Piquera González-Cavanamarruga",
+      "given": "Juan",
+      "surname": "García-Piquera González-Cavanamarruga",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Yerno de un nieto de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500147@"
+      ],
+      "birth": {
+        "date": "ABT 1751",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1751,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500411@",
+      "name": "Francisco Antonio Fernández-Pico Pérez",
+      "given": "Francisco Antonio",
+      "surname": "Fernández-Pico Pérez",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tatara-tatara-nieta de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500147@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1781",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1781,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500412@",
+      "name": "Rosa Ramona Fernández-Pico González",
+      "given": "Rosa Ramona",
+      "surname": "Fernández-Pico González",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tatara-tatara-nieta de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500147@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1781",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1781,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500413@",
+      "name": "Manuela Josefa Fernández-Pico",
+      "given": "Manuela Josefa",
+      "surname": "Fernández-Pico",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tatara-tatara-nieta de Dominga García-Sampelayo. Árbol administrado por S. López López."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500147@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1781",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1781,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500414@",
+      "name": "María Ramona Fernández-Pico",
+      "given": "María Ramona",
+      "surname": "Fernández-Pico",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hija de Joseph Antonio González Fernández-Medal y Ana María. Árbol administrado por M. Amor Sánchez de Ron.",
+        "Esposa de Diego Antonio Sánchez de Ron Méndez-Trelles (nieto de Felipa Rodríguez Casariego). Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500069@",
+      "familySpouse": [
+        "@F500149@"
+      ],
+      "birth": {
+        "date": "ABT 1774",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1774,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500415@",
+      "name": "Rosa María González Fernández",
+      "given": "Rosa María",
+      "surname": "González Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hija de Joseph Antonio González Fernández-Medal y Ana María. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500069@",
+      "familySpouse": [
+        "@F500148@"
+      ],
+      "birth": {
+        "date": "ABT 1774",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1774,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500416@",
+      "name": "María González Fernández",
+      "given": "María",
+      "surname": "González Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hija de Joseph Antonio González Fernández-Medal y Ana María. Árbol administrado por M. Amor Sánchez de Ron.",
+        "Esposa de José Antonio Fernández-Bousoño García-Lebredo. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500069@",
+      "familySpouse": [
+        "@F500154@"
+      ],
+      "birth": {
+        "date": "ABT 1774",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1774,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500417@",
+      "name": "María Josefa González Fernández",
+      "given": "María Josefa",
+      "surname": "González Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hija de Joseph Antonio González Fernández-Medal y Ana María. Árbol administrado por M. Amor Sánchez de Ron.",
+        "Esposa de José Fernández-Castrillón. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500069@",
+      "familySpouse": [
+        "@F500155@"
+      ],
+      "birth": {
+        "date": "ABT 1774",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1774,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500418@",
+      "name": "Joaquina González Fernández",
+      "given": "Joaquina",
+      "surname": "González Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hijo/a de Diego Antonio Sánchez de Ron Méndez-Trelles y Rosa María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500149@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500419@",
+      "name": "Antonio José Sánchez de Ron González",
+      "given": "Antonio José",
+      "surname": "Sánchez de Ron González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hijo/a de Diego Antonio Sánchez de Ron Méndez-Trelles y Rosa María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500149@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500420@",
+      "name": "Domingo Antonio Sánchez de Ron González",
+      "given": "Domingo Antonio",
+      "surname": "Sánchez de Ron González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hijo/a de Diego Antonio Sánchez de Ron Méndez-Trelles y Rosa María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500149@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500421@",
+      "name": "Josefa María Rosa Sánchez de Ron González",
+      "given": "Josefa María Rosa",
+      "surname": "Sánchez de Ron González",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hijo/a de Diego Antonio Sánchez de Ron Méndez-Trelles y Rosa María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500149@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500422@",
+      "name": "María Josefa Sánchez de Ron González",
+      "given": "María Josefa",
+      "surname": "Sánchez de Ron González",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hijo/a de Diego Antonio Sánchez de Ron Méndez-Trelles y Rosa María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500149@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500423@",
+      "name": "Joseph Antonio Sánchez de Ron González",
+      "given": "Joseph Antonio",
+      "surname": "Sánchez de Ron González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hijo/a de Diego Antonio Sánchez de Ron Méndez-Trelles y Rosa María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500149@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500424@",
+      "name": "Ramona María Sánchez de Ron González",
+      "given": "Ramona María",
+      "surname": "Sánchez de Ron González",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hijo/a de Diego Antonio Sánchez de Ron Méndez-Trelles y Rosa María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500149@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500425@",
+      "name": "Luis Sánchez de Ron González",
+      "given": "Luis",
+      "surname": "Sánchez de Ron González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hijo/a de Diego Antonio Sánchez de Ron Méndez-Trelles y Rosa María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500149@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500426@",
+      "name": "Juana Sánchez de Ron González",
+      "given": "Juana",
+      "surname": "Sánchez de Ron González",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hijo/a de Diego Antonio Sánchez de Ron Méndez-Trelles y Rosa María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500149@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500427@",
+      "name": "Juan José Sánchez de Ron González",
+      "given": "Juan José",
+      "surname": "Sánchez de Ron González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hijo/a de Diego Antonio Sánchez de Ron Méndez-Trelles y Rosa María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500149@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500428@",
+      "name": "Pedro José Sánchez de Ron González",
+      "given": "Pedro José",
+      "surname": "Sánchez de Ron González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nieto/a de Joseph Antonio González Fernández-Medal. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500014@",
+      "familySpouse": [
+        "@F500150@"
+      ],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500429@",
+      "name": "José Sánchez de Ron González",
+      "given": "José",
+      "surname": "Sánchez de Ron González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nieto/a de Joseph Antonio González Fernández-Medal. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500014@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500430@",
+      "name": "Rosa Sánchez de Ron González",
+      "given": "Rosa",
+      "surname": "Sánchez de Ron González",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Yerno de Joseph Antonio González Fernández-Medal. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500148@"
+      ],
+      "birth": {
+        "date": "ABT 1774",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1774,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500431@",
+      "name": "Luis Fernández-Castañera Otero",
+      "given": "Luis",
+      "surname": "Fernández-Castañera Otero",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nieto de Joseph Antonio González Fernández-Medal. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500148@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1804",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1804,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500432@",
+      "name": "Juan Fernández-Castañera González",
+      "given": "Juan",
+      "surname": "Fernández-Castañera González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nieto de Joseph Antonio González Fernández-Medal. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500148@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1804",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1804,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500433@",
+      "name": "Ignacio José Fernández-Castañera González",
+      "given": "Ignacio José",
+      "surname": "Fernández-Castañera González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nieto de Joseph Antonio González Fernández-Medal. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500148@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1804",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1804,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500434@",
+      "name": "Francisco Fernández-Castañera González",
+      "given": "Francisco",
+      "surname": "Fernández-Castañera González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nieta de Joseph Antonio González Fernández-Medal. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500148@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1804",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1804,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500435@",
+      "name": "Rosa Josefa Fernández-Castañera González",
+      "given": "Rosa Josefa",
+      "surname": "Fernández-Castañera González",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nieta de Joseph Antonio González Fernández-Medal. Árbol administrado por M. Amor Sánchez de Ron."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500148@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1804",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1804,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500436@",
+      "name": "Rosa Fernández-Castañera González",
+      "given": "Rosa",
+      "surname": "Fernández-Castañera González",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nieto de Felipa Rodríguez Casariego. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500063@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1769",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1769,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500438@",
+      "name": "Juan Sánchez de Ron Méndez-Trelles",
+      "given": "Juan",
+      "surname": "Sánchez de Ron Méndez-Trelles",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermana de Rosa Méndez-Trelles (nuera de Felipa). Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500065@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1743",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1743,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500439@",
+      "name": "Josefa Méndez-Trelles",
+      "given": "Josefa",
+      "surname": "Méndez-Trelles",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano de Rosa Méndez-Trelles (nuera de Felipa). Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500065@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1743",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1743,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500440@",
+      "name": "Pelayo Antonio Méndez-Trelles González-Trelles",
+      "given": "Pelayo Antonio",
+      "surname": "Méndez-Trelles González-Trelles",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto de Felipa Rodríguez Casariego. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500149@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500441@",
+      "name": "Pelayo Sánchez de Ron González",
+      "given": "Pelayo",
+      "surname": "Sánchez de Ron González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto de Felipa Rodríguez Casariego. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500149@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500442@",
+      "name": "Miguel Sánchez de Ron González",
+      "given": "Miguel",
+      "surname": "Sánchez de Ron González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto de Felipa Rodríguez Casariego. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500149@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500443@",
+      "name": "Diego Sánchez de Ron González",
+      "given": "Diego",
+      "surname": "Sánchez de Ron González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Esposa de un bisnieto de Felipa Rodríguez Casariego. Árbol administrado por Óscar Á.G.",
+        "Esposa de José Sánchez de Ron González (hijo de Juana María). Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500164@",
+      "familySpouse": [
+        "@F500150@"
+      ],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500444@",
+      "name": "Josefa García-Villamil Fernández-Barrera",
+      "given": "Josefa",
+      "surname": "García-Villamil Fernández-Barrera",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tatara-tatara-nieto/a de Felipa Rodríguez Casariego. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500150@",
+      "familySpouse": [
+        "@F500161@"
+      ],
+      "birth": {
+        "date": "ABT 1832",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1832,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500445@",
+      "name": "María Sánchez de Ron García-Villamil",
+      "given": "María",
+      "surname": "Sánchez de Ron García-Villamil",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tatara-tatara-nieto/a de Felipa Rodríguez Casariego. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500150@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1832",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1832,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500446@",
+      "name": "José Sánchez de Ron García-Villamil",
+      "given": "José",
+      "surname": "Sánchez de Ron García-Villamil",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tatara-tatara-nieto/a de Felipa Rodríguez Casariego. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500150@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1832",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1832,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500447@",
+      "name": "Manuel Sánchez de Ron García",
+      "given": "Manuel",
+      "surname": "Sánchez de Ron García",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tatara-tatara-nieto/a de Felipa Rodríguez Casariego. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500150@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1832",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1832,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500448@",
+      "name": "Ramona Sánchez de Ron García",
+      "given": "Ramona",
+      "surname": "Sánchez de Ron García",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tatara-tatara-nieto/a de Felipa Rodríguez Casariego. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500150@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1832",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1832,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500449@",
+      "name": "Joaquina Sánchez de Ron García",
+      "given": "Joaquina",
+      "surname": "Sánchez de Ron García",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tatara-tatara-nieto/a de Felipa Rodríguez Casariego. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500150@",
+      "familySpouse": [
+        "@F500163@"
+      ],
+      "birth": {
+        "date": "ABT 1832",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1832,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500450@",
+      "name": "Constantina Sánchez de Ron García",
+      "given": "Constantina",
+      "surname": "Sánchez de Ron García",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Esposa de un bisnieto de Felipa Rodríguez Casariego. Árbol administrado por Óscar Á.G.",
+        "Segunda esposa de Ramón Sánchez de Ron González (tíos de María de la Caridad). Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500165@"
+      ],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500451@",
+      "name": "Josefa García-Lebredo",
+      "given": "Josefa",
+      "surname": "García-Lebredo",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tatara-tatara-nieto/a de Felipa Rodríguez Casariego. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500165@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1832",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1832,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500452@",
+      "name": "Félix Sánchez de Ron González",
+      "given": "Félix",
+      "surname": "Sánchez de Ron González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tatara-tatara-nieto/a de Felipa Rodríguez Casariego. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500165@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1832",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1832,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500453@",
+      "name": "Felipe Sánchez de Ron González",
+      "given": "Felipe",
+      "surname": "Sánchez de Ron González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tatara-tatara-nieto/a de Felipa Rodríguez Casariego. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500165@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1832",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1832,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500454@",
+      "name": "Arsenio Sánchez de Ron González",
+      "given": "Arsenio",
+      "surname": "Sánchez de Ron González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tatara-tatara-nieto/a de Felipa Rodríguez Casariego. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500165@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1832",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1832,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500455@",
+      "name": "Ramón Sánchez de Ron González",
+      "given": "Ramón",
+      "surname": "Sánchez de Ron González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tatara-tatara-nieto/a de Felipa Rodríguez Casariego. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500165@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1832",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1832,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500456@",
+      "name": "Saturna Sánchez de Ron González",
+      "given": "Saturna",
+      "surname": "Sánchez de Ron González",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tatara-tatara-nieto/a de Felipa Rodríguez Casariego. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500165@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1832",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1832,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500457@",
+      "name": "Damiana Sánchez de Ron González",
+      "given": "Damiana",
+      "surname": "Sánchez de Ron González",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tatara-tatara-nieto/a de Felipa Rodríguez Casariego. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500165@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1832",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1832,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500458@",
+      "name": "Plácida Sánchez de Ron González",
+      "given": "Plácida",
+      "surname": "Sánchez de Ron González",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tatara-tatara-nieto/a de Felipa Rodríguez Casariego. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500165@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1832",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1832,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500459@",
+      "name": "Generosa Sánchez de Ron González",
+      "given": "Generosa",
+      "surname": "Sánchez de Ron González",
+      "sex": "F"
+    },
+    {
+      "id": "@I500437@",
+      "name": "Diego Antonio Sánchez de Ron Méndez-Trelles",
+      "given": "Diego Antonio",
+      "surname": "Sánchez de Ron Méndez-Trelles",
+      "sex": "M",
+      "birth": {
+        "date": "ABT 1769",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1769,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Nieto de Felipa Rodríguez Casariego; hijo de José Francisco Sánchez de Ron. Árbol administrado por Óscar Á.G."
+      ],
+      "familyChild": "@F500063@",
+      "familySpouse": [
+        "@F500149@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Abuelo de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500152@",
+      "familySpouse": [
+        "@F500153@"
+      ],
+      "birth": {
+        "date": "ABT 1690",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1690,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500460@",
+      "name": "Francisco Fernández de la Concha Noriega",
+      "given": "Francisco",
+      "surname": "Fernández de la Concha Noriega",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Abuela de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500153@"
+      ],
+      "birth": {
+        "date": "ABT 1690",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1690,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500461@",
+      "name": "Cathalina Gómez de la Madriz",
+      "given": "Cathalina",
+      "surname": "Gómez de la Madriz",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisabuelo de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500152@"
+      ],
+      "birth": {
+        "date": "ABT 1660",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1660,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500462@",
+      "name": "Alonso Fernández del Alto",
+      "given": "Alonso",
+      "surname": "Fernández del Alto",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisabuela de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500152@"
+      ],
+      "birth": {
+        "date": "ABT 1660",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1660,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500463@",
+      "name": "Isabel de la Puerta Colomo",
+      "given": "Isabel",
+      "surname": "de la Puerta Colomo",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tía de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500153@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1720",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1720,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500464@",
+      "name": "Cathalina de la Concha Noriega",
+      "given": "Cathalina",
+      "surname": "de la Concha Noriega",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tío de Ana María Fernández-Pico (homónimo de su abuelo). Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500153@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1720",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1720,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500465@",
+      "name": "Francisco Fernández de la Concha Noriega",
+      "given": "Francisco",
+      "surname": "Fernández de la Concha Noriega",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tío de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500153@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1720",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1720,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500466@",
+      "name": "Miguel Fernández de la Concha Noriega",
+      "given": "Miguel",
+      "surname": "Fernández de la Concha Noriega",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500075@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1750",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1750,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500467@",
+      "name": "Juan Francisco Fernández de la Concha",
+      "given": "Juan Francisco",
+      "surname": "Fernández de la Concha",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermana de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500075@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1750",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1750,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500468@",
+      "name": "María Francisca Fernández de la Concha",
+      "given": "María Francisca",
+      "surname": "Fernández de la Concha",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500075@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1750",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1750,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500469@",
+      "name": "Joseph Fernández-Pico",
+      "given": "Joseph",
+      "surname": "Fernández-Pico",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Yerno de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500157@",
+      "familySpouse": [
+        "@F500154@"
+      ],
+      "birth": {
+        "date": "ABT 1774",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1774,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500470@",
+      "name": "José Antonio Fernández-Bousoño García-Lebredo",
+      "given": "José Antonio",
+      "surname": "Fernández-Bousoño García-Lebredo",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nieta de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500154@",
+      "familySpouse": [
+        "@F500156@"
+      ],
+      "birth": {
+        "date": "ABT 1804",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1804,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500471@",
+      "name": "Rosa Fernández-Bousoño González",
+      "given": "Rosa",
+      "surname": "Fernández-Bousoño González",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nieto de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500154@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1804",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1804,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500472@",
+      "name": "Fernando Antonio Fernández-Bousoño",
+      "given": "Fernando Antonio",
+      "surname": "Fernández-Bousoño",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nieto de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500154@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1804",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1804,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500473@",
+      "name": "Bernardo Fernández-Bousoño González",
+      "given": "Bernardo",
+      "surname": "Fernández-Bousoño González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Yerno de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500155@"
+      ],
+      "birth": {
+        "date": "ABT 1774",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1774,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500474@",
+      "name": "José Fernández-Castrillón",
+      "given": "José",
+      "surname": "Fernández-Castrillón",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nieta de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500155@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1804",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1804,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500475@",
+      "name": "Josefa Fernández-Castrillón González",
+      "given": "Josefa",
+      "surname": "Fernández-Castrillón González",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nieto de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500155@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1804",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1804,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500476@",
+      "name": "José Fernández-Castrillón González",
+      "given": "José",
+      "surname": "Fernández-Castrillón González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nieta de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500155@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1804",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1804,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500477@",
+      "name": "Teresa Fernández-Castrillón González",
+      "given": "Teresa",
+      "surname": "Fernández-Castrillón González",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Esposo de Rosa Fernández-Bousoño González (nieta de Ana María). Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500159@",
+      "familySpouse": [
+        "@F500156@"
+      ],
+      "birth": {
+        "date": "ABT 1804",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1804,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500478@",
+      "name": "Francisco Navia-Armal Manso",
+      "given": "Francisco",
+      "surname": "Navia-Armal Manso",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto/a de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500156@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1834",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1834,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500479@",
+      "name": "José Navia-Armal Fernández-Bousoño",
+      "given": "José",
+      "surname": "Navia-Armal Fernández-Bousoño",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto/a de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500156@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1834",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1834,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500480@",
+      "name": "Manuela Francisca Navia-Armal",
+      "given": "Manuela Francisca",
+      "surname": "Navia-Armal",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto/a de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500156@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1834",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1834,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500481@",
+      "name": "Francisco Tomás Ángel Navia-Armal",
+      "given": "Francisco Tomás Ángel",
+      "surname": "Navia-Armal",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto/a de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500156@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1834",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1834,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500482@",
+      "name": "Manuel Navia-Armal Fernández-Bousoño",
+      "given": "Manuel",
+      "surname": "Navia-Armal Fernández-Bousoño",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto/a de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500156@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1834",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1834,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500483@",
+      "name": "Carmela Ramona Navia-Armal",
+      "given": "Carmela Ramona",
+      "surname": "Navia-Armal",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto/a de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500156@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1834",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1834,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500484@",
+      "name": "Juan Navia-Armal Fernández-Bousoño",
+      "given": "Juan",
+      "surname": "Navia-Armal Fernández-Bousoño",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto/a de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500156@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1834",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1834,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500485@",
+      "name": "Ramona Manuela Navia-Armal",
+      "given": "Ramona Manuela",
+      "surname": "Navia-Armal",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto/a de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500156@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1834",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1834,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500486@",
+      "name": "María del Carmen Navia-Armal",
+      "given": "María del Carmen",
+      "surname": "Navia-Armal",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Padre del yerno de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500158@",
+      "familySpouse": [
+        "@F500157@"
+      ],
+      "birth": {
+        "date": "ABT 1744",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1744,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500487@",
+      "name": "Jose Antonio Fernández Bousoño",
+      "given": "Jose Antonio",
+      "surname": "Fernández Bousoño",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Madre del yerno de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500157@"
+      ],
+      "birth": {
+        "date": "ABT 1744",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1744,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500488@",
+      "name": "Teresa García Lebredo Méndez",
+      "given": "Teresa",
+      "surname": "García Lebredo Méndez",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano del yerno de Ana María Fernández-Pico (homónimo de su padre). Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500157@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1774",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1774,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500489@",
+      "name": "Jose Antonio Fernández Bousoño",
+      "given": "Jose Antonio",
+      "surname": "Fernández Bousoño",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano del yerno de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500157@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1774",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1774,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500490@",
+      "name": "Antônio Pedro Fernandes Pinheiro",
+      "given": "Antônio Pedro",
+      "surname": "Fernandes Pinheiro",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano del yerno de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500157@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1774",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1774,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500491@",
+      "name": "Joaquim Caetano Fernandes Pinheiro",
+      "given": "Joaquim Caetano",
+      "surname": "Fernandes Pinheiro",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Abuelo del yerno de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500158@"
+      ],
+      "birth": {
+        "date": "ABT 1714",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1714,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500492@",
+      "name": "Francisco Fernandes",
+      "given": "Francisco",
+      "surname": "Fernandes",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Abuela del yerno de Ana María Fernández-Pico. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500158@"
+      ],
+      "birth": {
+        "date": "ABT 1714",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1714,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500493@",
+      "name": "Maria Pereira São Francisco",
+      "given": "Maria",
+      "surname": "Pereira São Francisco",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Suegro de Rosa Fernández-Bousoño González. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500159@"
+      ],
+      "birth": {
+        "date": "ABT 1774",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1774,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500494@",
+      "name": "Pedro José Ramón Navia-Armal Fernández-Lovera",
+      "given": "Pedro José Ramón",
+      "surname": "Navia-Armal Fernández-Lovera",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Suegra de Rosa Fernández-Bousoño González. Árbol administrado por J. Castaño Pedrosa."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500159@"
+      ],
+      "birth": {
+        "date": "ABT 1774",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1774,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500495@",
+      "name": "Ramona Manso Sierra",
+      "given": "Ramona",
+      "surname": "Manso Sierra",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hijo de Juana María González Fernández (segundo hijo llamado José; en el árbol de origen «José Sánchez de Ron González (2)»). Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500014@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500496@",
+      "name": "José Sánchez de Ron González",
+      "given": "José",
+      "surname": "Sánchez de Ron González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Suegro de una nieta de Juana María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500160@"
+      ],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500497@",
+      "name": "Bernardo García de la Vega Méndez-Casariego",
+      "given": "Bernardo",
+      "surname": "García de la Vega Méndez-Casariego",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Suegra de una nieta de Juana María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500160@"
+      ],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500498@",
+      "name": "Joaquina Suárez-Cartavio Méndez de la Vega",
+      "given": "Joaquina",
+      "surname": "Suárez-Cartavio Méndez de la Vega",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Esposo de una nieta de Juana María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500160@",
+      "familySpouse": [
+        "@F500161@"
+      ],
+      "birth": {
+        "date": "ABT 1832",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1832,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500499@",
+      "name": "José García de la Vega Suárez-Cartavio",
+      "given": "José",
+      "surname": "García de la Vega Suárez-Cartavio",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto de Juana María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500161@",
+      "familySpouse": [
+        "@F500162@"
+      ],
+      "birth": {
+        "date": "ABT 1862",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1862,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500500@",
+      "name": "José García Sánchez",
+      "given": "José",
+      "surname": "García Sánchez",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieta de Juana María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500161@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1862",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1862,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500501@",
+      "name": "Marcelina García de la Vega Sánchez",
+      "given": "Marcelina",
+      "surname": "García de la Vega Sánchez",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieta de Juana María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500161@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1862",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1862,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500502@",
+      "name": "Juliana García de la Vega Sánchez",
+      "given": "Juliana",
+      "surname": "García de la Vega Sánchez",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieto de Juana María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500161@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1862",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1862,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500503@",
+      "name": "Manuel García Sánchez",
+      "given": "Manuel",
+      "surname": "García Sánchez",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisnieta de Juana María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500161@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1862",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1862,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500504@",
+      "name": "María Dolores García Sánchez",
+      "given": "María Dolores",
+      "surname": "García Sánchez",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Esposa de un bisnieto de Juana María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500162@"
+      ],
+      "birth": {
+        "date": "ABT 1862",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1862,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500505@",
+      "name": "Serafina Fernández Fernández",
+      "given": "Serafina",
+      "surname": "Fernández Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tatara-tatara-nieta de Juana María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500162@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1892",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1892,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500506@",
+      "name": "Manuela García Fernández",
+      "given": "Manuela",
+      "surname": "García Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Esposo de una nieta de Juana María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500163@"
+      ],
+      "birth": null,
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500507@",
+      "name": "Juan García del Real García",
+      "given": "Juan",
+      "surname": "García del Real García",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Padre de la nuera de Juana María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500164@"
+      ],
+      "birth": {
+        "date": "ABT 1772",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1772,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500508@",
+      "name": "Pedro Antonio García-Villamil Martínez",
+      "given": "Pedro Antonio",
+      "surname": "García-Villamil Martínez",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Madre de la nuera de Juana María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500164@"
+      ],
+      "birth": {
+        "date": "ABT 1772",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1772,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500509@",
+      "name": "Josefa María Teresa Fernández-Barreras",
+      "given": "Josefa María Teresa",
+      "surname": "Fernández-Barreras",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano de la nuera de Juana María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500164@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500510@",
+      "name": "José García-Villamil Fernández-Barreras",
+      "given": "José",
+      "surname": "García-Villamil Fernández-Barreras",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano de la nuera de Juana María González Fernández. Árbol administrado por C. Fernández."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500164@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1802",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1802,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500511@",
+      "name": "Juan García-Villamil Fernández-Barreras",
+      "given": "Juan",
+      "surname": "García-Villamil Fernández-Barreras",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500007@",
+      "familySpouse": [
+        "@F500166@"
+      ],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500512@",
+      "name": "Jesús Sánchez González",
+      "given": "Jesús",
+      "surname": "Sánchez González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500007@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500513@",
+      "name": "Julia Ángela Sánchez González",
+      "given": "Julia Ángela",
+      "surname": "Sánchez González",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500007@",
+      "familySpouse": [
+        "@F500192@"
+      ],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500514@",
+      "name": "María del Pilar Sánchez González",
+      "given": "María del Pilar",
+      "surname": "Sánchez González",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500007@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500515@",
+      "name": "María de la Providencia Sánchez González",
+      "given": "María de la Providencia",
+      "surname": "Sánchez González",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500007@",
+      "familySpouse": [
+        "@F500170@"
+      ],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500516@",
+      "name": "Teresa Sánchez González",
+      "given": "Teresa",
+      "surname": "Sánchez González",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500007@",
+      "familySpouse": [
+        "@F500168@"
+      ],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500517@",
+      "name": "Aurelia Sánchez González",
+      "given": "Aurelia",
+      "surname": "Sánchez González",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500007@",
+      "familySpouse": [
+        "@F500169@"
+      ],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500518@",
+      "name": "Luisa María del Amparo Sánchez González",
+      "given": "Luisa María del Amparo",
+      "surname": "Sánchez González",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500007@",
+      "familySpouse": [
+        "@F500167@"
+      ],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500519@",
+      "name": "María del Amparo Sánchez González",
+      "given": "María del Amparo",
+      "surname": "Sánchez González",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hija de Ramiro Pérez González y María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500005@",
+      "familySpouse": [
+        "@F500171@"
+      ],
+      "birth": {
+        "date": "ABT 1934",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1934,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500520@",
+      "name": "Amelia Pérez Sánchez",
+      "given": "Amelia",
+      "surname": "Pérez Sánchez",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Cuñada de María de la Caridad (esposa de Jesús). Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500166@"
+      ],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500521@",
+      "name": "Amalia Fernández Pérez",
+      "given": "Amalia",
+      "surname": "Fernández Pérez",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Sobrino/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500166@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1926",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1926,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500522@",
+      "name": "Teresa Paulina Sánchez Fernández",
+      "given": "Teresa Paulina",
+      "surname": "Sánchez Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Sobrino/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500166@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1926",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1926,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500523@",
+      "name": "María de la Purificación Sánchez Fernández",
+      "given": "María de la Purificación",
+      "surname": "Sánchez Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Sobrino/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500166@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1926",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1926,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500524@",
+      "name": "María Pura Serafina Sánchez Fernández",
+      "given": "María Pura Serafina",
+      "surname": "Sánchez Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Sobrino/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500166@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1926",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1926,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500525@",
+      "name": "Esmeralda Clara Sánchez Fernández",
+      "given": "Esmeralda Clara",
+      "surname": "Sánchez Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Sobrino/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500166@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1926",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1926,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500526@",
+      "name": "Emilio José Sánchez Fernández",
+      "given": "Emilio José",
+      "surname": "Sánchez Fernández",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Sobrino/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500166@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1926",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1926,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500527@",
+      "name": "Ramón Constantino Sánchez Fernández",
+      "given": "Ramón Constantino",
+      "surname": "Sánchez Fernández",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Sobrino/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500166@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1926",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1926,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500528@",
+      "name": "María Mercedes Sánchez Fernández",
+      "given": "María Mercedes",
+      "surname": "Sánchez Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Sobrino/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500166@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1926",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1926,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500529@",
+      "name": "José Sánchez Fernández",
+      "given": "José",
+      "surname": "Sánchez Fernández",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Cuñado de María de la Caridad (esposo de María del Amparo). Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500185@",
+      "familySpouse": [
+        "@F500167@"
+      ],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500530@",
+      "name": "Manuel Viella García",
+      "given": "Manuel",
+      "surname": "Viella García",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Sobrino/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500167@",
+      "familySpouse": [
+        "@F500191@"
+      ],
+      "birth": {
+        "date": "ABT 1926",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1926,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500531@",
+      "name": "María Luisa Viella Sánchez",
+      "given": "María Luisa",
+      "surname": "Viella Sánchez",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Sobrino/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500167@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1926",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1926,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500532@",
+      "name": "María de los Dolores Viella Sánchez",
+      "given": "María de los Dolores",
+      "surname": "Viella Sánchez",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Sobrino/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500167@",
+      "familySpouse": [
+        "@F500186@",
+        "@F500188@"
+      ],
+      "birth": {
+        "date": "ABT 1926",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1926,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500533@",
+      "name": "José Manuel Viella Sánchez",
+      "given": "José Manuel",
+      "surname": "Viella Sánchez",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Sobrino/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500167@",
+      "familySpouse": [
+        "@F500190@"
+      ],
+      "birth": {
+        "date": "ABT 1926",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1926,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500534@",
+      "name": "Jesús Pedro Viella Sánchez",
+      "given": "Jesús Pedro",
+      "surname": "Viella Sánchez",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Cuñado de María de la Caridad (esposo de Aurelia). Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500168@"
+      ],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500535@",
+      "name": "José Méndez Sánchez",
+      "given": "José",
+      "surname": "Méndez Sánchez",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Sobrino/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500168@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1926",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1926,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500536@",
+      "name": "José Elías Méndez Sánchez",
+      "given": "José Elías",
+      "surname": "Méndez Sánchez",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Sobrino/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500168@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1926",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1926,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500537@",
+      "name": "María del Carmen Amparo Méndez Sánchez",
+      "given": "María del Carmen Amparo",
+      "surname": "Méndez Sánchez",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Sobrino/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500168@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1926",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1926,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500538@",
+      "name": "Belarmino Méndez Sánchez",
+      "given": "Belarmino",
+      "surname": "Méndez Sánchez",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Cuñado de María de la Caridad (esposo de Luisa María del Amparo). Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500169@"
+      ],
+      "birth": null,
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500539@",
+      "name": "Elías Manuel Méndez Suárez",
+      "given": "Elías Manuel",
+      "surname": "Méndez Suárez",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Cuñado de María de la Caridad (esposo de Teresa). Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500170@"
+      ],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500540@",
+      "name": "Manuel Fernández-Cueto García-Pertierra",
+      "given": "Manuel",
+      "surname": "Fernández-Cueto García-Pertierra",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Sobrino/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500170@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1926",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1926,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500541@",
+      "name": "María Olvido Fernández Sánchez",
+      "given": "María Olvido",
+      "surname": "Fernández Sánchez",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Sobrino/a de María de la Caridad Sánchez González. Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500170@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1926",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1926,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500542@",
+      "name": "Celso Fernández Sánchez",
+      "given": "Celso",
+      "surname": "Fernández Sánchez",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Cuñado de María de la Caridad (hermano de Ramiro Pérez González). Árbol administrado por J. Jardon."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500006@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1900",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1900,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500543@",
+      "name": "Ramón Pérez Méndez",
+      "given": "Ramón",
+      "surname": "Pérez Méndez",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nieta de María de la Caridad Sánchez González (apellidos incompletos en origen). Árbol administrado por J. Jardon.",
+        "Hija de Amelia Pérez Sánchez (madre probable; apellidos de origen incompletos)."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500171@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1964",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1964,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500544@",
+      "name": "Rodríguez Pérez",
+      "given": null,
+      "surname": "Rodríguez Pérez",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tío de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500071@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1728",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1728,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500545@",
+      "name": "Juan Antonio González de Oneta Fernández",
+      "given": "Juan Antonio",
+      "surname": "González de Oneta Fernández",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tía de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500071@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1728",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1728,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500546@",
+      "name": "María Dominga González de Oneta",
+      "given": "María Dominga",
+      "surname": "González de Oneta",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tía de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500071@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1728",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1728,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500547@",
+      "name": "María Josefa González de Oneta García",
+      "given": "María Josefa",
+      "surname": "González de Oneta García",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tío abuelo de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500073@",
+      "familySpouse": [
+        "@F500175@",
+        "@F500176@",
+        "@F500177@",
+        "@F500179@"
+      ],
+      "birth": {
+        "date": "ABT 1698",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1698,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500548@",
+      "name": "Francisco González de Oneta",
+      "given": "Francisco",
+      "surname": "González de Oneta",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Primo del padre de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500175@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1728",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1728,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500549@",
+      "name": "Domingo González de Oneta",
+      "given": "Domingo",
+      "surname": "González de Oneta",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Primo del padre de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500176@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1728",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1728,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500550@",
+      "name": "Pedro González de Oneta",
+      "given": "Pedro",
+      "surname": "González de Oneta",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Primo del padre de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500177@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1728",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1728,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500551@",
+      "name": "Antonio González de Oneta",
+      "given": "Antonio",
+      "surname": "González de Oneta",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Tía del padre de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G.",
+        "Colocación aproximada (esposa de un tío abuelo)."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500179@"
+      ],
+      "birth": null,
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500552@",
+      "name": "Josefa Fernández-Lovera Fernández-Barreras",
+      "given": "Josefa",
+      "surname": "Fernández-Lovera Fernández-Barreras",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Primo del padre de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500178@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1728",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1728,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500553@",
+      "name": "José Antonio Cayetano Fernández-Chambergo",
+      "given": "José Antonio Cayetano",
+      "surname": "Fernández-Chambergo",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Primo de 3.er grado de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G.",
+        "Colocación aproximada (parentesco lejano por la rama Méndez)."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500181@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1668",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1668,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500554@",
+      "name": "Marcelino \"Marcelo\" Méndez Pérez",
+      "given": "Marcelino \"Marcelo\"",
+      "surname": "Méndez Pérez",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Prima de 3.er grado de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G.",
+        "Colocación aproximada (parentesco lejano por la rama Méndez)."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500181@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1668",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1668,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500555@",
+      "name": "Constantina Méndez Pérez",
+      "given": "Constantina",
+      "surname": "Méndez Pérez",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Prima de 3.er grado de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G.",
+        "Colocación aproximada (parentesco lejano por la rama Méndez)."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500181@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1668",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1668,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500556@",
+      "name": "Dominadora Méndez Pérez",
+      "given": "Dominadora",
+      "surname": "Méndez Pérez",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Primo de 3.er grado de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G.",
+        "Colocación aproximada (parentesco lejano por la rama Méndez)."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500181@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1668",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1668,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500557@",
+      "name": "Nemesio Méndez Pérez",
+      "given": "Nemesio",
+      "surname": "Méndez Pérez",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Prima de 3.er grado de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G.",
+        "Colocación aproximada (parentesco lejano por la rama Méndez)."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500181@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1668",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1668,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500558@",
+      "name": "Basilisa Méndez Pérez",
+      "given": "Basilisa",
+      "surname": "Méndez Pérez",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Yerno de un primo de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G.",
+        "Colocación aproximada (parentesco lejano por la rama Méndez)."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500181@",
+      "familySpouse": [
+        "@F500174@"
+      ],
+      "birth": {
+        "date": "ABT 1668",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1668,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500559@",
+      "name": "José Méndez del Campón",
+      "given": "José",
+      "surname": "Méndez del Campón",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Primo de 2.º grado de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G.",
+        "Colocación aproximada (parentesco lejano por la rama Méndez)."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500181@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1668",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1668,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500560@",
+      "name": "Juan Méndez del Campón González",
+      "given": "Juan",
+      "surname": "Méndez del Campón González",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Primo de 2.º grado de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G.",
+        "Colocación aproximada (parentesco lejano por la rama Méndez)."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500181@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1668",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1668,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500561@",
+      "name": "Víctor Manuel Méndez Méndez",
+      "given": "Víctor Manuel",
+      "surname": "Méndez Méndez",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Prima de 2.º grado de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G.",
+        "Colocación aproximada (parentesco lejano por la rama Méndez)."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500181@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1668",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1668,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500562@",
+      "name": "Nicolasa Méndez Méndez",
+      "given": "Nicolasa",
+      "surname": "Méndez Méndez",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Esposa de un primo de 2.º grado de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G.",
+        "Colocación aproximada (parentesco lejano por la rama Méndez)."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500181@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1668",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1668,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500563@",
+      "name": "Nicolasa Pérez y Cancio",
+      "given": "Nicolasa",
+      "surname": "Pérez y Cancio",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Primo de 2.º grado de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G.",
+        "Colocación aproximada (parentesco lejano por la rama Méndez)."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500181@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1668",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1668,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500564@",
+      "name": "José Antonio Fernández-Pico Pérez",
+      "given": "José Antonio",
+      "surname": "Fernández-Pico Pérez",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Esposa de un primo del padre de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G.",
+        "Colocación aproximada (parentesco lejano por la rama Méndez)."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500181@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1668",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1668,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500565@",
+      "name": "María Josefa Pérez-Villamil García",
+      "given": "María Josefa",
+      "surname": "Pérez-Villamil García",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hija de un primo de Joseph Antonio González Fernández-Medal (homónima de su hija). Árbol administrado por Óscar Á.G.",
+        "Colocación aproximada (parentesco lejano por la rama Méndez)."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500181@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1668",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1668,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500566@",
+      "name": "Rosa María González Fernández",
+      "given": "Rosa María",
+      "surname": "González Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hija de un primo de Joseph Antonio González Fernández-Medal. Árbol administrado por Óscar Á.G.",
+        "Colocación aproximada (parentesco lejano por la rama Méndez)."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500181@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1668",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1668,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500567@",
+      "name": "Josefa Méndez",
+      "given": "Josefa",
+      "surname": "Méndez",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisabuelo del cuñado de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500182@"
+      ],
+      "birth": {
+        "date": "ABT 1806",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1806,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500568@",
+      "name": "Bernardo Viyella",
+      "given": "Bernardo",
+      "surname": "Viyella",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Bisabuela del cuñado de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500182@"
+      ],
+      "birth": {
+        "date": "ABT 1806",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1806,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500569@",
+      "name": "Isabel Fernández",
+      "given": "Isabel",
+      "surname": "Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Abuelo del cuñado de María de la Caridad (nombre no conservado). Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500182@",
+      "familySpouse": [
+        "@F500183@"
+      ],
+      "birth": {
+        "date": "ABT 1836",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1836,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500570@",
+      "name": "Nombre desconocido",
+      "given": null,
+      "surname": null,
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Abuela del cuñado de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500183@"
+      ],
+      "birth": {
+        "date": "ABT 1836",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1836,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500571@",
+      "name": "Petra Viyella Fernández",
+      "given": "Petra",
+      "surname": "Viyella Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Padre del cuñado de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500183@",
+      "familySpouse": [
+        "@F500185@"
+      ],
+      "birth": {
+        "date": "ABT 1866",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1866,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500572@",
+      "name": "José Viella",
+      "given": "José",
+      "surname": "Viella",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Madre del cuñado de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500184@",
+      "familySpouse": [
+        "@F500185@"
+      ],
+      "birth": {
+        "date": "ABT 1866",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1866,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500573@",
+      "name": "Josefa Manuela García-Polavieja Méndez",
+      "given": "Josefa Manuela",
+      "surname": "García-Polavieja Méndez",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Abuelo del cuñado de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500184@"
+      ],
+      "birth": {
+        "date": "ABT 1836",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1836,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500574@",
+      "name": "Francisco Antonio García-Polavieja Álvarez",
+      "given": "Francisco Antonio",
+      "surname": "García-Polavieja Álvarez",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Abuela del cuñado de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500184@"
+      ],
+      "birth": {
+        "date": "ABT 1836",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1836,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500575@",
+      "name": "Ramona Méndez-Montaña Pérez-Villamil",
+      "given": "Ramona",
+      "surname": "Méndez-Montaña Pérez-Villamil",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano/a del cuñado de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500185@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500576@",
+      "name": "Pilar \"Casa Riveirega\" Viella García",
+      "given": "Pilar \"Casa Riveirega\"",
+      "surname": "Viella García",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano/a del cuñado de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500185@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500577@",
+      "name": "Florentina Viella García",
+      "given": "Florentina",
+      "surname": "Viella García",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano/a del cuñado de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500185@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500578@",
+      "name": "María Viella García",
+      "given": "María",
+      "surname": "Viella García",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano/a del cuñado de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500185@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500579@",
+      "name": "Ramona Viella García",
+      "given": "Ramona",
+      "surname": "Viella García",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano/a del cuñado de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500185@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500580@",
+      "name": "Balbina Viella García",
+      "given": "Balbina",
+      "surname": "Viella García",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano/a del cuñado de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500185@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500581@",
+      "name": "Salvador Villella",
+      "given": "Salvador",
+      "surname": "Villella",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano/a del cuñado de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500185@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500582@",
+      "name": "Manuela Villella García",
+      "given": "Manuela",
+      "surname": "Villella García",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano/a del cuñado de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500185@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500583@",
+      "name": "José Joaquín Villella García",
+      "given": "José Joaquín",
+      "surname": "Villella García",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hermano/a del cuñado de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500185@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500584@",
+      "name": "Juana Viella García",
+      "given": "Juana",
+      "surname": "Viella García",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Esposa del sobrino de María de la Caridad (José Manuel Viella). Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500187@",
+      "familySpouse": [
+        "@F500186@",
+        "@F500188@"
+      ],
+      "birth": {
+        "date": "ABT 1926",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1926,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500585@",
+      "name": "María Dolores (Lola) García García",
+      "given": "María Dolores (Lola)",
+      "surname": "García García",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Suegro del sobrino de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500187@"
+      ],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500586@",
+      "name": "Joaquín García Pérez",
+      "given": "Joaquín",
+      "surname": "García Pérez",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Suegra del sobrino de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500187@"
+      ],
+      "birth": {
+        "date": "ABT 1896",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1896,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500587@",
+      "name": "Elvira García Fernández",
+      "given": "Elvira",
+      "surname": "García Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nuera del sobrino de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500189@"
+      ],
+      "birth": null,
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500588@",
+      "name": "María de los Dolores Fernández Fernández",
+      "given": "María de los Dolores",
+      "surname": "Fernández Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Esposa del sobrino de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500190@"
+      ],
+      "birth": {
+        "date": "ABT 1926",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1926,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500589@",
+      "name": "Josefa (Pepita del Caraxo) Fernández",
+      "given": "Josefa (Pepita del Caraxo)",
+      "surname": "Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Esposo de la sobrina de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500191@"
+      ],
+      "birth": {
+        "date": "ABT 1926",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1926,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500590@",
+      "name": "Manuel Rodríguez Fernández",
+      "given": "Manuel",
+      "surname": "Rodríguez Fernández",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nieto de una hermana de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500191@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1956",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1956,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500591@",
+      "name": "Sergio Rodríguez Viella",
+      "given": "Sergio",
+      "surname": "Rodríguez Viella",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nieta de una hermana de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500190@",
+      "familySpouse": [],
+      "birth": {
+        "date": "ABT 1956",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1956,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500592@",
+      "name": "María Mercedes Viella Fernández",
+      "given": "María Mercedes",
+      "surname": "Viella Fernández",
+      "sex": "F"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Nieto de una hermana de María de la Caridad (nombre incompleto). Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500186@",
+      "familySpouse": [],
+      "birth": null,
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500593@",
+      "name": "Viella García",
+      "given": null,
+      "surname": "Viella García",
+      "sex": "U"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Cuñado de una hermana de María de la Caridad. Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": null,
+      "familySpouse": [
+        "@F500192@"
+      ],
+      "birth": null,
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500594@",
+      "name": "Valentín Dorado Díaz",
+      "given": "Valentín",
+      "surname": "Dorado Díaz",
+      "sex": "M"
+    },
+    {
+      "occupations": [],
+      "notes": [
+        "Hijo de José Manuel Viella (nombre no conservado). Árbol administrado por P. Viella."
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null,
+      "familyChild": "@F500186@",
+      "familySpouse": [
+        "@F500189@"
+      ],
+      "birth": {
+        "date": "ABT 1956",
+        "place": null
+      },
+      "death": null,
+      "birthYear": 1956,
+      "deathYear": null,
+      "living": false,
+      "id": "@I500595@",
+      "name": "Nombre desconocido",
+      "given": null,
+      "surname": "Viella",
+      "sex": "M"
+    },
+    {
+      "id": "@I500596@",
+      "name": "Domingo Antonio Pablo Bernardo José García del Real y del Valle",
+      "given": "Domingo Antonio Pablo Bernardo José",
+      "surname": "García del Real y del Valle",
+      "sex": "M",
+      "birth": {
+        "date": "6 JUL 1745",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1745,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Bautizado en San Cosme de Villacondide el 6 de julio de 1745. Fuente: Gonzalo Anes y Álvarez de Castrillón, «Una investigación genealógica: estirpes de la Casa Trelles», libro segundo de bautizados de Villacondide, folio 6 vuelto."
+      ],
+      "familyChild": "@F500114@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500597@",
+      "name": "María Antonia García del Real y del Valle",
+      "given": "María Antonia",
+      "surname": "García del Real y del Valle",
+      "sex": "F",
+      "birth": {
+        "date": "6 JUL 1748",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1748,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Bautizada en San Cosme de Villacondide el 6 de julio de 1748. Fuente: Gonzalo Anes y Álvarez de Castrillón, «Una investigación genealógica: estirpes de la Casa Trelles», libro segundo de bautizados de Villacondide, folio 19."
+      ],
+      "familyChild": "@F500114@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500598@",
+      "name": "María Antonia Bernarda García del Real y del Valle",
+      "given": "María Antonia Bernarda",
+      "surname": "García del Real y del Valle",
+      "sex": "F",
+      "birth": {
+        "date": "24 APR 1750",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "death": null,
+      "birthYear": 1750,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Bautizada en San Cosme de Villacondide el 24 de abril de 1750. Fueron padrinos Pelayo Méndez Trelles y María Antonia Infanzón. Fuente: Gonzalo Anes y Álvarez de Castrillón, «Una investigación genealógica: estirpes de la Casa Trelles», libro segundo de bautizados de Villacondide, folio 20 vuelto."
+      ],
+      "familyChild": "@F500114@",
+      "familySpouse": [],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500599@",
+      "name": "Juan Ruiz",
+      "given": "Juan",
+      "surname": "Ruiz",
+      "sex": "M",
+      "birth": {
+        "date": null,
+        "place": "Villanueva de Henares, Castilla y León, España"
+      },
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Fuente: Información aportada por el usuario el 22-09-2026; imagen de la partida pendiente de incorporar."
+      ],
+      "familyChild": "@F500193@",
+      "familySpouse": [
+        "@F500061@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500600@",
+      "name": "Juan Ruiz",
+      "given": "Juan",
+      "surname": "Ruiz",
+      "sex": "M",
+      "birth": {
+        "date": null,
+        "place": "Villanueva de Henares, Castilla y León, España"
+      },
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Fuente: Información aportada por el usuario el 22-09-2026; imagen de la partida pendiente de incorporar."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500193@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500601@",
+      "name": "Teresa Lauderas",
+      "given": "Teresa",
+      "surname": "Lauderas",
+      "sex": "F",
+      "birth": {
+        "date": null,
+        "place": "San Martín de Hoyos, Cantabria, España"
+      },
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Fuente: Información aportada por el usuario el 22-09-2026; imagen de la partida pendiente de incorporar."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500193@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500602@",
+      "name": "Dionisio Gutiérrez",
+      "given": "Dionisio",
+      "surname": "Gutiérrez",
+      "sex": "M",
+      "birth": {
+        "date": null,
+        "place": "San Cristóbal del Monte, Cantabria, España"
+      },
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Fuente: Información aportada por el usuario el 22-09-2026; imagen de la partida pendiente de incorporar."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500076@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    },
+    {
+      "id": "@I500603@",
+      "name": "Teresa García",
+      "given": "Teresa",
+      "surname": "García",
+      "sex": "F",
+      "birth": {
+        "date": null,
+        "place": "Moroso, Cantabria, España"
+      },
+      "death": null,
+      "birthYear": null,
+      "deathYear": null,
+      "living": false,
+      "occupations": [],
+      "notes": [
+        "Fuente: Información aportada por el usuario el 22-09-2026; imagen de la partida pendiente de incorporar."
+      ],
+      "familyChild": null,
+      "familySpouse": [
+        "@F500076@"
+      ],
+      "sourceRefs": [],
+      "media": [],
+      "localPhoto": null
+    }
+  ],
+  "families": [
+    {
+      "id": "@F500001@",
+      "husband": "@I500003@",
+      "wife": "@I500002@",
+      "children": [
+        "@I500008@",
+        "@I500001@",
+        "@I500009@"
+      ],
+      "marriage": {
+        "date": null,
+        "place": null
+      },
+      "divorce": null
+    },
+    {
+      "id": "@F500002@",
+      "husband": "@I500006@",
+      "wife": "@I500005@",
+      "children": [
+        "@I500003@"
+      ],
+      "marriage": {
+        "date": "15 OCT 1958",
+        "place": "Avilés, Principado de Asturias, España"
+      },
+      "divorce": null
+    },
+    {
+      "id": "@F500003@",
+      "husband": "@I500007@",
+      "wife": "@I500004@",
+      "children": [
+        "@I500002@",
+        "@I500010@"
+      ],
+      "marriage": {
+        "date": "18 SEP 1964",
+        "place": null
+      },
+      "divorce": null
+    },
+    {
+      "id": "@F500004@",
+      "husband": "@I500010@",
+      "wife": "@I500012@",
+      "children": [
+        "@I500011@",
+        "@I500013@"
+      ],
+      "marriage": {
+        "date": null,
+        "place": null
+      },
+      "divorce": {
+        "date": null,
+        "place": null
+      }
+    },
+    {
+      "id": "@F500005@",
+      "husband": "@I500014@",
+      "wife": "@I500015@",
+      "children": [
+        "@I500018@",
+        "@I500019@",
+        "@I500023@",
+        "@I500022@",
+        "@I500024@",
+        "@I500004@",
+        "@I500020@",
+        "@I500025@",
+        "@I500021@",
+        "@I500148@",
+        "@I500149@",
+        "@I500520@"
+      ],
+      "marriage": {
+        "date": null,
+        "place": null
+      },
+      "divorce": null
+    },
+    {
+      "id": "@F500006@",
+      "husband": "@I500016@",
+      "wife": "@I500017@",
+      "children": [
+        "@I500014@",
+        "@I500543@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500007@",
+      "husband": "@I500026@",
+      "wife": "@I500027@",
+      "children": [
+        "@I500015@",
+        "@I500035@",
+        "@I500036@",
+        "@I500512@",
+        "@I500513@",
+        "@I500514@",
+        "@I500515@",
+        "@I500516@",
+        "@I500517@",
+        "@I500518@",
+        "@I500519@"
+      ],
+      "marriage": {
+        "date": null,
+        "place": null
+      },
+      "divorce": null
+    },
+    {
+      "id": "@F500008@",
+      "husband": "@I500021@",
+      "wife": "@I500029@",
+      "children": [
+        "@I500028@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500009@",
+      "husband": "@I500030@",
+      "wife": "@I500023@",
+      "children": [],
+      "marriage": {
+        "date": null,
+        "place": null
+      },
+      "divorce": null
+    },
+    {
+      "id": "@F500010@",
+      "husband": "@I500031@",
+      "wife": "@I500024@",
+      "children": [],
+      "marriage": {
+        "date": null,
+        "place": null
+      },
+      "divorce": null
+    },
+    {
+      "id": "@F500011@",
+      "husband": "@I500032@",
+      "wife": "@I500025@",
+      "children": [],
+      "marriage": {
+        "date": null,
+        "place": null
+      },
+      "divorce": null
+    },
+    {
+      "id": "@F500012@",
+      "husband": "@I500033@",
+      "wife": "@I500034@",
+      "children": [
+        "@I500026@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500013@",
+      "husband": "@I500037@",
+      "wife": "@I500038@",
+      "children": [
+        "@I500027@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500014@",
+      "husband": "@I500039@",
+      "wife": "@I500040@",
+      "children": [
+        "@I500033@",
+        "@I500429@",
+        "@I500430@",
+        "@I500496@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500015@",
+      "husband": "@I500041@",
+      "wife": "@I500042@",
+      "children": [
+        "@I500038@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500025@",
+      "husband": "@I500044@",
+      "wife": "@I500045@",
+      "children": [
+        "@I500193@",
+        "@I500194@",
+        "@I500046@",
+        "@I500005@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500026@",
+      "husband": "@I500047@",
+      "wife": "@I500048@",
+      "children": [
+        "@I500045@",
+        "@I500050@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500027@",
+      "husband": "@I500049@",
+      "wife": "@I500046@",
+      "children": [],
+      "marriage": {
+        "date": null,
+        "place": null
+      },
+      "divorce": null
+    },
+    {
+      "id": "@F500028@",
+      "husband": "@I500051@",
+      "wife": "@I500052@",
+      "children": [
+        "@I500049@"
+      ],
+      "marriage": {
+        "date": null,
+        "place": null
+      },
+      "divorce": null
+    },
+    {
+      "id": "@F500029@",
+      "husband": "@I500053@",
+      "wife": "@I500050@",
+      "children": [
+        "@I500054@",
+        "@I500093@",
+        "@I500094@",
+        "@I500095@"
+      ],
+      "marriage": {
+        "date": null,
+        "place": null
+      },
+      "divorce": null
+    },
+    {
+      "id": "@F500030@",
+      "husband": "@I500055@",
+      "wife": null,
+      "children": [
+        "@I500051@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500035@",
+      "husband": "@I500001@",
+      "wife": "@I500064@",
+      "children": [],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500036@",
+      "husband": "@I500008@",
+      "wife": "@I500065@",
+      "children": [],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500037@",
+      "husband": "@I500067@",
+      "wife": "@I500066@",
+      "children": [
+        "@I500064@",
+        "@I500068@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500038@",
+      "husband": "@I500069@",
+      "wife": "@I500070@",
+      "children": [
+        "@I500066@",
+        "@I500071@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500039@",
+      "husband": "@I500073@",
+      "wife": "@I500072@",
+      "children": [
+        "@I500067@",
+        "@I500074@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500040@",
+      "husband": "@I500074@",
+      "wife": "@I500076@",
+      "children": [
+        "@I500075@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500041@",
+      "husband": "@I500077@",
+      "wife": "@I500082@",
+      "children": [
+        "@I500006@",
+        "@I500195@",
+        "@I500196@",
+        "@I500197@",
+        "@I500198@",
+        "@I500199@",
+        "@I500200@",
+        "@I500201@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500042@",
+      "husband": "@I500078@",
+      "wife": "@I500079@",
+      "children": [
+        "@I500077@",
+        "@I500080@",
+        "@I500081@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500043@",
+      "husband": "@I500083@",
+      "wife": "@I500084@",
+      "children": [
+        "@I500078@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500044@",
+      "husband": "@I500085@",
+      "wife": "@I500086@",
+      "children": [
+        "@I500083@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500045@",
+      "husband": "@I500087@",
+      "wife": "@I500088@",
+      "children": [
+        "@I500082@",
+        "@I500089@",
+        "@I500090@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500046@",
+      "husband": "@I500091@",
+      "wife": "@I500092@",
+      "children": [
+        "@I500079@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500047@",
+      "husband": "@I500096@",
+      "wife": "@I500097@",
+      "children": [
+        "@I500044@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500048@",
+      "husband": "@I500098@",
+      "wife": "@I500099@",
+      "children": [
+        "@I500097@",
+        "@I500100@",
+        "@I500101@"
+      ],
+      "marriage": {
+        "date": "21 DEC 1927",
+        "place": null
+      },
+      "divorce": null
+    },
+    {
+      "id": "@F500049@",
+      "husband": "@I500102@",
+      "wife": "@I500107@",
+      "children": [
+        "@I500096@"
+      ],
+      "marriage": {
+        "date": null,
+        "place": null
+      },
+      "divorce": null
+    },
+    {
+      "id": "@F500050@",
+      "husband": "@I500103@",
+      "wife": "@I500104@",
+      "children": [
+        "@I500102@",
+        "@I500105@",
+        "@I500106@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500051@",
+      "husband": "@I500108@",
+      "wife": "@I500109@",
+      "children": [
+        "@I500103@",
+        "@I500110@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500052@",
+      "husband": "@I500111@",
+      "wife": "@I500112@",
+      "children": [
+        "@I500047@",
+        "@I500113@",
+        "@I500114@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500053@",
+      "husband": "@I500115@",
+      "wife": "@I500116@",
+      "children": [
+        "@I500111@",
+        "@I500117@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500054@",
+      "husband": "@I500118@",
+      "wife": "@I500119@",
+      "children": [
+        "@I500048@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500055@",
+      "husband": null,
+      "wife": "@I500120@",
+      "children": [
+        "@I500118@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500056@",
+      "husband": "@I500121@",
+      "wife": "@I500122@",
+      "children": [
+        "@I500007@",
+        "@I500123@",
+        "@I500124@",
+        "@I500125@",
+        "@I500126@",
+        "@I500127@",
+        "@I500128@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500057@",
+      "husband": "@I500129@",
+      "wife": "@I500130@",
+      "children": [
+        "@I500132@",
+        "@I500121@",
+        "@I500131@",
+        "@I500138@",
+        "@I500133@",
+        "@I500134@",
+        "@I500135@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500058@",
+      "husband": "@I500135@",
+      "wife": "@I500137@",
+      "children": [
+        "@I500136@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500059@",
+      "husband": "@I500139@",
+      "wife": "@I500140@",
+      "children": [
+        "@I500129@",
+        "@I500141@",
+        "@I500142@",
+        "@I500143@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500060@",
+      "husband": null,
+      "wife": "@I500144@",
+      "children": [
+        "@I500139@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500061@",
+      "husband": "@I500599@",
+      "wife": "@I500145@",
+      "children": [
+        "@I500130@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500062@",
+      "husband": "@I500146@",
+      "wife": "@I500147@",
+      "children": [
+        "@I500122@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500063@",
+      "husband": "@I500150@",
+      "wife": "@I500151@",
+      "children": [
+        "@I500039@",
+        "@I500438@",
+        "@I500437@"
+      ],
+      "marriage": {
+        "date": null,
+        "place": null
+      },
+      "divorce": null
+    },
+    {
+      "id": "@F500064@",
+      "husband": "@I500152@",
+      "wife": "@I500153@",
+      "children": [
+        "@I500150@",
+        "@I500337@",
+        "@I500338@",
+        "@I500339@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500065@",
+      "husband": "@I500154@",
+      "wife": "@I500155@",
+      "children": [
+        "@I500151@",
+        "@I500439@",
+        "@I500440@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500066@",
+      "husband": "@I500156@",
+      "wife": "@I500157@",
+      "children": [
+        "@I500152@",
+        "@I500336@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500067@",
+      "husband": "@I500158@",
+      "wife": "@I500159@",
+      "children": [
+        "@I500156@",
+        "@I500354@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500068@",
+      "husband": "@I500160@",
+      "wife": "@I500161@",
+      "children": [
+        "@I500157@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500069@",
+      "husband": "@I500162@",
+      "wife": "@I500163@",
+      "children": [
+        "@I500040@",
+        "@I500415@",
+        "@I500416@",
+        "@I500417@",
+        "@I500418@"
+      ],
+      "marriage": {
+        "date": null,
+        "place": null
+      },
+      "divorce": null
+    },
+    {
+      "id": "@F500070@",
+      "husband": "@I500164@",
+      "wife": "@I500165@",
+      "children": [
+        "@I500162@",
+        "@I500393@",
+        "@I500394@",
+        "@I500395@",
+        "@I500396@",
+        "@I500397@",
+        "@I500398@",
+        "@I500399@",
+        "@I500400@",
+        "@I500401@",
+        "@I500402@",
+        "@I500403@",
+        "@I500404@",
+        "@I500405@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500071@",
+      "husband": "@I500166@",
+      "wife": "@I500167@",
+      "children": [
+        "@I500164@",
+        "@I500545@",
+        "@I500546@",
+        "@I500547@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500072@",
+      "husband": "@I500168@",
+      "wife": null,
+      "children": [
+        "@I500165@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500073@",
+      "husband": "@I500169@",
+      "wife": "@I500170@",
+      "children": [
+        "@I500166@",
+        "@I500375@",
+        "@I500376@",
+        "@I500377@",
+        "@I500548@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500074@",
+      "husband": "@I500171@",
+      "wife": "@I500383@",
+      "children": [
+        "@I500167@",
+        "@I500384@",
+        "@I500385@",
+        "@I500386@",
+        "@I500387@",
+        "@I500388@",
+        "@I500389@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500075@",
+      "husband": "@I500172@",
+      "wife": "@I500173@",
+      "children": [
+        "@I500163@",
+        "@I500467@",
+        "@I500468@",
+        "@I500469@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500076@",
+      "husband": "@I500602@",
+      "wife": "@I500603@",
+      "children": [
+        "@I500145@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500077@",
+      "husband": "@I500175@",
+      "wife": "@I500176@",
+      "children": [
+        "@I500174@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500078@",
+      "husband": "@I500177@",
+      "wife": null,
+      "children": [
+        "@I500176@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500079@",
+      "husband": "@I500178@",
+      "wife": "@I500179@",
+      "children": [
+        "@I500180@",
+        "@I500181@",
+        "@I500182@",
+        "@I500183@",
+        "@I500184@",
+        "@I500185@",
+        "@I500186@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500080@",
+      "husband": "@I500180@",
+      "wife": "@I500187@",
+      "children": [
+        "@I500188@",
+        "@I500012@",
+        "@I500189@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500081@",
+      "husband": "@I500189@",
+      "wife": "@I500190@",
+      "children": [
+        "@I500191@",
+        "@I500192@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500082@",
+      "husband": "@I500203@",
+      "wife": "@I500348@",
+      "children": [
+        "@I500343@",
+        "@I500345@",
+        "@I500346@",
+        "@I500347@",
+        "@I500204@",
+        "@I500205@",
+        "@I500363@",
+        "@I500369@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500083@",
+      "husband": "@I500206@",
+      "wife": null,
+      "children": [
+        "@I500154@",
+        "@I500207@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500084@",
+      "husband": "@I500208@",
+      "wife": "@I500209@",
+      "children": [
+        "@I500212@",
+        "@I500227@",
+        "@I500228@",
+        "@I500229@",
+        "@I500230@",
+        "@I500232@",
+        "@I500242@",
+        "@I500243@",
+        "@I500244@",
+        "@I500298@",
+        "@I500299@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500085@",
+      "husband": "@I500208@",
+      "wife": "@I500224@",
+      "children": [
+        "@I500225@",
+        "@I500226@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500086@",
+      "husband": "@I500210@",
+      "wife": "@I500211@",
+      "children": [
+        "@I500209@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500087@",
+      "husband": "@I500218@",
+      "wife": "@I500219@",
+      "children": [
+        "@I500208@",
+        "@I500235@",
+        "@I500236@",
+        "@I500237@",
+        "@I500238@",
+        "@I500239@"
+      ],
+      "marriage": {
+        "date": "BET 1505 AND 1510",
+        "place": "Trelles, Principado de Asturias, España"
+      },
+      "divorce": null
+    },
+    {
+      "id": "@F500088@",
+      "husband": "@I500220@",
+      "wife": "@I500221@",
+      "children": [
+        "@I500218@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500089@",
+      "husband": "@I500266@",
+      "wife": "@I500221@",
+      "children": [
+        "@I500218@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500090@",
+      "husband": "@I500222@",
+      "wife": null,
+      "children": [
+        "@I500220@",
+        "@I500234@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500091@",
+      "husband": "@I500223@",
+      "wife": null,
+      "children": [
+        "@I500219@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500092@",
+      "husband": "@I500241@",
+      "wife": null,
+      "children": [
+        "@I500218@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500093@",
+      "husband": "@I500252@",
+      "wife": null,
+      "children": [
+        "@I500251@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500094@",
+      "husband": "@I500259@",
+      "wife": "@I500260@",
+      "children": [
+        "@I500219@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500095@",
+      "husband": "@I500213@",
+      "wife": "@I500212@",
+      "children": [
+        "@I500214@",
+        "@I500215@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500096@",
+      "husband": "@I500216@",
+      "wife": "@I500217@",
+      "children": [
+        "@I500213@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500097@",
+      "husband": "@I500293@",
+      "wife": "@I500294@",
+      "children": [
+        "@I500216@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500098@",
+      "husband": "@I500296@",
+      "wife": null,
+      "children": [
+        "@I500293@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500099@",
+      "husband": "@I500297@",
+      "wife": null,
+      "children": [
+        "@I500296@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500100@",
+      "husband": "@I500295@",
+      "wife": null,
+      "children": [
+        "@I500294@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500101@",
+      "husband": "@I500225@",
+      "wife": "@I500245@",
+      "children": [
+        "@I500247@",
+        "@I500248@",
+        "@I500249@",
+        "@I500267@",
+        "@I500268@",
+        "@I500274@",
+        "@I500275@",
+        "@I500276@",
+        "@I500277@",
+        "@I500278@",
+        "@I500279@",
+        "@I500280@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500102@",
+      "husband": "@I500246@",
+      "wife": "@I500261@",
+      "children": [
+        "@I500245@",
+        "@I500262@",
+        "@I500263@",
+        "@I500264@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500103@",
+      "husband": "@I500247@",
+      "wife": "@I500281@",
+      "children": [
+        "@I500282@",
+        "@I500283@",
+        "@I500284@",
+        "@I500285@",
+        "@I500286@",
+        "@I500287@",
+        "@I500288@",
+        "@I500289@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500104@",
+      "husband": "@I500269@",
+      "wife": "@I500268@",
+      "children": [],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500105@",
+      "husband": "@I500270@",
+      "wife": "@I500271@",
+      "children": [
+        "@I500269@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500106@",
+      "husband": "@I500272@",
+      "wife": "@I500273@",
+      "children": [
+        "@I500270@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500107@",
+      "husband": "@I500230@",
+      "wife": "@I500231@",
+      "children": [],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500108@",
+      "husband": "@I500232@",
+      "wife": "@I500233@",
+      "children": [],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500109@",
+      "husband": "@I500226@",
+      "wife": "@I500240@",
+      "children": [],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500110@",
+      "husband": "@I500289@",
+      "wife": "@I500290@",
+      "children": [
+        "@I500291@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500111@",
+      "husband": "@I500280@",
+      "wife": "@I500292@",
+      "children": [],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500112@",
+      "husband": "@I500267@",
+      "wife": "@I500300@",
+      "children": [
+        "@I500301@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500113@",
+      "husband": "@I500302@",
+      "wife": "@I500301@",
+      "children": [
+        "@I500303@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500114@",
+      "husband": "@I500304@",
+      "wife": "@I500301@",
+      "children": [
+        "@I500596@",
+        "@I500597@",
+        "@I500598@"
+      ],
+      "marriage": {
+        "date": "3 JUN 1744",
+        "place": "Villacondide, Principado de Asturias, España"
+      },
+      "divorce": null
+    },
+    {
+      "id": "@F500115@",
+      "husband": "@I500305@",
+      "wife": "@I500306@",
+      "children": [
+        "@I500304@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500116@",
+      "husband": "@I500303@",
+      "wife": "@I500307@",
+      "children": [
+        "@I500308@",
+        "@I500309@",
+        "@I500310@",
+        "@I500311@",
+        "@I500312@",
+        "@I500313@",
+        "@I500314@",
+        "@I500315@",
+        "@I500316@",
+        "@I500317@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500117@",
+      "husband": "@I500318@",
+      "wife": "@I500308@",
+      "children": [],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500118@",
+      "husband": "@I500319@",
+      "wife": "@I500309@",
+      "children": [],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500119@",
+      "husband": "@I500255@",
+      "wife": null,
+      "children": [
+        "@I500256@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500120@",
+      "husband": "@I500256@",
+      "wife": null,
+      "children": [
+        "@I500257@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500121@",
+      "husband": "@I500257@",
+      "wife": null,
+      "children": [
+        "@I500258@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500122@",
+      "husband": "@I500258@",
+      "wife": null,
+      "children": [
+        "@I500252@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500123@",
+      "husband": "@I500234@",
+      "wife": null,
+      "children": [],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500124@",
+      "husband": "@I500160@",
+      "wife": "@I500202@",
+      "children": [],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500125@",
+      "husband": "@I500331@",
+      "wife": null,
+      "children": [
+        "@I500073@",
+        "@I500320@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500126@",
+      "husband": "@I500332@",
+      "wife": null,
+      "children": [
+        "@I500069@",
+        "@I500321@",
+        "@I500330@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500127@",
+      "husband": "@I500333@",
+      "wife": null,
+      "children": [
+        "@I500070@",
+        "@I500322@",
+        "@I500324@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500129@",
+      "husband": "@I500334@",
+      "wife": null,
+      "children": [
+        "@I500072@",
+        "@I500325@",
+        "@I500326@",
+        "@I500327@",
+        "@I500328@",
+        "@I500335@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500130@",
+      "husband": "@I500252@",
+      "wife": null,
+      "children": [
+        "@I500218@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500131@",
+      "husband": "@I500214@",
+      "wife": null,
+      "children": [
+        "@I500202@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500132@",
+      "husband": null,
+      "wife": "@I500335@",
+      "children": [
+        "@I500329@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500133@",
+      "husband": "@I500340@",
+      "wife": "@I500341@",
+      "children": [
+        "@I500158@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500134@",
+      "husband": null,
+      "wife": "@I500342@",
+      "children": [
+        "@I500340@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500135@",
+      "husband": "@I500343@",
+      "wife": "@I500344@",
+      "children": [
+        "@I500160@",
+        "@I500349@",
+        "@I500350@",
+        "@I500351@",
+        "@I500352@",
+        "@I500353@",
+        "@I500373@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500136@",
+      "husband": "@I500354@",
+      "wife": "@I500355@",
+      "children": [
+        "@I500356@",
+        "@I500357@",
+        "@I500358@",
+        "@I500359@",
+        "@I500360@",
+        "@I500361@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500137@",
+      "husband": "@I500362@",
+      "wife": "@I500356@",
+      "children": [],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500138@",
+      "husband": "@I500265@",
+      "wife": "@I500364@",
+      "children": [
+        "@I500203@",
+        "@I500367@",
+        "@I500368@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500139@",
+      "husband": "@I500365@",
+      "wife": "@I500366@",
+      "children": [
+        "@I500265@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500140@",
+      "husband": null,
+      "wife": "@I500369@",
+      "children": [
+        "@I500370@",
+        "@I500371@",
+        "@I500372@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500141@",
+      "husband": null,
+      "wife": "@I500373@",
+      "children": [
+        "@I500374@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500142@",
+      "husband": "@I500378@",
+      "wife": "@I500379@",
+      "children": [
+        "@I500169@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500143@",
+      "husband": "@I500169@",
+      "wife": "@I500380@",
+      "children": [],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500144@",
+      "husband": "@I500381@",
+      "wife": "@I500382@",
+      "children": [
+        "@I500380@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500145@",
+      "husband": "@I500375@",
+      "wife": null,
+      "children": [
+        "@I500390@",
+        "@I500391@",
+        "@I500392@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500146@",
+      "husband": "@I500406@",
+      "wife": "@I500392@",
+      "children": [
+        "@I500407@",
+        "@I500408@",
+        "@I500409@",
+        "@I500410@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500147@",
+      "husband": "@I500411@",
+      "wife": "@I500403@",
+      "children": [
+        "@I500412@",
+        "@I500413@",
+        "@I500414@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500148@",
+      "husband": "@I500431@",
+      "wife": "@I500416@",
+      "children": [
+        "@I500432@",
+        "@I500433@",
+        "@I500434@",
+        "@I500435@",
+        "@I500436@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500150@",
+      "husband": "@I500429@",
+      "wife": "@I500444@",
+      "children": [
+        "@I500445@",
+        "@I500446@",
+        "@I500447@",
+        "@I500448@",
+        "@I500449@",
+        "@I500450@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500149@",
+      "husband": "@I500437@",
+      "wife": "@I500415@",
+      "children": [
+        "@I500441@",
+        "@I500442@",
+        "@I500443@",
+        "@I500419@",
+        "@I500420@",
+        "@I500421@",
+        "@I500422@",
+        "@I500423@",
+        "@I500424@",
+        "@I500425@",
+        "@I500426@",
+        "@I500427@",
+        "@I500428@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500152@",
+      "husband": "@I500462@",
+      "wife": "@I500463@",
+      "children": [
+        "@I500460@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500153@",
+      "husband": "@I500460@",
+      "wife": "@I500461@",
+      "children": [
+        "@I500172@",
+        "@I500464@",
+        "@I500465@",
+        "@I500466@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500154@",
+      "husband": "@I500470@",
+      "wife": "@I500417@",
+      "children": [
+        "@I500471@",
+        "@I500472@",
+        "@I500473@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500155@",
+      "husband": "@I500474@",
+      "wife": "@I500418@",
+      "children": [
+        "@I500475@",
+        "@I500476@",
+        "@I500477@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500156@",
+      "husband": "@I500478@",
+      "wife": "@I500471@",
+      "children": [
+        "@I500479@",
+        "@I500480@",
+        "@I500481@",
+        "@I500482@",
+        "@I500483@",
+        "@I500484@",
+        "@I500485@",
+        "@I500486@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500157@",
+      "husband": "@I500487@",
+      "wife": "@I500488@",
+      "children": [
+        "@I500470@",
+        "@I500489@",
+        "@I500490@",
+        "@I500491@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500158@",
+      "husband": "@I500492@",
+      "wife": "@I500493@",
+      "children": [
+        "@I500487@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500159@",
+      "husband": "@I500494@",
+      "wife": "@I500495@",
+      "children": [
+        "@I500478@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500128@",
+      "husband": "@I500322@",
+      "wife": null,
+      "children": [
+        "@I500323@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500160@",
+      "husband": "@I500497@",
+      "wife": "@I500498@",
+      "children": [
+        "@I500499@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500161@",
+      "husband": "@I500499@",
+      "wife": "@I500445@",
+      "children": [
+        "@I500500@",
+        "@I500501@",
+        "@I500502@",
+        "@I500503@",
+        "@I500504@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500162@",
+      "husband": "@I500500@",
+      "wife": "@I500505@",
+      "children": [
+        "@I500506@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500163@",
+      "husband": "@I500507@",
+      "wife": "@I500450@",
+      "children": [],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500164@",
+      "husband": "@I500508@",
+      "wife": "@I500509@",
+      "children": [
+        "@I500444@",
+        "@I500510@",
+        "@I500511@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500165@",
+      "husband": "@I500033@",
+      "wife": "@I500451@",
+      "children": [
+        "@I500452@",
+        "@I500453@",
+        "@I500454@",
+        "@I500455@",
+        "@I500456@",
+        "@I500457@",
+        "@I500458@",
+        "@I500459@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500166@",
+      "husband": "@I500512@",
+      "wife": "@I500521@",
+      "children": [
+        "@I500522@",
+        "@I500523@",
+        "@I500524@",
+        "@I500525@",
+        "@I500526@",
+        "@I500527@",
+        "@I500528@",
+        "@I500529@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500167@",
+      "husband": "@I500530@",
+      "wife": "@I500519@",
+      "children": [
+        "@I500531@",
+        "@I500532@",
+        "@I500533@",
+        "@I500534@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500168@",
+      "husband": "@I500535@",
+      "wife": "@I500517@",
+      "children": [
+        "@I500536@",
+        "@I500537@",
+        "@I500538@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500169@",
+      "husband": "@I500539@",
+      "wife": "@I500518@",
+      "children": [],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500170@",
+      "husband": "@I500540@",
+      "wife": "@I500516@",
+      "children": [
+        "@I500541@",
+        "@I500542@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500171@",
+      "husband": null,
+      "wife": "@I500520@",
+      "children": [
+        "@I500544@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500172@",
+      "husband": null,
+      "wife": null,
+      "children": [
+        "@I500554@",
+        "@I500555@",
+        "@I500556@",
+        "@I500557@",
+        "@I500558@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500173@",
+      "husband": null,
+      "wife": null,
+      "children": [
+        "@I500561@",
+        "@I500562@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500174@",
+      "husband": "@I500559@",
+      "wife": null,
+      "children": [
+        "@I500560@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500175@",
+      "husband": "@I500548@",
+      "wife": null,
+      "children": [
+        "@I500549@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500176@",
+      "husband": "@I500548@",
+      "wife": null,
+      "children": [
+        "@I500550@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500177@",
+      "husband": "@I500548@",
+      "wife": null,
+      "children": [
+        "@I500551@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500178@",
+      "husband": "@I500387@",
+      "wife": null,
+      "children": [
+        "@I500553@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500179@",
+      "husband": "@I500548@",
+      "wife": "@I500552@",
+      "children": [],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500180@",
+      "husband": null,
+      "wife": "@I500379@",
+      "children": [
+        "@I500554@",
+        "@I500555@",
+        "@I500556@",
+        "@I500557@",
+        "@I500558@",
+        "@I500559@",
+        "@I500560@",
+        "@I500561@",
+        "@I500562@",
+        "@I500563@",
+        "@I500564@",
+        "@I500565@",
+        "@I500567@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500181@",
+      "husband": null,
+      "wife": "@I500379@",
+      "children": [
+        "@I500554@",
+        "@I500555@",
+        "@I500556@",
+        "@I500557@",
+        "@I500558@",
+        "@I500559@",
+        "@I500560@",
+        "@I500561@",
+        "@I500562@",
+        "@I500563@",
+        "@I500564@",
+        "@I500565@",
+        "@I500566@",
+        "@I500567@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500182@",
+      "husband": "@I500568@",
+      "wife": "@I500569@",
+      "children": [
+        "@I500570@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500183@",
+      "husband": "@I500570@",
+      "wife": "@I500571@",
+      "children": [
+        "@I500572@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500184@",
+      "husband": "@I500574@",
+      "wife": "@I500575@",
+      "children": [
+        "@I500573@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500185@",
+      "husband": "@I500572@",
+      "wife": "@I500573@",
+      "children": [
+        "@I500530@",
+        "@I500576@",
+        "@I500577@",
+        "@I500578@",
+        "@I500579@",
+        "@I500580@",
+        "@I500581@",
+        "@I500582@",
+        "@I500583@",
+        "@I500584@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500186@",
+      "husband": "@I500533@",
+      "wife": "@I500585@",
+      "children": [
+        "@I500593@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500187@",
+      "husband": "@I500586@",
+      "wife": "@I500587@",
+      "children": [
+        "@I500585@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500188@",
+      "husband": "@I500533@",
+      "wife": "@I500585@",
+      "children": [
+        "@I500595@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500189@",
+      "husband": "@I500595@",
+      "wife": "@I500588@",
+      "children": [],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500190@",
+      "husband": "@I500534@",
+      "wife": "@I500589@",
+      "children": [
+        "@I500592@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500191@",
+      "husband": "@I500590@",
+      "wife": "@I500531@",
+      "children": [
+        "@I500591@"
+      ],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500192@",
+      "husband": "@I500594@",
+      "wife": "@I500514@",
+      "children": [],
+      "marriage": null,
+      "divorce": null
+    },
+    {
+      "id": "@F500193@",
+      "husband": "@I500600@",
+      "wife": "@I500601@",
+      "children": [
+        "@I500599@"
+      ],
+      "marriage": null,
+      "divorce": null
+    }
+  ],
+  "findings": [
+    {
+      "severity": "error",
+      "type": "parent-age",
+      "personId": "@I500048@",
+      "relatedId": "@I500119@",
+      "message": "María Manuela Maíllo Rodríguez tendría 9 años al nacer Agripina Maíllo Maíllo"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500010@",
+      "message": "Falta la fecha de nacimiento de Santiago Martínez Pérez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500016@",
+      "message": "Falta la fecha de nacimiento de Manuel Pérez Martínez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500017@",
+      "message": "Falta la fecha de nacimiento de Josefa González Fernández"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500021@",
+      "message": "Falta la fecha de nacimiento de Pérez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500028@",
+      "message": "Falta la fecha de nacimiento de Sara Pérez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500029@",
+      "message": "Falta la fecha de nacimiento de Nombre desconocido"
+    },
+    {
+      "severity": "info",
+      "type": "incomplete-name",
+      "personId": "@I500029@",
+      "message": "Nombre incompleto en @I500029@"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500031@",
+      "message": "Falta la fecha de nacimiento de Eduardo Peláez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500035@",
+      "message": "Falta la fecha de nacimiento de Emilio Rafael Sánchez González"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500036@",
+      "message": "Falta la fecha de nacimiento de Manuel Sánchez González"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500037@",
+      "message": "Falta la fecha de nacimiento de Juan González"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500038@",
+      "message": "Falta la fecha de nacimiento de Teresa de Jesús Eugenia Suárez-Casadoiro García"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500041@",
+      "message": "Falta la fecha de nacimiento de Juan Suárez-Casadoira"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500042@",
+      "message": "Falta la fecha de nacimiento de Luisa García"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500047@",
+      "message": "Falta la fecha de nacimiento de Ambrosio \"Ambrosino\" Martín Maíllo"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500051@",
+      "message": "Falta la fecha de nacimiento de Jacinto Campos Maíllo"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500052@",
+      "message": "Falta la fecha de nacimiento de Socorro Sánchez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500053@",
+      "message": "Falta la fecha de nacimiento de Fernando “el Sindo” Calama López"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500054@",
+      "message": "Falta la fecha de nacimiento de Ambrosia Calama Martín"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500055@",
+      "message": "Falta la fecha de nacimiento de Soeur et père à confirmer Campos"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500066@",
+      "message": "Falta la fecha de nacimiento de Ana Isabel Iglesias Carbajo"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500069@",
+      "message": "Falta la fecha de nacimiento de José Luis Iglesias Ballina"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500070@",
+      "message": "Falta la fecha de nacimiento de Isabel María Carbajo Acebal"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500071@",
+      "message": "Falta la fecha de nacimiento de José Luis Iglesias Carbajo"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500072@",
+      "message": "Falta la fecha de nacimiento de Natividad Ordóñez Fernández"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500073@",
+      "message": "Falta la fecha de nacimiento de Víctor Villoria Díaz"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500074@",
+      "message": "Falta la fecha de nacimiento de Juan Ignacio Villoria Ordóñez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500075@",
+      "message": "Falta la fecha de nacimiento de Carmen Villoria Iglesias"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500076@",
+      "message": "Falta la fecha de nacimiento de Begoña Iglesias de la Puente"
+    },
+    {
+      "severity": "info",
+      "type": "incomplete-name",
+      "personId": "@I500076@",
+      "message": "Nombre incompleto en @I500076@"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500080@",
+      "message": "Falta la fecha de nacimiento de Dolores Sierra Martínez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500081@",
+      "message": "Falta la fecha de nacimiento de Vicenta Sierra Martínez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500083@",
+      "message": "Falta la fecha de nacimiento de Carlos Manuel Sierra"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500084@",
+      "message": "Falta la fecha de nacimiento de María Pérez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500085@",
+      "message": "Falta la fecha de nacimiento de José Sierra"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500086@",
+      "message": "Falta la fecha de nacimiento de Petra"
+    },
+    {
+      "severity": "info",
+      "type": "incomplete-name",
+      "personId": "@I500086@",
+      "message": "Nombre incompleto en @I500086@"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500087@",
+      "message": "Falta la fecha de nacimiento de Francisco Martínez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500088@",
+      "message": "Falta la fecha de nacimiento de Rosa Cao"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500089@",
+      "message": "Falta la fecha de nacimiento de Carmen Martínez Cao"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500090@",
+      "message": "Falta la fecha de nacimiento de Modesto Martínez Cao"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500091@",
+      "message": "Falta la fecha de nacimiento de José Martínez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500092@",
+      "message": "Falta la fecha de nacimiento de Vicenta Veaz"
+    },
+    {
+      "severity": "info",
+      "type": "incomplete-name",
+      "personId": "@I500092@",
+      "message": "Nombre incompleto en @I500092@"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500093@",
+      "message": "Falta la fecha de nacimiento de Agustina Calama Martín"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500094@",
+      "message": "Falta la fecha de nacimiento de Mari Calama Martín"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500095@",
+      "message": "Falta la fecha de nacimiento de Azucena Calama Martín"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500098@",
+      "message": "Falta la fecha de nacimiento de Sebastián Herrera Puerto"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500099@",
+      "message": "Falta la fecha de nacimiento de María Lebrato Rodríguez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500100@",
+      "message": "Falta la fecha de nacimiento de Domingo Herrera Lobato"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500101@",
+      "message": "Falta la fecha de nacimiento de Antonia Herrera Lobato"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500103@",
+      "message": "Falta la fecha de nacimiento de Antonio Maíllo González"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500104@",
+      "message": "Falta la fecha de nacimiento de María Vicente Iglesias"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500105@",
+      "message": "Falta la fecha de nacimiento de José Maíllo Vicente"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500106@",
+      "message": "Falta la fecha de nacimiento de Francisco Maíllo Vicente"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500107@",
+      "message": "Falta la fecha de nacimiento de María Teresa López Cabrero"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500108@",
+      "message": "Falta la fecha de nacimiento de Maíllo"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500109@",
+      "message": "Falta la fecha de nacimiento de Catalina González"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500110@",
+      "message": "Falta la fecha de nacimiento de Francisca Maíllo González"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500112@",
+      "message": "Falta la fecha de nacimiento de María Jesús Maíllo"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500113@",
+      "message": "Falta la fecha de nacimiento de Juan Manuel \"Porrata\" Martín Maíllo"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500114@",
+      "message": "Falta la fecha de nacimiento de Ramona Martín Maíllo"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500115@",
+      "message": "Falta la fecha de nacimiento de Domingo Martín"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500116@",
+      "message": "Falta la fecha de nacimiento de Isabel Sánchez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500117@",
+      "message": "Falta la fecha de nacimiento de Isabel Martín Sánchez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500118@",
+      "message": "Falta la fecha de nacimiento de Jerónimo Maíllo Losada"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500120@",
+      "message": "Falta la fecha de nacimiento de Jerónima Losada"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500123@",
+      "message": "Falta la fecha de nacimiento de Manuel Martínez García"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500124@",
+      "message": "Falta la fecha de nacimiento de Esco Martínez García"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500125@",
+      "message": "Falta la fecha de nacimiento de María Teresa Martínez García"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500126@",
+      "message": "Falta la fecha de nacimiento de Andrea Martínez García"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500127@",
+      "message": "Falta la fecha de nacimiento de María Jesús Martínez García"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500128@",
+      "message": "Falta la fecha de nacimiento de María del Carmen Martínez García"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500133@",
+      "message": "Falta la fecha de nacimiento de Escolástica Martínez Ruiz"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500134@",
+      "message": "Falta la fecha de nacimiento de Jaime Martínez Ruiz"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500135@",
+      "message": "Falta la fecha de nacimiento de Anselmo Martínez Ruiz"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500136@",
+      "message": "Falta la fecha de nacimiento de Felisa Martínez Ruiz"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500137@",
+      "message": "Falta la fecha de nacimiento de Nombre desconocido"
+    },
+    {
+      "severity": "info",
+      "type": "incomplete-name",
+      "personId": "@I500137@",
+      "message": "Nombre incompleto en @I500137@"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500140@",
+      "message": "Falta la fecha de nacimiento de Gregoria Estébanez Mata"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500141@",
+      "message": "Falta la fecha de nacimiento de Pedro Martínez Estébanez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500142@",
+      "message": "Falta la fecha de nacimiento de Lorenzo Martínez Estébanez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500143@",
+      "message": "Falta la fecha de nacimiento de Juan Martínez Estébanez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500144@",
+      "message": "Falta la fecha de nacimiento de María Brabo"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500145@",
+      "message": "Falta la fecha de nacimiento de Lucía Gutiérrez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500146@",
+      "message": "Falta la fecha de nacimiento de Nicolás García"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500147@",
+      "message": "Falta la fecha de nacimiento de Andrea García"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500148@",
+      "message": "Falta la fecha de nacimiento de Artemio Pérez Sánchez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500149@",
+      "message": "Falta la fecha de nacimiento de Sagrario Pérez Sánchez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500151@",
+      "message": "Falta la fecha de nacimiento de Rosa Méndez-Trelles y González-Trelles"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500153@",
+      "message": "Falta la fecha de nacimiento de Felipa Díaz Casariego"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500154@",
+      "message": "Falta la fecha de nacimiento de Pelayo Antonio Méndez-Trelles y Morán"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500155@",
+      "message": "Falta la fecha de nacimiento de María Rosa González-Trelles"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500157@",
+      "message": "Falta la fecha de nacimiento de Ana Méndez-Infanzón Trelles"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500158@",
+      "message": "Falta la fecha de nacimiento de Salvador Sánchez de Ron y Rodil"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500159@",
+      "message": "Falta la fecha de nacimiento de Dominga Díaz Lantoria Villamil"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500160@",
+      "message": "Falta la fecha de nacimiento de Alonso García-Infanzón Fernández"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500161@",
+      "message": "Falta la fecha de nacimiento de Antonia López de Folgueras"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500165@",
+      "message": "Falta la fecha de nacimiento de Bernarda Fernández"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500166@",
+      "message": "Falta la fecha de nacimiento de Domingo González García"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500167@",
+      "message": "Falta la fecha de nacimiento de Isabel Fernández-Chambergo Fernández"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500168@",
+      "message": "Falta la fecha de nacimiento de Nombre desconocido"
+    },
+    {
+      "severity": "info",
+      "type": "incomplete-name",
+      "personId": "@I500168@",
+      "message": "Nombre incompleto en @I500168@"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500169@",
+      "message": "Falta la fecha de nacimiento de Diego González de Oneta Méndez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500170@",
+      "message": "Falta la fecha de nacimiento de Dominga García San Pelayo"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500171@",
+      "message": "Falta la fecha de nacimiento de Pedro Fernández-Chambergo"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500174@",
+      "message": "Falta la fecha de nacimiento de Gregorio Estébanez"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500176@",
+      "message": "Falta la fecha de nacimiento de Agustina"
+    },
+    {
+      "severity": "info",
+      "type": "incomplete-name",
+      "personId": "@I500176@",
+      "message": "Nombre incompleto en @I500176@"
+    },
+    {
+      "severity": "info",
+      "type": "missing-birth",
+      "personId": "@I500177@",
+      "message": "Falta la fecha de nacimiento de Valentín Mata"
+    }
+  ],
+  "duplicateGroups": [
+    [
+      {
+        "id": "@I500029@",
+        "name": "Nombre desconocido",
+        "birth": null
+      },
+      {
+        "id": "@I500076@",
+        "name": "Nombre desconocido",
+        "birth": null
+      },
+      {
+        "id": "@I500137@",
+        "name": "Nombre desconocido",
+        "birth": null
+      },
+      {
+        "id": "@I500168@",
+        "name": "Nombre desconocido",
+        "birth": null
+      }
+    ],
+    [
+      {
+        "id": "@I500162@",
+        "name": "José Antonio González Fernández",
+        "birth": {
+          "date": "FEB 1743",
+          "place": "Armental"
+        }
+      },
+      {
+        "id": "@I500164@",
+        "name": "José Antonio González Fernández",
+        "birth": {
+          "date": "28 NOV 1728",
+          "place": "Armental"
+        }
+      }
+    ]
+  ]
+};
