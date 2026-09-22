@@ -274,6 +274,7 @@ input[type="search"]:focus { border-color: var(--gold); box-shadow: 0 0 0 3px rg
 .zoom-button { min-width: 36px; font-size: 1rem; }
 .tree-canvas { position: relative; overflow: hidden; padding: 0; cursor: grab; touch-action: none; background-image: radial-gradient(rgba(23,58,75,.11) .8px, transparent .8px); background-size: 22px 22px; }
 .tree-canvas.is-dragging { cursor: grabbing; }
+.tree-canvas, .tree-canvas * { touch-action: none; }
 .tree-scene { position: absolute; left: 0; top: 0; transform-origin: 0 0; will-change: transform; }
 .decade-band { position: absolute; z-index: 0; left: 0; right: 0; border-top: 1px solid rgba(23,58,75,.1); background: rgba(255,255,255,.1); pointer-events: none; }
 .decade-band.alternate { background: rgba(23,58,75,.025); }
@@ -420,4 +421,5 @@ button:focus-visible, summary:focus-visible, select:focus-visible, .tree-canvas:
   .canvas-context,
   .canvas-help { display: none; }
   #view-tree .tree-canvas { min-height: 0; }
+  #view-tree .tree-canvas, #view-tree .tree-canvas * { -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; }
 }

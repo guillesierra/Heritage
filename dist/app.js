@@ -940,68 +940,101 @@
   const canvas = $('#treeCanvas');
   canvas.addEventListener('wheel', (event) => { event.preventDefault(); zoomBy(event.deltaY < 0 ? 1.12 : 1 / 1.12, event.clientX, event.clientY); }, { passive: false });
 
-  const pointers = new Map();
+  let drag = null;
   let pinch = null;
-  const dragState = (pointer) => ({ startX: pointer.x, startY: pointer.y, x: state.viewport.x, y: state.viewport.y });
+  let gestureType = null;
+  let lastTouchTime = 0;
 
-  canvas.addEventListener('pointerdown', (event) => {
+  const dragState = (x, y) => ({ startX: x, startY: y, x: state.viewport.x, y: state.viewport.y });
+
+  function startDrag(x, y) {
+    drag = dragState(x, y);
+    pinch = null;
+    canvas.classList.add('is-dragging');
+  }
+  function startPinch(aX, aY, bX, bY) {
+    drag = null;
+    canvas.classList.remove('is-dragging');
+    const rect = canvas.getBoundingClientRect();
+    const midX = (aX + bX) / 2 - rect.left;
+    const midY = (aY + bY) / 2 - rect.top;
+    pinch = {
+      startDistance: Math.hypot(bX - aX, bY - aY),
+      startScale: state.viewport.scale,
+      sceneX: (midX - state.viewport.x) / state.viewport.scale,
+      sceneY: (midY - state.viewport.y) / state.viewport.scale,
+    };
+  }
+  function moveDrag(x, y) {
+    if (!drag) return;
+    state.viewport.x = drag.x + x - drag.startX;
+    state.viewport.y = drag.y + y - drag.startY;
+    applyViewport();
+  }
+  function movePinch(aX, aY, bX, bY) {
+    if (!pinch) return;
+    const rect = canvas.getBoundingClientRect();
+    const distance = Math.hypot(bX - aX, bY - aY);
+    const scale = Math.min(1.7, Math.max(0.02, pinch.startScale * (distance / pinch.startDistance)));
+    const midX = (aX + bX) / 2 - rect.left;
+    const midY = (aY + bY) / 2 - rect.top;
+    state.viewport.scale = scale;
+    state.viewport.x = midX - pinch.sceneX * scale;
+    state.viewport.y = midY - pinch.sceneY * scale;
+    applyViewport();
+  }
+  function endGesture() {
+    drag = null;
+    pinch = null;
+    gestureType = null;
+    canvas.classList.remove('is-dragging');
+  }
+
+  canvas.addEventListener('touchstart', (event) => {
+    lastTouchTime = Date.now();
     if (event.target.closest('[data-person]')) return;
-    canvas.setPointerCapture(event.pointerId);
-    pointers.set(event.pointerId, { x: event.clientX, y: event.clientY });
-    if (pointers.size === 1) {
-      state.drag = dragState([...pointers.values()][0]);
-      canvas.classList.add('is-dragging');
-    } else if (pointers.size === 2) {
-      state.drag = null;
-      canvas.classList.remove('is-dragging');
-      const [a, b] = [...pointers.values()];
-      const rect = canvas.getBoundingClientRect();
-      const midX = (a.x + b.x) / 2 - rect.left;
-      const midY = (a.y + b.y) / 2 - rect.top;
-      pinch = {
-        startDistance: Math.hypot(b.x - a.x, b.y - a.y),
-        startScale: state.viewport.scale,
-        sceneX: (midX - state.viewport.x) / state.viewport.scale,
-        sceneY: (midY - state.viewport.y) / state.viewport.scale,
-      };
-    }
-  });
+    gestureType = 'touch';
+    const touches = event.touches;
+    if (touches.length === 1) startDrag(touches[0].clientX, touches[0].clientY);
+    else if (touches.length >= 2) startPinch(touches[0].clientX, touches[0].clientY, touches[1].clientX, touches[1].clientY);
+  }, { passive: true });
 
-  canvas.addEventListener('pointermove', (event) => {
-    if (!pointers.has(event.pointerId)) return;
-    pointers.set(event.pointerId, { x: event.clientX, y: event.clientY });
-    if (pointers.size === 1 && state.drag) {
-      const [pointer] = [...pointers.values()];
-      state.viewport.x = state.drag.x + pointer.x - state.drag.startX;
-      state.viewport.y = state.drag.y + pointer.y - state.drag.startY;
-      applyViewport();
-    } else if (pointers.size === 2 && pinch) {
-      const [a, b] = [...pointers.values()];
-      const rect = canvas.getBoundingClientRect();
-      const distance = Math.hypot(b.x - a.x, b.y - a.y);
-      const scale = Math.min(1.7, Math.max(0.02, pinch.startScale * (distance / pinch.startDistance)));
-      const midX = (a.x + b.x) / 2 - rect.left;
-      const midY = (a.y + b.y) / 2 - rect.top;
-      state.viewport.scale = scale;
-      state.viewport.x = midX - pinch.sceneX * scale;
-      state.viewport.y = midY - pinch.sceneY * scale;
-      applyViewport();
+  canvas.addEventListener('touchmove', (event) => {
+    lastTouchTime = Date.now();
+    if (gestureType !== 'touch') return;
+    const touches = event.touches;
+    if (touches.length === 1) {
+      event.preventDefault();
+      moveDrag(touches[0].clientX, touches[0].clientY);
+    } else if (touches.length >= 2) {
+      event.preventDefault();
+      movePinch(touches[0].clientX, touches[0].clientY, touches[1].clientX, touches[1].clientY);
     }
-  });
+  }, { passive: false });
 
-  const endPointer = (event) => {
-    pointers.delete(event.pointerId);
-    if (pointers.size < 2) pinch = null;
-    if (pointers.size === 0) {
-      state.drag = null;
-      canvas.classList.remove('is-dragging');
-    } else if (pointers.size === 1) {
-      state.drag = dragState([...pointers.values()][0]);
-      canvas.classList.add('is-dragging');
-    }
+  const touchEnd = (event) => {
+    lastTouchTime = Date.now();
+    if (gestureType !== 'touch') return;
+    const touches = event.touches;
+    if (touches.length === 0) endGesture();
+    else if (touches.length === 1) startDrag(touches[0].clientX, touches[0].clientY);
+    else startPinch(touches[0].clientX, touches[0].clientY, touches[1].clientX, touches[1].clientY);
   };
-  canvas.addEventListener('pointerup', endPointer);
-  canvas.addEventListener('pointercancel', endPointer);
+  canvas.addEventListener('touchend', touchEnd);
+  canvas.addEventListener('touchcancel', touchEnd);
+
+  canvas.addEventListener('mousedown', (event) => {
+    if (Date.now() - lastTouchTime < 500) return;
+    if (event.button !== 0) return;
+    if (event.target.closest('[data-person]')) return;
+    gestureType = 'mouse';
+    startDrag(event.clientX, event.clientY);
+  });
+  window.addEventListener('mousemove', (event) => {
+    if (gestureType !== 'mouse') return;
+    moveDrag(event.clientX, event.clientY);
+  });
+  window.addEventListener('mouseup', () => { if (gestureType === 'mouse') endGesture(); });
   canvas.addEventListener('keydown', (event) => {
     if (event.key === '+' || event.key === '=') { event.preventDefault(); zoomBy(1.2); }
     if (event.key === '-') { event.preventDefault(); zoomBy(1 / 1.2); }
