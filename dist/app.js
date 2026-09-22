@@ -939,11 +939,69 @@
   });
   const canvas = $('#treeCanvas');
   canvas.addEventListener('wheel', (event) => { event.preventDefault(); zoomBy(event.deltaY < 0 ? 1.12 : 1 / 1.12, event.clientX, event.clientY); }, { passive: false });
-  canvas.addEventListener('pointerdown', (event) => { if (event.target.closest('[data-person]')) return; state.drag = { startX: event.clientX, startY: event.clientY, x: state.viewport.x, y: state.viewport.y }; canvas.setPointerCapture(event.pointerId); canvas.classList.add('is-dragging'); });
-  canvas.addEventListener('pointermove', (event) => { if (!state.drag) return; state.viewport.x = state.drag.x + event.clientX - state.drag.startX; state.viewport.y = state.drag.y + event.clientY - state.drag.startY; applyViewport(); });
-  const stopDrag = () => { state.drag = null; canvas.classList.remove('is-dragging'); };
-  canvas.addEventListener('pointerup', stopDrag);
-  canvas.addEventListener('pointercancel', stopDrag);
+
+  const pointers = new Map();
+  let pinch = null;
+  const dragState = (pointer) => ({ startX: pointer.x, startY: pointer.y, x: state.viewport.x, y: state.viewport.y });
+
+  canvas.addEventListener('pointerdown', (event) => {
+    if (event.target.closest('[data-person]')) return;
+    canvas.setPointerCapture(event.pointerId);
+    pointers.set(event.pointerId, { x: event.clientX, y: event.clientY });
+    if (pointers.size === 1) {
+      state.drag = dragState([...pointers.values()][0]);
+      canvas.classList.add('is-dragging');
+    } else if (pointers.size === 2) {
+      state.drag = null;
+      canvas.classList.remove('is-dragging');
+      const [a, b] = [...pointers.values()];
+      const rect = canvas.getBoundingClientRect();
+      const midX = (a.x + b.x) / 2 - rect.left;
+      const midY = (a.y + b.y) / 2 - rect.top;
+      pinch = {
+        startDistance: Math.hypot(b.x - a.x, b.y - a.y),
+        startScale: state.viewport.scale,
+        sceneX: (midX - state.viewport.x) / state.viewport.scale,
+        sceneY: (midY - state.viewport.y) / state.viewport.scale,
+      };
+    }
+  });
+
+  canvas.addEventListener('pointermove', (event) => {
+    if (!pointers.has(event.pointerId)) return;
+    pointers.set(event.pointerId, { x: event.clientX, y: event.clientY });
+    if (pointers.size === 1 && state.drag) {
+      const [pointer] = [...pointers.values()];
+      state.viewport.x = state.drag.x + pointer.x - state.drag.startX;
+      state.viewport.y = state.drag.y + pointer.y - state.drag.startY;
+      applyViewport();
+    } else if (pointers.size === 2 && pinch) {
+      const [a, b] = [...pointers.values()];
+      const rect = canvas.getBoundingClientRect();
+      const distance = Math.hypot(b.x - a.x, b.y - a.y);
+      const scale = Math.min(1.7, Math.max(0.02, pinch.startScale * (distance / pinch.startDistance)));
+      const midX = (a.x + b.x) / 2 - rect.left;
+      const midY = (a.y + b.y) / 2 - rect.top;
+      state.viewport.scale = scale;
+      state.viewport.x = midX - pinch.sceneX * scale;
+      state.viewport.y = midY - pinch.sceneY * scale;
+      applyViewport();
+    }
+  });
+
+  const endPointer = (event) => {
+    pointers.delete(event.pointerId);
+    if (pointers.size < 2) pinch = null;
+    if (pointers.size === 0) {
+      state.drag = null;
+      canvas.classList.remove('is-dragging');
+    } else if (pointers.size === 1) {
+      state.drag = dragState([...pointers.values()][0]);
+      canvas.classList.add('is-dragging');
+    }
+  };
+  canvas.addEventListener('pointerup', endPointer);
+  canvas.addEventListener('pointercancel', endPointer);
   canvas.addEventListener('keydown', (event) => {
     if (event.key === '+' || event.key === '=') { event.preventDefault(); zoomBy(1.2); }
     if (event.key === '-') { event.preventDefault(); zoomBy(1 / 1.2); }

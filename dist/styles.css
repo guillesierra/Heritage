@@ -402,3 +402,22 @@ button:focus-visible, summary:focus-visible, select:focus-visible, .tree-canvas:
   .identity-fields, .edit-grid { grid-template-columns: 1fr; }
   .person-edit-form { padding: 26px 22px; }
 }
+
+/* Mobile: only the tree, full screen, touch navigation */
+@media (max-width: 760px) {
+  .topbar { display: none; }
+  #view-tree.is-active {
+    position: fixed;
+    inset: 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    height: 100dvh;
+  }
+  #view-tree .sidebar,
+  #view-tree .sidebar-toggle { display: none; }
+  #view-tree .tree-workspace { grid-column: 1; }
+  .workspace-toolbar,
+  .canvas-context,
+  .canvas-help { display: none; }
+  #view-tree .tree-canvas { min-height: 0; }
+}
